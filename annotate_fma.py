@@ -1,19 +1,28 @@
 from __future__ import annotations
 
 import argparse
+import ast
 import base64
-import csv
 import json
 import sys
 import time
 from pathlib import Path
 from typing import Any
 
+import pandas as pd
 import ollama
 
 
+# ============================================================
+# CONFIGURATION
+# ============================================================
+
 MODEL = "gemma4:e4b"
 
+
+# ============================================================
+# LLM PROMPT
+# ============================================================
 
 SYSTEM_PROMPT = """
 You are a music analysis assistant helping create a dataset for
@@ -25,7 +34,7 @@ You will receive:
 
 Analyze the song using BOTH sources.
 
-Your job is to produce a structured semantic description that can later
+Your goal is to produce a structured semantic description that can later
 be used as conditioning data for a text-only lyric generation model.
 
 Return ONLY valid JSON.
@@ -49,7 +58,7 @@ Rules:
 
 - Do not invent concrete facts that cannot reasonably be inferred.
 - Prefer semantic concepts over exact wording.
-- Do not copy distinctive lyric phrases.
+- Do not reproduce lyrics or distinctive lyric phrases.
 - "genre" should describe the musical genre/style.
 - "mood" should describe emotional qualities.
 - "themes" should describe conceptual topics.
@@ -60,29 +69,311 @@ Rules:
   relationships, conflicts, or perspectives suggested by the song.
 - "keywords" should be short semantic concepts, not quotations.
 - "song_structure" should contain likely section labels when
-  reasonably inferable, e.g. ["verse", "chorus", "verse", "chorus"].
+  reasonably inferable.
 - "description" should be a concise overall description.
 - "lyric_generation_prompt" should sound like a realistic user request
-  for a lyric-generation system. It should describe the semantic and
-  stylistic characteristics of the song without copying lyrics.
+  for a lyric-generation system.
+
+The generated lyric-generation prompt should describe the semantic
+and stylistic characteristics of the song without copying lyrics.
 """
 
 
+# ============================================================
+# AUDIO
+# ============================================================
+
 def audio_to_base64(audio_path: Path) -> str:
+    """
+    Read an audio file and convert it to base64.
+
+    Ollama's multimodal API receives the audio data encoded as base64.
+    """
+
     with audio_path.open("rb") as f:
         return base64.b64encode(f.read()).decode("utf-8")
 
 
-def build_user_prompt(metadata: dict[str, Any]) -> str:
+# ============================================================
+# METADATA
+# ============================================================
+
+def parse_list(value: Any) -> list:
+    """
+    FMA stores some metadata fields such as genres/tags as strings
+    representing Python lists.
+
+    Example:
+        "['Hip-Hop', 'Electronic']"
+
+    This converts them into actual Python lists.
+    """
+
+    if value is None:
+        return []
+
+    if isinstance(value, list):
+        return value
+
+    if isinstance(value, float) and pd.isna(value):
+        return []
+
+    if not isinstance(value, str):
+        return [value]
+
+    value = value.strip()
+
+    if not value:
+        return []
+
+    try:
+        parsed = ast.literal_eval(value)
+
+        if isinstance(parsed, list):
+            return parsed
+
+        return [parsed]
+
+    except (ValueError, SyntaxError):
+        return [value]
+
+def make_json_serializable(value: Any) -> Any:
+    """
+    Convert Pandas/Numpy values into normal Python values that
+    json.dumps() can serialize.
+
+    This recursively handles dictionaries and lists.
+    """
+
+    # Handle dictionaries
+    if isinstance(value, dict):
+        return {
+            str(key): make_json_serializable(val)
+            for key, val in value.items()
+        }
+
+    # Handle lists / tuples
+    if isinstance(value, (list, tuple)):
+        return [
+            make_json_serializable(item)
+            for item in value
+        ]
+
+    # Handle Pandas/Numpy scalar types
+    if hasattr(value, "item"):
+        try:
+            return value.item()
+        except (ValueError, AttributeError):
+            pass
+
+    # Handle NaN / None
+    try:
+        if pd.isna(value):
+            return None
+    except (TypeError, ValueError):
+        pass
+
+    return value
+
+def load_fma_metadata(metadata_path: Path) -> pd.DataFrame:
+    """
+    Load the official FMA tracks.csv file.
+
+    FMA tracks.csv uses a two-level column structure.
+    """
+
+    print(f"Loading metadata from: {metadata_path}")
+
+    tracks = pd.read_csv(
+        metadata_path,
+        index_col=0,
+        header=[0, 1],
+    )
+
+    print(f"Loaded {len(tracks)} metadata rows.")
+
+    return tracks
+
+
+def extract_track_metadata(
+    tracks: pd.DataFrame,
+    track_id: int,
+) -> dict[str, Any]:
+    """
+    Extract only the metadata that is useful to our LLM.
+
+    We deliberately do NOT send every FMA column to the model.
+    """
+
+    row = tracks.loc[track_id]
+
+    metadata = {}
+
+    # --------------------------------------------------------
+    # Basic track information
+    # --------------------------------------------------------
+
+    metadata["track_id"] = int(track_id)
+
+    for field in [
+        "title",
+        "genre_top",
+        "genres",
+        "genres_all",
+        "tags",
+        "duration",
+        "language_code",
+    ]:
+
+        key = ("track", field)
+
+        if key in tracks.columns:
+
+            value = row[key]
+
+            if field in ["genres", "genres_all", "tags"]:
+                value = parse_list(value)
+
+            elif pd.isna(value):
+                value = None
+
+            metadata[field] = value
+
+    # --------------------------------------------------------
+    # Artist information
+    # --------------------------------------------------------
+
+    for field in [
+        "name",
+        "location",
+        "bio",
+        "tags",
+    ]:
+
+        key = ("artist", field)
+
+        if key in tracks.columns:
+
+            value = row[key]
+
+            if field == "tags":
+                value = parse_list(value)
+
+            elif pd.isna(value):
+                value = None
+
+            metadata[f"artist_{field}"] = value
+
+    # --------------------------------------------------------
+    # Album information
+    # --------------------------------------------------------
+
+    for field in [
+        "title",
+        "tags",
+    ]:
+
+        key = ("album", field)
+
+        if key in tracks.columns:
+
+            value = row[key]
+
+            if field == "tags":
+                value = parse_list(value)
+
+            elif pd.isna(value):
+                value = None
+
+            metadata[f"album_{field}"] = value
+
+    return make_json_serializable(metadata)
+
+
+# ============================================================
+# AUDIO PATH
+# ============================================================
+
+def find_audio_file(
+    audio_root: Path,
+    track_id: int,
+) -> Path | None:
+    """
+    Locate an FMA audio file.
+
+    FMA normally stores track 123 as:
+
+        000/000123.mp3
+
+    and track 12345 as:
+
+        012/012345.mp3
+    """
+
+    track_string = str(track_id).zfill(6)
+
+    directory = track_string[:3]
+
+    for extension in [
+        ".mp3",
+        ".wav",
+        ".flac",
+        ".m4a",
+        ".ogg",
+    ]:
+
+        candidate = (
+            audio_root
+            / directory
+            / f"{track_string}{extension}"
+        )
+
+        if candidate.exists():
+            return candidate
+
+    return None
+
+
+# ============================================================
+# LLM
+# ============================================================
+
+def build_user_prompt(
+    metadata: dict[str, Any],
+) -> str:
+
     return f"""
-Analyze this song using the supplied audio and metadata.
+Analyze this song using BOTH the supplied audio and metadata.
 
 Song metadata:
 
-{json.dumps(metadata, indent=2, ensure_ascii=False)}
+{json.dumps(
+    metadata,
+    indent=2,
+    ensure_ascii=False,
+)}
 
-Return the JSON object described in the system instructions.
+Return ONLY the JSON object described in the system instructions.
 """
+
+
+def clean_json_response(raw: str) -> str:
+    """
+    Remove Markdown code fences if the model adds them.
+    """
+
+    raw = raw.strip()
+
+    if raw.startswith("```json"):
+        raw = raw[len("```json"):].strip()
+
+    elif raw.startswith("```"):
+        raw = raw[len("```"):].strip()
+
+    if raw.endswith("```"):
+        raw = raw[:-3].strip()
+
+    return raw
 
 
 def analyze_song(
@@ -91,27 +382,46 @@ def analyze_song(
     retries: int = 2,
 ) -> dict[str, Any]:
 
+    print("    Encoding audio...")
+
     audio_b64 = audio_to_base64(audio_path)
+
     user_prompt = build_user_prompt(metadata)
 
-    last_error: Exception | None = None
+    last_error = None
 
     for attempt in range(retries + 1):
+
         try:
+
+            print(
+                f"    Sending to {MODEL} "
+                f"(attempt {attempt + 1})..."
+            )
+
             response = ollama.chat(
+
                 model=MODEL,
+
                 messages=[
+
                     {
                         "role": "system",
                         "content": SYSTEM_PROMPT,
                     },
+
                     {
                         "role": "user",
                         "content": user_prompt,
+
+                        # Audio is supplied here.
                         "images": [audio_b64],
                     },
                 ],
+
+                # Important for Gemma 4 audio experiments.
                 think=False,
+
                 options={
                     "temperature": 0.2,
                     "top_p": 0.95,
@@ -121,29 +431,34 @@ def analyze_song(
 
             raw = response.message.content.strip()
 
-            # Occasionally models wrap JSON in markdown fences.
-            if raw.startswith("```"):
-                raw = raw.replace("```json", "", 1)
-                raw = raw.replace("```", "", 1)
-                raw = raw.strip()
+            raw = clean_json_response(raw)
 
             result = json.loads(raw)
 
             if not isinstance(result, dict):
-                raise ValueError("Model returned JSON but not an object.")
+                raise ValueError(
+                    "Model returned JSON but not a JSON object."
+                )
 
             return result
 
         except Exception as exc:
+
             last_error = exc
 
+            print(
+                f"    ERROR: {exc}",
+                file=sys.stderr,
+            )
+
             if attempt < retries:
+
                 wait_seconds = 2 ** attempt
+
                 print(
-                    f"  retry {attempt + 1}/{retries} "
-                    f"after error: {exc}",
-                    file=sys.stderr,
+                    f"    Retrying in {wait_seconds}s..."
                 )
+
                 time.sleep(wait_seconds)
 
     raise RuntimeError(
@@ -151,122 +466,59 @@ def analyze_song(
     )
 
 
-def load_existing_ids(output_path: Path) -> set[str]:
+# ============================================================
+# RESUME SUPPORT
+# ============================================================
+
+def load_existing_ids(
+    output_path: Path,
+) -> set[int]:
     """
-    Read completed track IDs so the script can resume after interruption.
+    Read already processed track IDs.
+
+    This allows the program to resume if it is interrupted.
     """
-    completed: set[str] = set()
+
+    completed = set()
 
     if not output_path.exists():
         return completed
 
-    with output_path.open("r", encoding="utf-8") as f:
+    with output_path.open(
+        "r",
+        encoding="utf-8",
+    ) as f:
+
         for line in f:
+
             line = line.strip()
 
             if not line:
                 continue
 
             try:
+
                 record = json.loads(line)
+
                 track_id = record.get("track_id")
 
                 if track_id is not None:
-                    completed.add(str(track_id))
+                    completed.add(int(track_id))
 
-            except json.JSONDecodeError:
-                # Ignore a damaged final line rather than killing the run.
+            except (
+                json.JSONDecodeError,
+                ValueError,
+            ):
+
+                # Ignore malformed lines.
                 continue
 
     return completed
 
 
-def find_audio_file(
-    audio_root: Path,
-    track_id: str,
-) -> Path | None:
-    """
-    FMA commonly stores tracks in three-digit directories.
-
-    Example:
-        track 2 -> 000/000002.mp3
-
-    We first try that exact layout, then fall back to a recursive search.
-    """
-
-    numeric_id = str(track_id).zfill(6)
-
-    candidates = [
-        audio_root / numeric_id[:3] / f"{numeric_id}.mp3",
-        audio_root / numeric_id[:3] / f"{numeric_id}.wav",
-        audio_root / numeric_id[:3] / f"{numeric_id}.flac",
-    ]
-
-    for candidate in candidates:
-        if candidate.exists():
-            return candidate
-
-    # Fallback for custom directory layouts.
-    for extension in ("mp3", "wav", "flac", "m4a", "ogg"):
-        matches = list(audio_root.rglob(f"{numeric_id}.{extension}"))
-
-        if matches:
-            return matches[0]
-
-    return None
-
-
-def load_metadata(metadata_path: Path) -> list[dict[str, Any]]:
-    """
-    Load a CSV metadata file.
-
-    This assumes the first row is a header and that one column contains
-    the track ID. We'll make this more FMA-specific once we see your
-    actual file.
-    """
-
-    rows: list[dict[str, Any]] = []
-
-    with metadata_path.open("r", encoding="utf-8-sig", newline="") as f:
-        reader = csv.DictReader(f)
-
-        if reader.fieldnames is None:
-            raise ValueError("Metadata CSV has no header.")
-
-        # Try common track ID names.
-        possible_id_columns = [
-            "track_id",
-            "track",
-            "id",
-            "trackid",
-        ]
-
-        id_column = next(
-            (
-                column
-                for column in possible_id_columns
-                if column in reader.fieldnames
-            ),
-            None,
-        )
-
-        if id_column is None:
-            raise ValueError(
-                "Could not identify track ID column. "
-                f"Available columns: {reader.fieldnames}"
-            )
-
-        for row in reader:
-            track_id = row.get(id_column)
-
-            if not track_id:
-                continue
-
-            row["_track_id"] = str(track_id).strip()
-            rows.append(row)
-
-    return rows
-
+# ============================================================
+# DATASET PROCESSING
+# ============================================================
 
 def process_dataset(
     audio_root: Path,
@@ -275,116 +527,210 @@ def process_dataset(
     limit: int | None = None,
 ) -> None:
 
-    metadata_rows = load_metadata(metadata_path)
+    # --------------------------------------------------------
+    # Load FMA metadata
+    # --------------------------------------------------------
+
+    tracks = load_fma_metadata(metadata_path)
+
+    # --------------------------------------------------------
+    # Resume support
+    # --------------------------------------------------------
+
     completed_ids = load_existing_ids(output_path)
 
-    print(f"Metadata rows: {len(metadata_rows)}")
-    print(f"Already completed: {len(completed_ids)}")
+    print(
+        f"Already processed: {len(completed_ids)} tracks."
+    )
 
-    output_path.parent.mkdir(parents=True, exist_ok=True)
+    # --------------------------------------------------------
+    # Prepare output
+    # --------------------------------------------------------
 
-    processed_this_run = 0
+    output_path.parent.mkdir(
+        parents=True,
+        exist_ok=True,
+    )
 
-    with output_path.open("a", encoding="utf-8") as out:
+    processed = 0
 
-        for row in metadata_rows:
+    # --------------------------------------------------------
+    # Process tracks
+    # --------------------------------------------------------
 
-            track_id = str(row["_track_id"])
+    with output_path.open(
+        "a",
+        encoding="utf-8",
+    ) as output_file:
 
+        for track_id in tracks.index:
+
+            track_id = int(track_id)
+
+            # Skip tracks already processed.
             if track_id in completed_ids:
                 continue
 
-            if limit is not None and processed_this_run >= limit:
+            # Respect test limit.
+            if (
+                limit is not None
+                and processed >= limit
+            ):
                 break
 
-            audio_path = find_audio_file(audio_root, track_id)
+            # ------------------------------------------------
+            # Find audio
+            # ------------------------------------------------
 
-            if audio_path is None:
-                print(
-                    f"[SKIP] No audio found for track {track_id}",
-                    file=sys.stderr,
-                )
-                continue
-
-            metadata = {
-                key: value
-                for key, value in row.items()
-                if key != "_track_id"
-            }
-
-            print(
-                f"[{processed_this_run + 1}] "
-                f"Processing track {track_id}: {audio_path}"
+            audio_path = find_audio_file(
+                audio_root,
+                track_id,
             )
 
+            if audio_path is None:
+
+                print(
+                    f"[SKIP] Audio not found for "
+                    f"track {track_id}"
+                )
+
+                continue
+
+            # ------------------------------------------------
+            # Extract metadata
+            # ------------------------------------------------
+
+            metadata = extract_track_metadata(
+                tracks,
+                track_id,
+            )
+
+            print()
+            print("=" * 70)
+            print(
+                f"[{processed + 1}] "
+                f"Track {track_id}"
+            )
+            print(
+                f"    Audio: {audio_path}"
+            )
+            print(
+                f"    Title: "
+                f"{metadata.get('title')}"
+            )
+            print(
+                f"    Genre: "
+                f"{metadata.get('genre_top')}"
+            )
+
+            # ------------------------------------------------
+            # Ask LLM
+            # ------------------------------------------------
+
             try:
+
                 analysis = analyze_song(
                     audio_path=audio_path,
                     metadata=metadata,
                 )
 
+                # ------------------------------------------------
+                # Construct output record
+                # ------------------------------------------------
+
                 record = {
                     "track_id": track_id,
+
                     "metadata": metadata,
+
                     "analysis": analysis,
                 }
 
-                out.write(
+                # ------------------------------------------------
+                # Write immediately
+                # ------------------------------------------------
+
+                output_file.write(
                     json.dumps(
                         record,
                         ensure_ascii=False,
                     )
                     + "\n"
                 )
-                out.flush()
+
+                output_file.flush()
 
                 completed_ids.add(track_id)
-                processed_this_run += 1
 
-                print("    OK")
+                processed += 1
+
+                print("    SUCCESS")
 
             except Exception as exc:
+
                 print(
-                    f"    ERROR: {exc}",
+                    f"    FAILED: {exc}",
                     file=sys.stderr,
                 )
 
+    print()
+    print("=" * 70)
     print(
-        f"Finished. Processed {processed_this_run} new tracks."
+        f"Finished. Processed {processed} new tracks."
     )
 
 
-def main() -> None:
+# ============================================================
+# COMMAND LINE INTERFACE
+# ============================================================
+
+def main():
+
     parser = argparse.ArgumentParser(
-        description="Annotate FMA tracks using Ollama Gemma 4."
+        description=(
+            "Annotate FMA tracks using "
+            "Ollama Gemma 4 E4B."
+        )
     )
 
     parser.add_argument(
         "--audio-dir",
         type=Path,
         required=True,
-        help="Root directory containing FMA audio files.",
+        help=(
+            "Root directory containing "
+            "FMA audio files."
+        ),
     )
 
     parser.add_argument(
         "--metadata",
         type=Path,
         required=True,
-        help="CSV metadata file.",
+        help=(
+            "Path to FMA tracks.csv."
+        ),
     )
 
     parser.add_argument(
         "--output",
         type=Path,
-        default=Path("fma_annotations.jsonl"),
-        help="Output JSONL file.",
+        default=Path(
+            "llm_outputs/fma_annotations.jsonl"
+        ),
+        help=(
+            "Output JSONL file."
+        ),
     )
 
     parser.add_argument(
         "--limit",
         type=int,
         default=None,
-        help="Maximum number of new tracks to process.",
+        help=(
+            "Maximum number of NEW tracks "
+            "to process."
+        ),
     )
 
     args = parser.parse_args()

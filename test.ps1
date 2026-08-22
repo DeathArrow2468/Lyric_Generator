@@ -1,5 +1,1 @@
-python annotate_fma.py \
-    --audio-dir /path/to/fma_small \
-    --metadata /path/to/metadata.csv \
-    --output fma_annotations.jsonl \
-    --limit 10
+python annotate_fma.py --audio-dir "C:\Users\Faiz\Desktop\The Minor Project\data\fma_medium" --metadata "C:\Users\Faiz\Desktop\The Minor Project\data\fma_metadata_complete\fma_metadata\tracks.csv" --output "C:\Users\Faiz\Desktop\The Minor Project\Lyric_Generator\llm_outputs\fma_annotations.jsonl"
