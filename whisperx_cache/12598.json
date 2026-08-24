@@ -1,0 +1,61 @@
+{
+  "text": "Euskal Herriko. Euskal Herriko. Euskal Herriko. Euskal Herriko. Euskal Herriko. Euskal Herriko. Euskal Herriko. Euskal Herriko. Euskal Herriko. Euskal Herriko. Euskal Herriko.",
+  "segments": [
+    {
+      "start": 0.031,
+      "end": 3.433,
+      "text": "Euskal Herriko."
+    },
+    {
+      "start": 3.513,
+      "end": 5.375,
+      "text": "Euskal Herriko."
+    },
+    {
+      "start": 5.695,
+      "end": 6.856,
+      "text": "Euskal Herriko."
+    },
+    {
+      "start": 6.876,
+      "end": 9.698,
+      "text": "Euskal Herriko."
+    },
+    {
+      "start": 10.458,
+      "end": 11.579,
+      "text": "Euskal Herriko."
+    },
+    {
+      "start": 11.719,
+      "end": 13.14,
+      "text": "Euskal Herriko."
+    },
+    {
+      "start": 13.16,
+      "end": 14.941,
+      "text": "Euskal Herriko."
+    },
+    {
+      "start": 15.101,
+      "end": 16.002,
+      "text": "Euskal Herriko."
+    },
+    {
+      "start": 16.042,
+      "end": 18.584,
+      "text": "Euskal Herriko."
+    },
+    {
+      "start": 18.664,
+      "end": 19.664,
+      "text": "Euskal Herriko."
+    },
+    {
+      "start": 19.684,
+      "end": 25.208,
+      "text": "Euskal Herriko."
+    }
+  ],
+  "language": "eu"
+}

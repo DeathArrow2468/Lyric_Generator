@@ -1,0 +1,21 @@
+{
+  "text": "And we will swear you in, in both Spanish and English. First, we'll do it in Spanish. Now we'll do it all together.",
+  "segments": [
+    {
+      "start": 0.291,
+      "end": 4.213,
+      "text": "And we will swear you in, in both Spanish and English."
+    },
+    {
+      "start": 4.493,
+      "end": 6.535,
+      "text": "First, we'll do it in Spanish."
+    },
+    {
+      "start": 6.555,
+      "end": 12.138,
+      "text": "Now we'll do it all together."
+    }
+  ],
+  "language": "en"
+}

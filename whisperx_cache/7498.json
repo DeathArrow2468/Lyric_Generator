@@ -1,0 +1,61 @@
+{
+  "text": "But it's too much trouble. I was happy a minute ago. Oh, oh my god. Oh no. I'm starting to feel really insecure. I need some love. And I'm too frightened to ask for it. I know why. I try and find a woman. Because women understand about love. Women spend their lives looking for people they're not frightened of.",
+  "segments": [
+    {
+      "start": 0.111,
+      "end": 1.832,
+      "text": "But it's too much trouble."
+    },
+    {
+      "start": 8.295,
+      "end": 11.837,
+      "text": "I was happy a minute ago."
+    },
+    {
+      "start": 11.857,
+      "end": 13.998,
+      "text": "Oh, oh my god."
+    },
+    {
+      "start": 14.018,
+      "end": 15.139,
+      "text": "Oh no."
+    },
+    {
+      "start": 15.159,
+      "end": 16.72,
+      "text": "I'm starting to feel really insecure."
+    },
+    {
+      "start": 17.861,
+      "end": 18.681,
+      "text": "I need some love."
+    },
+    {
+      "start": 18.721,
+      "end": 20.942,
+      "text": "And I'm too frightened to ask for it."
+    },
+    {
+      "start": 21.883,
+      "end": 22.383,
+      "text": "I know why."
+    },
+    {
+      "start": 23.083,
+      "end": 24.104,
+      "text": "I try and find a woman."
+    },
+    {
+      "start": 24.164,
+      "end": 26.225,
+      "text": "Because women understand about love."
+    },
+    {
+      "start": 26.245,
+      "end": 29.567,
+      "text": "Women spend their lives looking for people they're not frightened of."
+    }
+  ],
+  "language": "en"
+}

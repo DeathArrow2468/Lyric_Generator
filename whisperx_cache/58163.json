@@ -1,0 +1,21 @@
+{
+  "text": "Wow! Wow! Wow!",
+  "segments": [
+    {
+      "start": 7.112,
+      "end": 7.632,
+      "text": "Wow!"
+    },
+    {
+      "start": 7.652,
+      "end": 9.253,
+      "text": "Wow!"
+    },
+    {
+      "start": 9.313,
+      "end": 9.513,
+      "text": "Wow!"
+    }
+  ],
+  "language": "en"
+}

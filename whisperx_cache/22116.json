@@ -1,0 +1,26 @@
+{
+  "text": "Go back! Go back! Go back! Go back!",
+  "segments": [
+    {
+      "start": 0.551,
+      "end": 1.472,
+      "text": "Go back!"
+    },
+    {
+      "start": 1.492,
+      "end": 2.692,
+      "text": "Go back!"
+    },
+    {
+      "start": 2.712,
+      "end": 3.613,
+      "text": "Go back!"
+    },
+    {
+      "start": 3.633,
+      "end": 4.973,
+      "text": "Go back!"
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,36 @@
+{
+  "text": "All right. Which way's up? Which way's up? Which way's up? Put your feet so down. Feels so bad, I wonder",
+  "segments": [
+    {
+      "start": 1.667,
+      "end": 15.157,
+      "text": "All right."
+    },
+    {
+      "start": 15.177,
+      "end": 16.257,
+      "text": "Which way's up?"
+    },
+    {
+      "start": 16.297,
+      "end": 17.858,
+      "text": "Which way's up?"
+    },
+    {
+      "start": 17.899,
+      "end": 19.099,
+      "text": "Which way's up?"
+    },
+    {
+      "start": 19.139,
+      "end": 21.841,
+      "text": "Put your feet so down."
+    },
+    {
+      "start": 21.921,
+      "end": 24.083,
+      "text": "Feels so bad, I wonder"
+    }
+  ],
+  "language": "en"
+}

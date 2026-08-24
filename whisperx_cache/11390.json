@@ -1,0 +1,11 @@
+{
+  "text": "I'm going to take you to the doctor.",
+  "segments": [
+    {
+      "start": 15.505,
+      "end": 29.967,
+      "text": "I'm going to take you to the doctor."
+    }
+  ],
+  "language": "la"
+}

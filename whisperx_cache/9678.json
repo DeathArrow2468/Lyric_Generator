@@ -1,0 +1,36 @@
+{
+  "text": "Actually, no. It's horrendous. It's been here for years. We have not noticed yet. The rubber rubbish is piling up. It used to be popular.",
+  "segments": [
+    {
+      "start": 0.51,
+      "end": 1.351,
+      "text": "Actually, no."
+    },
+    {
+      "start": 2.051,
+      "end": 3.473,
+      "text": "It's horrendous."
+    },
+    {
+      "start": 4.113,
+      "end": 8.678,
+      "text": "It's been here for years."
+    },
+    {
+      "start": 8.698,
+      "end": 17.346,
+      "text": "We have not noticed yet."
+    },
+    {
+      "start": 17.586,
+      "end": 25.574,
+      "text": "The rubber rubbish is piling up."
+    },
+    {
+      "start": 25.674,
+      "end": 29.818,
+      "text": "It used to be popular."
+    }
+  ],
+  "language": "en"
+}

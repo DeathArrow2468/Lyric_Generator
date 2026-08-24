@@ -1,0 +1,51 @@
+{
+  "text": "Let the juice drip down our lights. Would you like a glass of water, baby? Cool off the fire. Would you like a glass of water, baby? Cool off the fire. Would you like a glass of water, baby? Cool off the fire. Would you like a glass of water, baby? Cool off the fire.",
+  "segments": [
+    {
+      "start": 0.111,
+      "end": 5.236,
+      "text": "Let the juice drip down our lights."
+    },
+    {
+      "start": 5.336,
+      "end": 9.86,
+      "text": "Would you like a glass of water, baby?"
+    },
+    {
+      "start": 9.92,
+      "end": 12.742,
+      "text": "Cool off the fire."
+    },
+    {
+      "start": 12.843,
+      "end": 17.787,
+      "text": "Would you like a glass of water, baby?"
+    },
+    {
+      "start": 17.887,
+      "end": 20.269,
+      "text": "Cool off the fire."
+    },
+    {
+      "start": 20.349,
+      "end": 22.551,
+      "text": "Would you like a glass of water, baby?"
+    },
+    {
+      "start": 22.611,
+      "end": 23.953,
+      "text": "Cool off the fire."
+    },
+    {
+      "start": 23.993,
+      "end": 28.316,
+      "text": "Would you like a glass of water, baby?"
+    },
+    {
+      "start": 28.377,
+      "end": 30.018,
+      "text": "Cool off the fire."
+    }
+  ],
+  "language": "en"
+}

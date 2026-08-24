@@ -1,0 +1,31 @@
+{
+  "text": "¿Qué? ¿Qué? ¿Qué? ¿Qué? ¿Qué?",
+  "segments": [
+    {
+      "start": 0.291,
+      "end": 0.611,
+      "text": "¿Qué?"
+    },
+    {
+      "start": 0.651,
+      "end": 1.012,
+      "text": "¿Qué?"
+    },
+    {
+      "start": 1.032,
+      "end": 1.152,
+      "text": "¿Qué?"
+    },
+    {
+      "start": 1.212,
+      "end": 1.412,
+      "text": "¿Qué?"
+    },
+    {
+      "start": 1.432,
+      "end": 1.572,
+      "text": "¿Qué?"
+    }
+  ],
+  "language": "es"
+}

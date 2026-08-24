@@ -1,0 +1,41 @@
+{
+  "text": "Record dancing. Record dancing. Yeah, yeah. Evil records make you act like a such animal. Throw them on the fire. On the fire to burn. Here we go.",
+  "segments": [
+    {
+      "start": 0.151,
+      "end": 1.771,
+      "text": "Record dancing."
+    },
+    {
+      "start": 3.992,
+      "end": 4.892,
+      "text": "Record dancing."
+    },
+    {
+      "start": 4.992,
+      "end": 8.073,
+      "text": "Yeah, yeah."
+    },
+    {
+      "start": 8.173,
+      "end": 13.615,
+      "text": "Evil records make you act like a such animal."
+    },
+    {
+      "start": 15.475,
+      "end": 17.876,
+      "text": "Throw them on the fire."
+    },
+    {
+      "start": 18.176,
+      "end": 20.556,
+      "text": "On the fire to burn."
+    },
+    {
+      "start": 22.037,
+      "end": 22.797,
+      "text": "Here we go."
+    }
+  ],
+  "language": "en"
+}

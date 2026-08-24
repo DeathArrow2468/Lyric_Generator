@@ -1,0 +1,26 @@
+{
+  "text": "I've been a fragile thing of beauty ever since I was four years old. Well, you were four, you were squeezed out of a bar, right? It's up to you. You need to know everything you can know.",
+  "segments": [
+    {
+      "start": 2.632,
+      "end": 6.636,
+      "text": "I've been a fragile thing of beauty ever since I was four years old."
+    },
+    {
+      "start": 6.676,
+      "end": 11.06,
+      "text": "Well, you were four, you were squeezed out of a bar, right?"
+    },
+    {
+      "start": 12.782,
+      "end": 16.245,
+      "text": "It's up to you."
+    },
+    {
+      "start": 16.365,
+      "end": 28.116,
+      "text": "You need to know everything you can know."
+    }
+  ],
+  "language": "en"
+}

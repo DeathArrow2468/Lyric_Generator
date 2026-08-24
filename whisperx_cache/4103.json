@@ -1,0 +1,26 @@
+{
+  "text": "Este circo es muy, muy, muy aburrido. Dame un poco de aire. El dueño con su smoky dice, recostales lo dieron. Algo muy, muy, muy parado y especial.",
+  "segments": [
+    {
+      "start": 0.371,
+      "end": 3.433,
+      "text": "Este circo es muy, muy, muy aburrido."
+    },
+    {
+      "start": 3.653,
+      "end": 4.914,
+      "text": "Dame un poco de aire."
+    },
+    {
+      "start": 4.974,
+      "end": 9.556,
+      "text": "El dueño con su smoky dice, recostales lo dieron."
+    },
+    {
+      "start": 9.636,
+      "end": 11.357,
+      "text": "Algo muy, muy, muy parado y especial."
+    }
+  ],
+  "language": "es"
+}

@@ -1,0 +1,36 @@
+{
+  "text": "I want people to know how good I am. I want to be... I want to be part of something at the same time. I don't want to be part of it. I don't want to be part of anything that's going on. I want everything to be part of me.",
+  "segments": [
+    {
+      "start": 0.151,
+      "end": 3.514,
+      "text": "I want people to know how good I am."
+    },
+    {
+      "start": 3.714,
+      "end": 5.176,
+      "text": "I want to be..."
+    },
+    {
+      "start": 5.276,
+      "end": 10.861,
+      "text": "I want to be part of something at the same time."
+    },
+    {
+      "start": 10.881,
+      "end": 14.365,
+      "text": "I don't want to be part of it."
+    },
+    {
+      "start": 14.445,
+      "end": 18.929,
+      "text": "I don't want to be part of anything that's going on."
+    },
+    {
+      "start": 19.109,
+      "end": 21.171,
+      "text": "I want everything to be part of me."
+    }
+  ],
+  "language": "en"
+}

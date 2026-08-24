@@ -1,0 +1,41 @@
+{
+  "text": "What kind of candy do you like? And what is your dress size, Karen? What do I want to know? Oh, well, I guess I'm just curious, Karen. Karen has a secret in mind. I am a seeker. Karen has a secret in mind.",
+  "segments": [
+    {
+      "start": 1.624,
+      "end": 4.368,
+      "text": "What kind of candy do you like?"
+    },
+    {
+      "start": 4.948,
+      "end": 8.953,
+      "text": "And what is your dress size, Karen?"
+    },
+    {
+      "start": 9.994,
+      "end": 11.316,
+      "text": "What do I want to know?"
+    },
+    {
+      "start": 12.818,
+      "end": 16.922,
+      "text": "Oh, well, I guess I'm just curious, Karen."
+    },
+    {
+      "start": 17.023,
+      "end": 23.61,
+      "text": "Karen has a secret in mind."
+    },
+    {
+      "start": 23.871,
+      "end": 26.534,
+      "text": "I am a seeker."
+    },
+    {
+      "start": 27.435,
+      "end": 30.018,
+      "text": "Karen has a secret in mind."
+    }
+  ],
+  "language": "en"
+}

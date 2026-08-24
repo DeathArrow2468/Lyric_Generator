@@ -1,0 +1,66 @@
+{
+  "text": "Blöde Kuh. Ach so, sie hasen ihre Schwester. Du Schwein, du Kastretes. Ich lebe in einem Haushalt von Schwaslinien. Sie wiederholen sich. Sie stinken. Ihr Geruch allein bringt mich um. Und erst Ihre Stimme. Verschießt, verschießt. Schlaf nicht mehr, bitte. Sie wiederholen sich. Das ist ein Dern.",
+  "segments": [
+    {
+      "start": 3.436,
+      "end": 9.599,
+      "text": "Blöde Kuh."
+    },
+    {
+      "start": 9.659,
+      "end": 12.52,
+      "text": "Ach so, sie hasen ihre Schwester."
+    },
+    {
+      "start": 12.58,
+      "end": 17.182,
+      "text": "Du Schwein, du Kastretes."
+    },
+    {
+      "start": 17.242,
+      "end": 19.803,
+      "text": "Ich lebe in einem Haushalt von Schwaslinien."
+    },
+    {
+      "start": 19.843,
+      "end": 21.464,
+      "text": "Sie wiederholen sich."
+    },
+    {
+      "start": 21.584,
+      "end": 22.644,
+      "text": "Sie stinken."
+    },
+    {
+      "start": 22.684,
+      "end": 23.624,
+      "text": "Ihr Geruch allein bringt mich um."
+    },
+    {
+      "start": 23.664,
+      "end": 24.885,
+      "text": "Und erst Ihre Stimme."
+    },
+    {
+      "start": 24.905,
+      "end": 26.205,
+      "text": "Verschießt, verschießt."
+    },
+    {
+      "start": 26.225,
+      "end": 27.366,
+      "text": "Schlaf nicht mehr, bitte."
+    },
+    {
+      "start": 27.386,
+      "end": 28.807,
+      "text": "Sie wiederholen sich."
+    },
+    {
+      "start": 28.827,
+      "end": 29.687,
+      "text": "Das ist ein Dern."
+    }
+  ],
+  "language": "de"
+}

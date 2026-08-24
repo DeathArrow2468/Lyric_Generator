@@ -1,0 +1,41 @@
+{
+  "text": "Cours toi, gamin ! Gamin ! Cours toi, putain d'hommage ! Regarde, gamin ! Spécial ! Regarde, gamin ! Cours !",
+  "segments": [
+    {
+      "start": 0.031,
+      "end": 1.712,
+      "text": "Cours toi, gamin !"
+    },
+    {
+      "start": 1.732,
+      "end": 5.374,
+      "text": "Gamin !"
+    },
+    {
+      "start": 5.394,
+      "end": 9.076,
+      "text": "Cours toi, putain d'hommage !"
+    },
+    {
+      "start": 9.156,
+      "end": 10.557,
+      "text": "Regarde, gamin !"
+    },
+    {
+      "start": 10.617,
+      "end": 10.997,
+      "text": "Spécial !"
+    },
+    {
+      "start": 11.017,
+      "end": 13.259,
+      "text": "Regarde, gamin !"
+    },
+    {
+      "start": 13.279,
+      "end": 13.499,
+      "text": "Cours !"
+    }
+  ],
+  "language": "fr"
+}

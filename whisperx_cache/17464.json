@@ -1,0 +1,26 @@
+{
+  "text": "Don't fuck yourself, don't fuck somebody else. Fuck me, I'm stupid. Fuck me, I'm stupid. Don't fuck yourself, don't fuck somebody else.",
+  "segments": [
+    {
+      "start": 0.111,
+      "end": 2.393,
+      "text": "Don't fuck yourself, don't fuck somebody else."
+    },
+    {
+      "start": 2.413,
+      "end": 3.494,
+      "text": "Fuck me, I'm stupid."
+    },
+    {
+      "start": 3.514,
+      "end": 7.357,
+      "text": "Fuck me, I'm stupid."
+    },
+    {
+      "start": 7.557,
+      "end": 12.081,
+      "text": "Don't fuck yourself, don't fuck somebody else."
+    }
+  ],
+  "language": "en"
+}

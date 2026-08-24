@@ -1,0 +1,16 @@
+{
+  "text": "The President. The President.",
+  "segments": [
+    {
+      "start": 0.031,
+      "end": 2.433,
+      "text": "The President."
+    },
+    {
+      "start": 2.453,
+      "end": 4.315,
+      "text": "The President."
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,51 @@
+{
+  "text": "Just touchdown on a overnight flight. London, can we party tonight? I wanna see the girls shake with the pair so tight. We can two party, yeah. All my friends and me, yeah. Security ain't touching me, yeah. And you can smell the weed in the air. Cause we can two party, yeah. All my friends and me, yeah.",
+  "segments": [
+    {
+      "start": 0.051,
+      "end": 1.852,
+      "text": "Just touchdown on a overnight flight."
+    },
+    {
+      "start": 2.272,
+      "end": 3.653,
+      "text": "London, can we party tonight?"
+    },
+    {
+      "start": 3.693,
+      "end": 5.914,
+      "text": "I wanna see the girls shake with the pair so tight."
+    },
+    {
+      "start": 6.094,
+      "end": 8.015,
+      "text": "We can two party, yeah."
+    },
+    {
+      "start": 10.136,
+      "end": 12.017,
+      "text": "All my friends and me, yeah."
+    },
+    {
+      "start": 13.298,
+      "end": 16.02,
+      "text": "Security ain't touching me, yeah."
+    },
+    {
+      "start": 17.4,
+      "end": 20.022,
+      "text": "And you can smell the weed in the air."
+    },
+    {
+      "start": 21.282,
+      "end": 24.024,
+      "text": "Cause we can two party, yeah."
+    },
+    {
+      "start": 24.944,
+      "end": 27.846,
+      "text": "All my friends and me, yeah."
+    }
+  ],
+  "language": "en"
+}

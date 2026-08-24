@@ -1,0 +1,31 @@
+{
+  "text": "I can't take it. Uh-huh. Oh, there you are at the magic theater, black dress, hands up in the air. Well, I've heard, yeah, I've heard about this. And time to time, I thought I'd seen it.",
+  "segments": [
+    {
+      "start": 0.091,
+      "end": 6.955,
+      "text": "I can't take it."
+    },
+    {
+      "start": 7.435,
+      "end": 12.638,
+      "text": "Uh-huh."
+    },
+    {
+      "start": 14.199,
+      "end": 19.521,
+      "text": "Oh, there you are at the magic theater, black dress, hands up in the air."
+    },
+    {
+      "start": 19.561,
+      "end": 24.144,
+      "text": "Well, I've heard, yeah, I've heard about this."
+    },
+    {
+      "start": 24.664,
+      "end": 28.706,
+      "text": "And time to time, I thought I'd seen it."
+    }
+  ],
+  "language": "en"
+}

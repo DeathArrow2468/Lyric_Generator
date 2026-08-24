@@ -1,0 +1,26 @@
+{
+  "text": "A year ago, society, attracted by my style, hastened from their farm, opened wide its arms. They all made such a fuss of me, it barely made me smile. But they were fond of charm. I'd know a lot.",
+  "segments": [
+    {
+      "start": 13.429,
+      "end": 21.678,
+      "text": "A year ago, society, attracted by my style, hastened from their farm, opened wide its arms."
+    },
+    {
+      "start": 22.218,
+      "end": 26.263,
+      "text": "They all made such a fuss of me, it barely made me smile."
+    },
+    {
+      "start": 26.283,
+      "end": 27.945,
+      "text": "But they were fond of charm."
+    },
+    {
+      "start": 28.345,
+      "end": 29.687,
+      "text": "I'd know a lot."
+    }
+  ],
+  "language": "en"
+}

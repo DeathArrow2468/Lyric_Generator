@@ -1,0 +1,21 @@
+{
+  "text": "The sea is beautiful, the sea is beautiful. The sea is beautiful, the sea is beautiful. The sea is beautiful, the sea is beautiful.",
+  "segments": [
+    {
+      "start": 0.051,
+      "end": 2.812,
+      "text": "The sea is beautiful, the sea is beautiful."
+    },
+    {
+      "start": 2.853,
+      "end": 7.055,
+      "text": "The sea is beautiful, the sea is beautiful."
+    },
+    {
+      "start": 7.095,
+      "end": 11.597,
+      "text": "The sea is beautiful, the sea is beautiful."
+    }
+  ],
+  "language": "en"
+}

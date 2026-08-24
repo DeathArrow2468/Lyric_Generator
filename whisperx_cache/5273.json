@@ -1,0 +1,16 @@
+{
+  "text": "I'm not too much in one! Like I was in one screw!",
+  "segments": [
+    {
+      "start": 16.255,
+      "end": 17.557,
+      "text": "I'm not too much in one!"
+    },
+    {
+      "start": 17.577,
+      "end": 22.701,
+      "text": "Like I was in one screw!"
+    }
+  ],
+  "language": "en"
+}

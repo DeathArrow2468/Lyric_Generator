@@ -1,0 +1,16 @@
+{
+  "text": "It's the most awesome thing in the world. It's the most awesome thing in the world.",
+  "segments": [
+    {
+      "start": 23.385,
+      "end": 25.653,
+      "text": "It's the most awesome thing in the world."
+    },
+    {
+      "start": 25.693,
+      "end": 27.82,
+      "text": "It's the most awesome thing in the world."
+    }
+  ],
+  "language": "en"
+}

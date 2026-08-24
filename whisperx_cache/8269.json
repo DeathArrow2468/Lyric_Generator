@@ -1,0 +1,16 @@
+{
+  "text": "And like Cat says, I'm playing this music because I love you, you dig. Or buy this book because I love you and this book is for revolution.",
+  "segments": [
+    {
+      "start": 19.81,
+      "end": 24.191,
+      "text": "And like Cat says, I'm playing this music because I love you, you dig."
+    },
+    {
+      "start": 24.891,
+      "end": 28.593,
+      "text": "Or buy this book because I love you and this book is for revolution."
+    }
+  ],
+  "language": "en"
+}

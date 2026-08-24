@@ -1,0 +1,31 @@
+{
+  "text": "The rock is a sword. The road is torn. The road is torn. The road is torn. The road is torn.",
+  "segments": [
+    {
+      "start": 2.098,
+      "end": 4.702,
+      "text": "The rock is a sword."
+    },
+    {
+      "start": 4.782,
+      "end": 7.366,
+      "text": "The road is torn."
+    },
+    {
+      "start": 7.466,
+      "end": 10.67,
+      "text": "The road is torn."
+    },
+    {
+      "start": 11.131,
+      "end": 13.174,
+      "text": "The road is torn."
+    },
+    {
+      "start": 13.755,
+      "end": 17.04,
+      "text": "The road is torn."
+    }
+  ],
+  "language": "en"
+}

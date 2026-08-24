@@ -1,0 +1,51 @@
+{
+  "text": "There's advice hanging by a thread. The world out here ain't what's in your head. You gather your lies. You make a great wall. You cheat her a tough bet. I try not to fall. I try to help you, but still you refuse. You're done and done, girl. You're just an excuse to now.",
+  "segments": [
+    {
+      "start": 0.051,
+      "end": 2.672,
+      "text": "There's advice hanging by a thread."
+    },
+    {
+      "start": 2.692,
+      "end": 5.854,
+      "text": "The world out here ain't what's in your head."
+    },
+    {
+      "start": 5.954,
+      "end": 8.696,
+      "text": "You gather your lies."
+    },
+    {
+      "start": 8.916,
+      "end": 10.377,
+      "text": "You make a great wall."
+    },
+    {
+      "start": 10.417,
+      "end": 11.977,
+      "text": "You cheat her a tough bet."
+    },
+    {
+      "start": 12.098,
+      "end": 13.658,
+      "text": "I try not to fall."
+    },
+    {
+      "start": 13.778,
+      "end": 16.72,
+      "text": "I try to help you, but still you refuse."
+    },
+    {
+      "start": 16.74,
+      "end": 18.961,
+      "text": "You're done and done, girl."
+    },
+    {
+      "start": 19.021,
+      "end": 20.382,
+      "text": "You're just an excuse to now."
+    }
+  ],
+  "language": "en"
+}

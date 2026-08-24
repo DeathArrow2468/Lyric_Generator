@@ -1,0 +1,56 @@
+{
+  "text": "super hot. I know the reason why. Volcano! Volcano! Volcano! The people start to fret. There cannot be no flights. And all the Englishmen begin to ride their bikes. Volcano! Volcano!",
+  "segments": [
+    {
+      "start": 0.171,
+      "end": 1.312,
+      "text": "super hot."
+    },
+    {
+      "start": 1.772,
+      "end": 3.594,
+      "text": "I know the reason why."
+    },
+    {
+      "start": 3.834,
+      "end": 7.898,
+      "text": "Volcano!"
+    },
+    {
+      "start": 8.218,
+      "end": 9.119,
+      "text": "Volcano!"
+    },
+    {
+      "start": 12.542,
+      "end": 13.422,
+      "text": "Volcano!"
+    },
+    {
+      "start": 16.965,
+      "end": 18.647,
+      "text": "The people start to fret."
+    },
+    {
+      "start": 19.127,
+      "end": 21.009,
+      "text": "There cannot be no flights."
+    },
+    {
+      "start": 21.409,
+      "end": 25.413,
+      "text": "And all the Englishmen begin to ride their bikes."
+    },
+    {
+      "start": 25.693,
+      "end": 26.233,
+      "text": "Volcano!"
+    },
+    {
+      "start": 26.253,
+      "end": 26.734,
+      "text": "Volcano!"
+    }
+  ],
+  "language": "en"
+}

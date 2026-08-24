@@ -1,0 +1,16 @@
+{
+  "text": "Je vous dois penser à quelque chose et je n'arrive pas. Réfléchis.",
+  "segments": [
+    {
+      "start": 2.309,
+      "end": 13.957,
+      "text": "Je vous dois penser à quelque chose et je n'arrive pas."
+    },
+    {
+      "start": 14.017,
+      "end": 14.597,
+      "text": "Réfléchis."
+    }
+  ],
+  "language": "fr"
+}

@@ -1,0 +1,21 @@
+{
+  "text": "I think I'll take you now. I think I'll take you now. I think I'll take you now.",
+  "segments": [
+    {
+      "start": 3.165,
+      "end": 6.808,
+      "text": "I think I'll take you now."
+    },
+    {
+      "start": 6.968,
+      "end": 12.152,
+      "text": "I think I'll take you now."
+    },
+    {
+      "start": 12.273,
+      "end": 15.996,
+      "text": "I think I'll take you now."
+    }
+  ],
+  "language": "en"
+}

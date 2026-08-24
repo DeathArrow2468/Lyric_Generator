@@ -1,0 +1,36 @@
+{
+  "text": "Reject analysis, favor thought. Wind up face to face, at quite a loss. Stare up at the sky, blinded out by light. City skies are born, so are country nights. Yeah, it takes creation by destroying eyes. See all of the friends that you used to have, following the fold.",
+  "segments": [
+    {
+      "start": 0.211,
+      "end": 2.674,
+      "text": "Reject analysis, favor thought."
+    },
+    {
+      "start": 2.754,
+      "end": 5.237,
+      "text": "Wind up face to face, at quite a loss."
+    },
+    {
+      "start": 5.257,
+      "end": 7.76,
+      "text": "Stare up at the sky, blinded out by light."
+    },
+    {
+      "start": 7.78,
+      "end": 10.043,
+      "text": "City skies are born, so are country nights."
+    },
+    {
+      "start": 10.063,
+      "end": 12.486,
+      "text": "Yeah, it takes creation by destroying eyes."
+    },
+    {
+      "start": 12.826,
+      "end": 16.07,
+      "text": "See all of the friends that you used to have, following the fold."
+    }
+  ],
+  "language": "en"
+}

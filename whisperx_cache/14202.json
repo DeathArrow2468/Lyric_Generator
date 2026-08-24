@@ -1,0 +1,31 @@
+{
+  "text": "I poke his ass, I'd rather die, I'll kill my boss, I want to fight! I poke his skull, I'll ask for my knives, I'll steal my blood, I'll put you to white! I poke his skull, I'll ask for my knives, I'll steal my blood, I'll sharp my knife! I poke his ass, I'd rather die, I'll kill my boss, I want to fight! I poke his ass, I'd rather die,",
+  "segments": [
+    {
+      "start": 5.514,
+      "end": 10.279,
+      "text": "I poke his ass, I'd rather die, I'll kill my boss, I want to fight!"
+    },
+    {
+      "start": 10.479,
+      "end": 15.904,
+      "text": "I poke his skull, I'll ask for my knives, I'll steal my blood, I'll put you to white!"
+    },
+    {
+      "start": 16.084,
+      "end": 22.331,
+      "text": "I poke his skull, I'll ask for my knives, I'll steal my blood, I'll sharp my knife!"
+    },
+    {
+      "start": 22.451,
+      "end": 27.215,
+      "text": "I poke his ass, I'd rather die, I'll kill my boss, I want to fight!"
+    },
+    {
+      "start": 27.255,
+      "end": 29.938,
+      "text": "I poke his ass, I'd rather die,"
+    }
+  ],
+  "language": "en"
+}

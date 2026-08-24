@@ -1,0 +1,16 @@
+{
+  "text": "We are. We are.",
+  "segments": [
+    {
+      "start": 0.611,
+      "end": 2.893,
+      "text": "We are."
+    },
+    {
+      "start": 2.933,
+      "end": 4.013,
+      "text": "We are."
+    }
+  ],
+  "language": "en"
+}

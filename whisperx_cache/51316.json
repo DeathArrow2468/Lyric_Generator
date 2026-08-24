@@ -1,0 +1,41 @@
+{
+  "text": "Are you leaving me? Your heart's making waves. Tell me no, we've got a way to go. Where should we go? We should go there. It's getting late. Your heart's making waves.",
+  "segments": [
+    {
+      "start": 13.953,
+      "end": 15.194,
+      "text": "Are you leaving me?"
+    },
+    {
+      "start": 15.214,
+      "end": 17.456,
+      "text": "Your heart's making waves."
+    },
+    {
+      "start": 17.857,
+      "end": 20.739,
+      "text": "Tell me no, we've got a way to go."
+    },
+    {
+      "start": 20.779,
+      "end": 22.32,
+      "text": "Where should we go?"
+    },
+    {
+      "start": 22.461,
+      "end": 24.542,
+      "text": "We should go there."
+    },
+    {
+      "start": 25.143,
+      "end": 27.024,
+      "text": "It's getting late."
+    },
+    {
+      "start": 27.345,
+      "end": 29.967,
+      "text": "Your heart's making waves."
+    }
+  ],
+  "language": "en"
+}

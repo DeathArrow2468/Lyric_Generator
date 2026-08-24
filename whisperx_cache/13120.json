@@ -1,0 +1,16 @@
+{
+  "text": "Oh, yeah, I'm a rocker. I'm a rocker, yeah.",
+  "segments": [
+    {
+      "start": 4.124,
+      "end": 6.706,
+      "text": "Oh, yeah, I'm a rocker."
+    },
+    {
+      "start": 6.727,
+      "end": 8.288,
+      "text": "I'm a rocker, yeah."
+    }
+  ],
+  "language": "en"
+}

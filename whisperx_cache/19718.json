@@ -1,0 +1,21 @@
+{
+  "text": "I have my box full of pills, should I take one of each? I never have enough, never have enough Will I forget who I am? I don't mind, I'm okay Don't need a supersized natural son",
+  "segments": [
+    {
+      "start": 16.293,
+      "end": 19.658,
+      "text": "I have my box full of pills, should I take one of each?"
+    },
+    {
+      "start": 19.958,
+      "end": 24.585,
+      "text": "I never have enough, never have enough Will I forget who I am?"
+    },
+    {
+      "start": 24.705,
+      "end": 28.951,
+      "text": "I don't mind, I'm okay Don't need a supersized natural son"
+    }
+  ],
+  "language": "en"
+}

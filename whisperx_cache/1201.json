@@ -1,0 +1,26 @@
+{
+  "text": "Go, Lesley! These things, go, Lesley! Time may be passing, or it is awesome. Time may be passing, or it is awesome.",
+  "segments": [
+    {
+      "start": 1.675,
+      "end": 2.296,
+      "text": "Go, Lesley!"
+    },
+    {
+      "start": 2.617,
+      "end": 3.88,
+      "text": "These things, go, Lesley!"
+    },
+    {
+      "start": 3.9,
+      "end": 6.225,
+      "text": "Time may be passing, or it is awesome."
+    },
+    {
+      "start": 6.465,
+      "end": 8.53,
+      "text": "Time may be passing, or it is awesome."
+    }
+  ],
+  "language": "en"
+}

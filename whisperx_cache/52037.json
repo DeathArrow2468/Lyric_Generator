@@ -1,0 +1,16 @@
+{
+  "text": "Happy Father's Day. Happy Father's Day.",
+  "segments": [
+    {
+      "start": 0.191,
+      "end": 2.872,
+      "text": "Happy Father's Day."
+    },
+    {
+      "start": 3.072,
+      "end": 5.454,
+      "text": "Happy Father's Day."
+    }
+  ],
+  "language": "en"
+}

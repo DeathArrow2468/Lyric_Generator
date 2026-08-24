@@ -1,0 +1,26 @@
+{
+  "text": "That was a fine piece. Have you anything else like that? Yeah, how you like a decent one? I ought to want it.",
+  "segments": [
+    {
+      "start": 0.071,
+      "end": 2.352,
+      "text": "That was a fine piece."
+    },
+    {
+      "start": 2.412,
+      "end": 5.192,
+      "text": "Have you anything else like that?"
+    },
+    {
+      "start": 5.512,
+      "end": 8.113,
+      "text": "Yeah, how you like a decent one?"
+    },
+    {
+      "start": 8.193,
+      "end": 9.674,
+      "text": "I ought to want it."
+    }
+  ],
+  "language": "en"
+}

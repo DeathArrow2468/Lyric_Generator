@@ -1,0 +1,31 @@
+{
+  "text": "a producer who lives here in New York. I don't know if he's really a New Yorker, but I know he has been here for such a long time. I also want to tell you and tell everybody who's listening that we will be performing this week in Manhattan. Well, we will have two performances. The first one will be in Barbez in Brooklyn.",
+  "segments": [
+    {
+      "start": 0.231,
+      "end": 2.432,
+      "text": "a producer who lives here in New York."
+    },
+    {
+      "start": 2.732,
+      "end": 9.816,
+      "text": "I don't know if he's really a New Yorker, but I know he has been here for such a long time."
+    },
+    {
+      "start": 11.857,
+      "end": 20.622,
+      "text": "I also want to tell you and tell everybody who's listening that we will be performing this week in Manhattan."
+    },
+    {
+      "start": 21.382,
+      "end": 24.624,
+      "text": "Well, we will have two performances."
+    },
+    {
+      "start": 24.664,
+      "end": 29.327,
+      "text": "The first one will be in Barbez in Brooklyn."
+    }
+  ],
+  "language": "en"
+}

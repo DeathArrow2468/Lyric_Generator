@@ -1,0 +1,41 @@
+{
+  "text": "Sometimes a new day is hurtful. Oakland mornings, you wake to a beautiful woman who holds you in her mouth. Coming into the day, gently rocking. In Brooklyn, it's street traffic lullabies. The hungry cats cry, arms wrapped around the pillow like a lover. I am hungrier than the cat. The pillow, where's your face?",
+  "segments": [
+    {
+      "start": 0.171,
+      "end": 2.013,
+      "text": "Sometimes a new day is hurtful."
+    },
+    {
+      "start": 3.034,
+      "end": 7.217,
+      "text": "Oakland mornings, you wake to a beautiful woman who holds you in her mouth."
+    },
+    {
+      "start": 7.257,
+      "end": 9.539,
+      "text": "Coming into the day, gently rocking."
+    },
+    {
+      "start": 10.74,
+      "end": 13.703,
+      "text": "In Brooklyn, it's street traffic lullabies."
+    },
+    {
+      "start": 13.743,
+      "end": 18.186,
+      "text": "The hungry cats cry, arms wrapped around the pillow like a lover."
+    },
+    {
+      "start": 18.807,
+      "end": 21.289,
+      "text": "I am hungrier than the cat."
+    },
+    {
+      "start": 21.309,
+      "end": 23.631,
+      "text": "The pillow, where's your face?"
+    }
+  ],
+  "language": "en"
+}

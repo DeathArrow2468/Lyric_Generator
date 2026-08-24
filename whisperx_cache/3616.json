@@ -1,0 +1,21 @@
+{
+  "text": "Can't you save it? Can't you save your soul? You know the price was wrong It's already been sold To provide you shelter From the wind and rain But you can't stop her There she goes again",
+  "segments": [
+    {
+      "start": 5.452,
+      "end": 7.112,
+      "text": "Can't you save it?"
+    },
+    {
+      "start": 8.272,
+      "end": 9.793,
+      "text": "Can't you save your soul?"
+    },
+    {
+      "start": 11.293,
+      "end": 27.336,
+      "text": "You know the price was wrong It's already been sold To provide you shelter From the wind and rain But you can't stop her There she goes again"
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,16 @@
+{
+  "text": "Bye. Bye.",
+  "segments": [
+    {
+      "start": 22.802,
+      "end": 23.065,
+      "text": "Bye."
+    },
+    {
+      "start": 23.106,
+      "end": 23.368,
+      "text": "Bye."
+    }
+  ],
+  "language": "en"
+}

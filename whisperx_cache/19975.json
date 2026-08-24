@@ -1,0 +1,41 @@
+{
+  "text": "and the waves come rolling in. Can't help but wonder where they've been. Can't help but wonder what's in store. I follow further down the road. The highway song fills the night. The shrouded mist, the morning light. The road behind me comes to pass.",
+  "segments": [
+    {
+      "start": 0.211,
+      "end": 2.272,
+      "text": "and the waves come rolling in."
+    },
+    {
+      "start": 2.312,
+      "end": 6.394,
+      "text": "Can't help but wonder where they've been."
+    },
+    {
+      "start": 6.494,
+      "end": 10.597,
+      "text": "Can't help but wonder what's in store."
+    },
+    {
+      "start": 10.697,
+      "end": 12.978,
+      "text": "I follow further down the road."
+    },
+    {
+      "start": 12.998,
+      "end": 16.34,
+      "text": "The highway song fills the night."
+    },
+    {
+      "start": 16.42,
+      "end": 19.301,
+      "text": "The shrouded mist, the morning light."
+    },
+    {
+      "start": 19.321,
+      "end": 21.603,
+      "text": "The road behind me comes to pass."
+    }
+  ],
+  "language": "en"
+}

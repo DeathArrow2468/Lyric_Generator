@@ -1,0 +1,31 @@
+{
+  "text": "I'm almost to the beat. I'm almost to the beat. All ain't moving to the beat. I'm almost to the beat. I'm almost to the beat.",
+  "segments": [
+    {
+      "start": 4.995,
+      "end": 6.238,
+      "text": "I'm almost to the beat."
+    },
+    {
+      "start": 6.278,
+      "end": 7.179,
+      "text": "I'm almost to the beat."
+    },
+    {
+      "start": 7.22,
+      "end": 8.642,
+      "text": "All ain't moving to the beat."
+    },
+    {
+      "start": 8.763,
+      "end": 9.584,
+      "text": "I'm almost to the beat."
+    },
+    {
+      "start": 9.705,
+      "end": 10.366,
+      "text": "I'm almost to the beat."
+    }
+  ],
+  "language": "en"
+}

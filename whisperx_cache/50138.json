@@ -1,0 +1,21 @@
+{
+  "text": "Never went cowards in Dixie Hooray! Hooray! In Dixie, the mud makes my sandal impenetrable",
+  "segments": [
+    {
+      "start": 6.932,
+      "end": 13.66,
+      "text": "Never went cowards in Dixie Hooray!"
+    },
+    {
+      "start": 13.74,
+      "end": 14.421,
+      "text": "Hooray!"
+    },
+    {
+      "start": 14.581,
+      "end": 17.644,
+      "text": "In Dixie, the mud makes my sandal impenetrable"
+    }
+  ],
+  "language": "en"
+}

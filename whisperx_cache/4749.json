@@ -1,0 +1,16 @@
+{
+  "text": "Sacré bleu. Sauvage.",
+  "segments": [
+    {
+      "start": 11.005,
+      "end": 11.926,
+      "text": "Sacré bleu."
+    },
+    {
+      "start": 12.167,
+      "end": 13.588,
+      "text": "Sauvage."
+    }
+  ],
+  "language": "en"
+}

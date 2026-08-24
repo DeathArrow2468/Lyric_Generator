@@ -1,0 +1,21 @@
+{
+  "text": "And some forget me not. But I'd rather have a nice plate of capi with capages, capines, and crops. The heart of Rosa may fancy.",
+  "segments": [
+    {
+      "start": 0.447,
+      "end": 5.092,
+      "text": "And some forget me not."
+    },
+    {
+      "start": 5.693,
+      "end": 15.122,
+      "text": "But I'd rather have a nice plate of capi with capages, capines, and crops."
+    },
+    {
+      "start": 15.643,
+      "end": 19.867,
+      "text": "The heart of Rosa may fancy."
+    }
+  ],
+  "language": "en"
+}

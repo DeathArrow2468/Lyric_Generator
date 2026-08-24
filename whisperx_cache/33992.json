@@ -1,0 +1,21 @@
+{
+  "text": "Now there's nothing here that can bring me back again. Before I think about the future, cause I understand. There's something, there's something wonderful.",
+  "segments": [
+    {
+      "start": 0.051,
+      "end": 1.813,
+      "text": "Now there's nothing here that can bring me back again."
+    },
+    {
+      "start": 1.893,
+      "end": 3.374,
+      "text": "Before I think about the future, cause I understand."
+    },
+    {
+      "start": 3.454,
+      "end": 14.223,
+      "text": "There's something, there's something wonderful."
+    }
+  ],
+  "language": "en"
+}

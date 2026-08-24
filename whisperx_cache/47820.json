@@ -1,0 +1,31 @@
+{
+  "text": "What would we do without it? What would we do without it? What would we do? What would we do? What would we do?",
+  "segments": [
+    {
+      "start": 0.571,
+      "end": 20.45,
+      "text": "What would we do without it?"
+    },
+    {
+      "start": 20.53,
+      "end": 22.431,
+      "text": "What would we do without it?"
+    },
+    {
+      "start": 22.631,
+      "end": 23.432,
+      "text": "What would we do?"
+    },
+    {
+      "start": 23.452,
+      "end": 24.313,
+      "text": "What would we do?"
+    },
+    {
+      "start": 24.353,
+      "end": 25.154,
+      "text": "What would we do?"
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,66 @@
+{
+  "text": "What is wrong? Can we please agree to get along? I'm all alone. I'll feed the dog. You feed the cat that I stumble on. Ooh. We say we don't. Life won't go. What's up with that? I'm not so sure. We got it all. I'll take the fall.",
+  "segments": [
+    {
+      "start": 1.012,
+      "end": 1.772,
+      "text": "What is wrong?"
+    },
+    {
+      "start": 1.852,
+      "end": 4.593,
+      "text": "Can we please agree to get along?"
+    },
+    {
+      "start": 4.673,
+      "end": 6.214,
+      "text": "I'm all alone."
+    },
+    {
+      "start": 6.514,
+      "end": 7.595,
+      "text": "I'll feed the dog."
+    },
+    {
+      "start": 7.855,
+      "end": 10.637,
+      "text": "You feed the cat that I stumble on."
+    },
+    {
+      "start": 10.677,
+      "end": 10.817,
+      "text": "Ooh."
+    },
+    {
+      "start": 11.997,
+      "end": 15.239,
+      "text": "We say we don't."
+    },
+    {
+      "start": 15.319,
+      "end": 17.32,
+      "text": "Life won't go."
+    },
+    {
+      "start": 18.241,
+      "end": 20.542,
+      "text": "What's up with that?"
+    },
+    {
+      "start": 21.242,
+      "end": 22.963,
+      "text": "I'm not so sure."
+    },
+    {
+      "start": 23.023,
+      "end": 24.824,
+      "text": "We got it all."
+    },
+    {
+      "start": 25.365,
+      "end": 28.606,
+      "text": "I'll take the fall."
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,26 @@
+{
+  "text": "What are you doing? What are you doing? What are you doing? What are you doing?",
+  "segments": [
+    {
+      "start": 0.051,
+      "end": 3.232,
+      "text": "What are you doing?"
+    },
+    {
+      "start": 3.392,
+      "end": 5.472,
+      "text": "What are you doing?"
+    },
+    {
+      "start": 5.672,
+      "end": 9.593,
+      "text": "What are you doing?"
+    },
+    {
+      "start": 9.693,
+      "end": 11.054,
+      "text": "What are you doing?"
+    }
+  ],
+  "language": "en"
+}

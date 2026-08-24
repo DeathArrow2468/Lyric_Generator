@@ -1,0 +1,16 @@
+{
+  "text": "I'm scared that I'm gonna break down. Don't care.",
+  "segments": [
+    {
+      "start": 6.123,
+      "end": 6.864,
+      "text": "I'm scared that I'm gonna break down."
+    },
+    {
+      "start": 6.884,
+      "end": 7.104,
+      "text": "Don't care."
+    }
+  ],
+  "language": "en"
+}

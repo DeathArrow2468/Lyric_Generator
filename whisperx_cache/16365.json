@@ -1,0 +1,16 @@
+{
+  "text": "I'm lonesome, so lonesome for you. Hope seems to say there'll come a day You'll smile again, I'll see",
+  "segments": [
+    {
+      "start": 2.233,
+      "end": 18.848,
+      "text": "I'm lonesome, so lonesome for you."
+    },
+    {
+      "start": 19.569,
+      "end": 27.916,
+      "text": "Hope seems to say there'll come a day You'll smile again, I'll see"
+    }
+  ],
+  "language": "en"
+}

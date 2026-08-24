@@ -1,0 +1,26 @@
+{
+  "text": "She left the train, the portless train, Taddy into the dock, got an old bus just for her. Jack looked blank, and upon her turned his back. While he beat another girl, a dew he kissed her too. So Mary played, ring off.",
+  "segments": [
+    {
+      "start": 7.794,
+      "end": 17.74,
+      "text": "She left the train, the portless train, Taddy into the dock, got an old bus just for her."
+    },
+    {
+      "start": 17.76,
+      "end": 21.302,
+      "text": "Jack looked blank, and upon her turned his back."
+    },
+    {
+      "start": 21.382,
+      "end": 26.065,
+      "text": "While he beat another girl, a dew he kissed her too."
+    },
+    {
+      "start": 26.165,
+      "end": 29.347,
+      "text": "So Mary played, ring off."
+    }
+  ],
+  "language": "en"
+}

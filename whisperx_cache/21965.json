@@ -1,0 +1,16 @@
+{
+  "text": "Smokies! Smokies!",
+  "segments": [
+    {
+      "start": 0.031,
+      "end": 0.537,
+      "text": "Smokies!"
+    },
+    {
+      "start": 0.841,
+      "end": 1.165,
+      "text": "Smokies!"
+    }
+  ],
+  "language": "en"
+}

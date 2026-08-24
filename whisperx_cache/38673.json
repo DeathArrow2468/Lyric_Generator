@@ -1,0 +1,21 @@
+{
+  "text": "A little bugger bit me! Zingaya! ZINGAYA!",
+  "segments": [
+    {
+      "start": 8.223,
+      "end": 9.585,
+      "text": "A little bugger bit me!"
+    },
+    {
+      "start": 9.806,
+      "end": 11.328,
+      "text": "Zingaya!"
+    },
+    {
+      "start": 11.448,
+      "end": 26.312,
+      "text": "ZINGAYA!"
+    }
+  ],
+  "language": "en"
+}

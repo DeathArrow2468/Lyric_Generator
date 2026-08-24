@@ -1,0 +1,16 @@
+{
+  "text": "For no matter where I wander, there's just one place my heart goes. Oh lordy, lordy, if you see me, me, take me where I want to be, and rock me in my funny cradle, where the funny river flows.",
+  "segments": [
+    {
+      "start": 0.891,
+      "end": 8.175,
+      "text": "For no matter where I wander, there's just one place my heart goes."
+    },
+    {
+      "start": 8.315,
+      "end": 25.104,
+      "text": "Oh lordy, lordy, if you see me, me, take me where I want to be, and rock me in my funny cradle, where the funny river flows."
+    }
+  ],
+  "language": "en"
+}

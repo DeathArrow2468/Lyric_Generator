@@ -1,0 +1,36 @@
+{
+  "text": "I don't know what you're talking about. I don't know what you're talking about. I don't know what you're talking about. I don't know what you're talking about. I don't know what you're talking about. I don't know what you're talking about.",
+  "segments": [
+    {
+      "start": 0.769,
+      "end": 4.311,
+      "text": "I don't know what you're talking about."
+    },
+    {
+      "start": 4.351,
+      "end": 8.854,
+      "text": "I don't know what you're talking about."
+    },
+    {
+      "start": 9.114,
+      "end": 13.517,
+      "text": "I don't know what you're talking about."
+    },
+    {
+      "start": 13.557,
+      "end": 19.641,
+      "text": "I don't know what you're talking about."
+    },
+    {
+      "start": 19.761,
+      "end": 24.163,
+      "text": "I don't know what you're talking about."
+    },
+    {
+      "start": 24.183,
+      "end": 29.967,
+      "text": "I don't know what you're talking about."
+    }
+  ],
+  "language": "nn"
+}

@@ -1,0 +1,26 @@
+{
+  "text": "Fire! Gonna burn you out! You is alone! Please take her home!",
+  "segments": [
+    {
+      "start": 16.285,
+      "end": 16.505,
+      "text": "Fire!"
+    },
+    {
+      "start": 16.545,
+      "end": 19.249,
+      "text": "Gonna burn you out!"
+    },
+    {
+      "start": 19.309,
+      "end": 21.752,
+      "text": "You is alone!"
+    },
+    {
+      "start": 21.792,
+      "end": 24.174,
+      "text": "Please take her home!"
+    }
+  ],
+  "language": "en"
+}

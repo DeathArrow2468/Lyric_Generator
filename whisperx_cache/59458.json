@@ -1,0 +1,46 @@
+{
+  "text": "Come on, just stay with me and take my hand and I'll show you things. Yeah, I'll show you things. I'll show you things that I know. You'll understand. You love that? Hey, hey! Yeah, I'll stay by your side. And hold your kind of hand.",
+  "segments": [
+    {
+      "start": 0.051,
+      "end": 5.796,
+      "text": "Come on, just stay with me and take my hand and I'll show you things."
+    },
+    {
+      "start": 5.816,
+      "end": 7.698,
+      "text": "Yeah, I'll show you things."
+    },
+    {
+      "start": 8.639,
+      "end": 10.32,
+      "text": "I'll show you things that I know."
+    },
+    {
+      "start": 12.122,
+      "end": 12.742,
+      "text": "You'll understand."
+    },
+    {
+      "start": 12.762,
+      "end": 19.949,
+      "text": "You love that?"
+    },
+    {
+      "start": 21.15,
+      "end": 21.751,
+      "text": "Hey, hey!"
+    },
+    {
+      "start": 21.911,
+      "end": 28.837,
+      "text": "Yeah, I'll stay by your side."
+    },
+    {
+      "start": 28.977,
+      "end": 30.018,
+      "text": "And hold your kind of hand."
+    }
+  ],
+  "language": "en"
+}

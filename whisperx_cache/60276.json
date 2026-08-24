@@ -1,0 +1,21 @@
+{
+  "text": "Roll some, sweet daddy, take a dance with me. Well, I'll sing sweet love songs all the time. Here we all come and be one.",
+  "segments": [
+    {
+      "start": 6.03,
+      "end": 13.616,
+      "text": "Roll some, sweet daddy, take a dance with me."
+    },
+    {
+      "start": 15.197,
+      "end": 25.724,
+      "text": "Well, I'll sing sweet love songs all the time."
+    },
+    {
+      "start": 25.964,
+      "end": 29.267,
+      "text": "Here we all come and be one."
+    }
+  ],
+  "language": "en"
+}

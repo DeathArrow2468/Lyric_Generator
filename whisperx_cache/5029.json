@@ -1,0 +1,26 @@
+{
+  "text": "They seem to know that I'm a-coming and like some country twire. The dawn of day will find me picking the leg of some old farmer, jigging or boiling up my can upon a fire. I shall lay and greet the swallow that call there. They'll know I've got the greatest swallow of all there.",
+  "segments": [
+    {
+      "start": 0.271,
+      "end": 8.679,
+      "text": "They seem to know that I'm a-coming and like some country twire."
+    },
+    {
+      "start": 8.839,
+      "end": 18.347,
+      "text": "The dawn of day will find me picking the leg of some old farmer, jigging or boiling up my can upon a fire."
+    },
+    {
+      "start": 18.828,
+      "end": 22.992,
+      "text": "I shall lay and greet the swallow that call there."
+    },
+    {
+      "start": 23.372,
+      "end": 27.876,
+      "text": "They'll know I've got the greatest swallow of all there."
+    }
+  ],
+  "language": "en"
+}

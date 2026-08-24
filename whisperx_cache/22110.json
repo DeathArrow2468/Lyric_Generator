@@ -1,0 +1,26 @@
+{
+  "text": "I will bring the hands of water. I will bring the hands of water. I will bring the hands of water. I will bring the hands of water.",
+  "segments": [
+    {
+      "start": 1.923,
+      "end": 5.167,
+      "text": "I will bring the hands of water."
+    },
+    {
+      "start": 5.888,
+      "end": 10.574,
+      "text": "I will bring the hands of water."
+    },
+    {
+      "start": 10.674,
+      "end": 14.979,
+      "text": "I will bring the hands of water."
+    },
+    {
+      "start": 15.059,
+      "end": 19.525,
+      "text": "I will bring the hands of water."
+    }
+  ],
+  "language": "en"
+}

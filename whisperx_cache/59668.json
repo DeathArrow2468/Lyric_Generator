@@ -1,0 +1,21 @@
+{
+  "text": "Kola mi se ribka, prekola da prika, reno mi se bojeće, te bojeće. Kola mi se ribka, prekola da prika, čip li gan, čip li gan. Karandiška dindi,",
+  "segments": [
+    {
+      "start": 0.031,
+      "end": 5.294,
+      "text": "Kola mi se ribka, prekola da prika, reno mi se bojeće, te bojeće."
+    },
+    {
+      "start": 5.294,
+      "end": 29.627,
+      "text": "Kola mi se ribka, prekola da prika, čip li gan, čip li gan."
+    },
+    {
+      "start": 29.627,
+      "end": 29.967,
+      "text": "Karandiška dindi,"
+    }
+  ],
+  "language": "hr"
+}

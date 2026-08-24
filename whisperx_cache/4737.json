@@ -1,0 +1,36 @@
+{
+  "text": "I can tell by your skin that you've been drinking gin. And you're bound to look like a monkey when you grow old. When you grow old. When you grow old. Well, you're bound to look like a monkey when you grow old. OK, Tim, let's hear that again.",
+  "segments": [
+    {
+      "start": 0.431,
+      "end": 4.393,
+      "text": "I can tell by your skin that you've been drinking gin."
+    },
+    {
+      "start": 4.573,
+      "end": 7.514,
+      "text": "And you're bound to look like a monkey when you grow old."
+    },
+    {
+      "start": 8.414,
+      "end": 9.854,
+      "text": "When you grow old."
+    },
+    {
+      "start": 10.495,
+      "end": 11.975,
+      "text": "When you grow old."
+    },
+    {
+      "start": 12.815,
+      "end": 15.696,
+      "text": "Well, you're bound to look like a monkey when you grow old."
+    },
+    {
+      "start": 15.796,
+      "end": 17.197,
+      "text": "OK, Tim, let's hear that again."
+    }
+  ],
+  "language": "en"
+}

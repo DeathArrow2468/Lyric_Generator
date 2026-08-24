@@ -1,0 +1,31 @@
+{
+  "text": "What do you think you just did? No, it's coming out of my head. I don't know what you're talking about. Yes, it's coming out of my head. I don't know what you're talking about.",
+  "segments": [
+    {
+      "start": 3.82,
+      "end": 7.085,
+      "text": "What do you think you just did?"
+    },
+    {
+      "start": 7.646,
+      "end": 11.471,
+      "text": "No, it's coming out of my head."
+    },
+    {
+      "start": 11.611,
+      "end": 16.839,
+      "text": "I don't know what you're talking about."
+    },
+    {
+      "start": 16.899,
+      "end": 23.649,
+      "text": "Yes, it's coming out of my head."
+    },
+    {
+      "start": 23.669,
+      "end": 30.018,
+      "text": "I don't know what you're talking about."
+    }
+  ],
+  "language": "en"
+}

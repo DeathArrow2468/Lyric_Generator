@@ -1,0 +1,21 @@
+{
+  "text": "Take me by the foot, louder please, and drag me into the woods. Dig a hole and let the leaves fall on top of my body. Hit me, slap me, beat me,",
+  "segments": [
+    {
+      "start": 0.071,
+      "end": 6.277,
+      "text": "Take me by the foot, louder please, and drag me into the woods."
+    },
+    {
+      "start": 6.297,
+      "end": 11.161,
+      "text": "Dig a hole and let the leaves fall on top of my body."
+    },
+    {
+      "start": 11.221,
+      "end": 13.383,
+      "text": "Hit me, slap me, beat me,"
+    }
+  ],
+  "language": "en"
+}

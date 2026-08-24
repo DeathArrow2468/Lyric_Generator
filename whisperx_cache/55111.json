@@ -1,0 +1,16 @@
+{
+  "text": "C'est notre espace, c'est ta mémoire, c'est-il ? C'est-il notre espace, c'est-il ?",
+  "segments": [
+    {
+      "start": 7.422,
+      "end": 10.283,
+      "text": "C'est notre espace, c'est ta mémoire, c'est-il ?"
+    },
+    {
+      "start": 10.303,
+      "end": 16.044,
+      "text": "C'est-il notre espace, c'est-il ?"
+    }
+  ],
+  "language": "fr"
+}

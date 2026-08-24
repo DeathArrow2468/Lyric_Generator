@@ -1,0 +1,16 @@
+{
+  "text": "The echos flew, tuned as suddenly as they melted. The bones melted and fell into the sea again.",
+  "segments": [
+    {
+      "start": 1.005,
+      "end": 4.817,
+      "text": "The echos flew, tuned as suddenly as they melted."
+    },
+    {
+      "start": 4.958,
+      "end": 7.807,
+      "text": "The bones melted and fell into the sea again."
+    }
+  ],
+  "language": "en"
+}

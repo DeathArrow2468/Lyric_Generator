@@ -1,0 +1,21 @@
+{
+  "text": "You in my dreams, while my conscience worried me. Now I've promised back, I've got my special patch, to go back to music therapy. Doo doo doo doo doo.",
+  "segments": [
+    {
+      "start": 0.531,
+      "end": 8.173,
+      "text": "You in my dreams, while my conscience worried me."
+    },
+    {
+      "start": 8.273,
+      "end": 16.774,
+      "text": "Now I've promised back, I've got my special patch, to go back to music therapy."
+    },
+    {
+      "start": 16.814,
+      "end": 19.415,
+      "text": "Doo doo doo doo doo."
+    }
+  ],
+  "language": "en"
+}

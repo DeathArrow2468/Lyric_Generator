@@ -1,0 +1,31 @@
+{
+  "text": "is not only cowbells, it's the whole cow and all. The cowbells, just cowbells, girly say they hate the park. That cowbell, just cowbells, when they say that they're afraid of the dark. Beneath the trees, a boy says, please let's kiss by all this delay. He says, I am not that kind.",
+  "segments": [
+    {
+      "start": 0.031,
+      "end": 6.757,
+      "text": "is not only cowbells, it's the whole cow and all."
+    },
+    {
+      "start": 6.837,
+      "end": 13.763,
+      "text": "The cowbells, just cowbells, girly say they hate the park."
+    },
+    {
+      "start": 13.823,
+      "end": 20.73,
+      "text": "That cowbell, just cowbells, when they say that they're afraid of the dark."
+    },
+    {
+      "start": 20.81,
+      "end": 27.396,
+      "text": "Beneath the trees, a boy says, please let's kiss by all this delay."
+    },
+    {
+      "start": 27.556,
+      "end": 29.998,
+      "text": "He says, I am not that kind."
+    }
+  ],
+  "language": "en"
+}

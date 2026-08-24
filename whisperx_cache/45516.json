@@ -1,0 +1,26 @@
+{
+  "text": "We won't be boring today. The storm's coming in. I love a lightning storm. Me too, Dad.",
+  "segments": [
+    {
+      "start": 7.426,
+      "end": 9.727,
+      "text": "We won't be boring today."
+    },
+    {
+      "start": 9.747,
+      "end": 12.487,
+      "text": "The storm's coming in."
+    },
+    {
+      "start": 12.567,
+      "end": 20.73,
+      "text": "I love a lightning storm."
+    },
+    {
+      "start": 20.81,
+      "end": 22.25,
+      "text": "Me too, Dad."
+    }
+  ],
+  "language": "en"
+}

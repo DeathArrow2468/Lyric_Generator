@@ -1,0 +1,31 @@
+{
+  "text": "inside you. If I could tell you how to get there, I would set you aside. Give you a piece of my mind plan. There's no instruction guide on how to get out what's stuck inside. Leave it all",
+  "segments": [
+    {
+      "start": 0.091,
+      "end": 1.612,
+      "text": "inside you."
+    },
+    {
+      "start": 2.353,
+      "end": 7.517,
+      "text": "If I could tell you how to get there, I would set you aside."
+    },
+    {
+      "start": 7.677,
+      "end": 10.78,
+      "text": "Give you a piece of my mind plan."
+    },
+    {
+      "start": 11.04,
+      "end": 18.706,
+      "text": "There's no instruction guide on how to get out what's stuck inside."
+    },
+    {
+      "start": 18.746,
+      "end": 19.727,
+      "text": "Leave it all"
+    }
+  ],
+  "language": "en"
+}

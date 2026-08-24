@@ -1,0 +1,21 @@
+{
+  "text": "The psychiatrist said he is an human. They tracked him down to the house he used to live in many years ago. The police thought",
+  "segments": [
+    {
+      "start": 0.271,
+      "end": 4.355,
+      "text": "The psychiatrist said he is an human."
+    },
+    {
+      "start": 4.795,
+      "end": 13.583,
+      "text": "They tracked him down to the house he used to live in many years ago."
+    },
+    {
+      "start": 13.643,
+      "end": 17.086,
+      "text": "The police thought"
+    }
+  ],
+  "language": "en"
+}

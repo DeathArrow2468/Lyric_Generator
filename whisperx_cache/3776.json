@@ -1,0 +1,51 @@
+{
+  "text": "¿Dónde es Juan? ¿Me he tenido muchos dinero? ¿Qué es esto, chico? ¡Chacho! ¡Hay que robar! ¡Hay que robar! ¡Hay que robar! ¡Hay que robar aquí! ¡Ay, ay, ay, ay, ay, ay, ay, ay!",
+  "segments": [
+    {
+      "start": 18.02,
+      "end": 18.622,
+      "text": "¿Dónde es Juan?"
+    },
+    {
+      "start": 18.642,
+      "end": 21.411,
+      "text": "¿Me he tenido muchos dinero?"
+    },
+    {
+      "start": 21.431,
+      "end": 22.554,
+      "text": "¿Qué es esto, chico?"
+    },
+    {
+      "start": 23.036,
+      "end": 24.019,
+      "text": "¡Chacho!"
+    },
+    {
+      "start": 24.26,
+      "end": 24.962,
+      "text": "¡Hay que robar!"
+    },
+    {
+      "start": 25.102,
+      "end": 26.065,
+      "text": "¡Hay que robar!"
+    },
+    {
+      "start": 26.427,
+      "end": 27.189,
+      "text": "¡Hay que robar!"
+    },
+    {
+      "start": 27.209,
+      "end": 28.092,
+      "text": "¡Hay que robar aquí!"
+    },
+    {
+      "start": 28.152,
+      "end": 29.898,
+      "text": "¡Ay, ay, ay, ay, ay, ay, ay, ay!"
+    }
+  ],
+  "language": "es"
+}

@@ -1,0 +1,31 @@
+{
+  "text": "The temperatures, too. Come on. Winter's coming. Come and get it. Here's a tip for you.",
+  "segments": [
+    {
+      "start": 0.031,
+      "end": 1.076,
+      "text": "The temperatures, too."
+    },
+    {
+      "start": 1.157,
+      "end": 1.639,
+      "text": "Come on."
+    },
+    {
+      "start": 1.679,
+      "end": 2.423,
+      "text": "Winter's coming."
+    },
+    {
+      "start": 2.463,
+      "end": 2.966,
+      "text": "Come and get it."
+    },
+    {
+      "start": 3.026,
+      "end": 3.991,
+      "text": "Here's a tip for you."
+    }
+  ],
+  "language": "en"
+}

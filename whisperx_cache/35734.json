@@ -1,0 +1,21 @@
+{
+  "text": "Nous avons au rayon des conserves, de la sauce tomate à prix réduit, deux bouts pour le prix d'un seul. Si vous regardez bien au rayon charcuterie, vous pouvez acheter de la farce à saucisses qui est au prix de 2 euros le kilo. Et un petit peu plus loin au rayon pharmacie toilette, vous avez des cotons tiges.",
+  "segments": [
+    {
+      "start": 0.812,
+      "end": 10.46,
+      "text": "Nous avons au rayon des conserves, de la sauce tomate à prix réduit, deux bouts pour le prix d'un seul."
+    },
+    {
+      "start": 10.48,
+      "end": 22.091,
+      "text": "Si vous regardez bien au rayon charcuterie, vous pouvez acheter de la farce à saucisses qui est au prix de 2 euros le kilo."
+    },
+    {
+      "start": 22.151,
+      "end": 28.717,
+      "text": "Et un petit peu plus loin au rayon pharmacie toilette, vous avez des cotons tiges."
+    }
+  ],
+  "language": "fr"
+}

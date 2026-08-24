@@ -1,0 +1,26 @@
+{
+  "text": "In the morning, I went to the garden. In the morning, I went to the garden. In the morning, I went to the garden. In the morning, I went to the garden.",
+  "segments": [
+    {
+      "start": 0.832,
+      "end": 3.254,
+      "text": "In the morning, I went to the garden."
+    },
+    {
+      "start": 3.334,
+      "end": 9.579,
+      "text": "In the morning, I went to the garden."
+    },
+    {
+      "start": 9.679,
+      "end": 20.727,
+      "text": "In the morning, I went to the garden."
+    },
+    {
+      "start": 20.807,
+      "end": 27.773,
+      "text": "In the morning, I went to the garden."
+    }
+  ],
+  "language": "nn"
+}

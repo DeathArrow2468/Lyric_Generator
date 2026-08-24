@@ -1,0 +1,16 @@
+{
+  "text": "Who need guitar? Travel so far Blah, blah, blah Drive my car Blah, blah, blah La, la, la Ouh, avec moi",
+  "segments": [
+    {
+      "start": 0.149,
+      "end": 4.692,
+      "text": "Who need guitar?"
+    },
+    {
+      "start": 4.712,
+      "end": 28.746,
+      "text": "Travel so far Blah, blah, blah Drive my car Blah, blah, blah La, la, la Ouh, avec moi"
+    }
+  ],
+  "language": "fr"
+}

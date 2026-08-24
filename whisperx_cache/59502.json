@@ -1,0 +1,31 @@
+{
+  "text": "a little Ford machine. We'll find a little cottage where the roses bloom, with a parlor and a kitchen and a dining room. And we'll have to see that there's room for three. Oh, you know what I mean. When we're married, when we're married, we'll go down to cook, look through their tourist books,",
+  "segments": [
+    {
+      "start": 0.091,
+      "end": 2.253,
+      "text": "a little Ford machine."
+    },
+    {
+      "start": 2.453,
+      "end": 8.298,
+      "text": "We'll find a little cottage where the roses bloom, with a parlor and a kitchen and a dining room."
+    },
+    {
+      "start": 8.599,
+      "end": 11.862,
+      "text": "And we'll have to see that there's room for three."
+    },
+    {
+      "start": 13.123,
+      "end": 21.971,
+      "text": "Oh, you know what I mean."
+    },
+    {
+      "start": 22.171,
+      "end": 29.898,
+      "text": "When we're married, when we're married, we'll go down to cook, look through their tourist books,"
+    }
+  ],
+  "language": "en"
+}

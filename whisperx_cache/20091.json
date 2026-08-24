@@ -1,0 +1,26 @@
+{
+  "text": "I want to hear, want to hear, want to hear them all together. Please, please, you've got a jazz band here. Now the way they make this music moan, it's enough to make you leave your home. Why I love this band, every man that is in it,",
+  "segments": [
+    {
+      "start": 2.352,
+      "end": 5.574,
+      "text": "I want to hear, want to hear, want to hear them all together."
+    },
+    {
+      "start": 5.594,
+      "end": 19.702,
+      "text": "Please, please, you've got a jazz band here."
+    },
+    {
+      "start": 19.722,
+      "end": 25.425,
+      "text": "Now the way they make this music moan, it's enough to make you leave your home."
+    },
+    {
+      "start": 25.825,
+      "end": 29.947,
+      "text": "Why I love this band, every man that is in it,"
+    }
+  ],
+  "language": "en"
+}

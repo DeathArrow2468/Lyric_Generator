@@ -1,0 +1,21 @@
+{
+  "text": "Soak the beans for five or six hours. Put them in a pan and cover well with cold water. Put in the peel and the end.",
+  "segments": [
+    {
+      "start": 8.657,
+      "end": 10.278,
+      "text": "Soak the beans for five or six hours."
+    },
+    {
+      "start": 10.418,
+      "end": 17.181,
+      "text": "Put them in a pan and cover well with cold water."
+    },
+    {
+      "start": 17.241,
+      "end": 20.583,
+      "text": "Put in the peel and the end."
+    }
+  ],
+  "language": "en"
+}

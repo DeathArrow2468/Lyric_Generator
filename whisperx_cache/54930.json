@@ -1,0 +1,41 @@
+{
+  "text": "For the first time, I don't know what to do. I have to move on. I will never end. No, don't go. No, don't go. No, don't go. No, don't go.",
+  "segments": [
+    {
+      "start": 0.371,
+      "end": 11.375,
+      "text": "For the first time, I don't know what to do."
+    },
+    {
+      "start": 11.395,
+      "end": 12.496,
+      "text": "I have to move on."
+    },
+    {
+      "start": 12.516,
+      "end": 16.657,
+      "text": "I will never end."
+    },
+    {
+      "start": 17.518,
+      "end": 20.099,
+      "text": "No, don't go."
+    },
+    {
+      "start": 20.139,
+      "end": 21.239,
+      "text": "No, don't go."
+    },
+    {
+      "start": 21.279,
+      "end": 22.7,
+      "text": "No, don't go."
+    },
+    {
+      "start": 22.74,
+      "end": 23.64,
+      "text": "No, don't go."
+    }
+  ],
+  "language": "en"
+}

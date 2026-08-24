@@ -1,0 +1,16 @@
+{
+  "text": "Search. Easy water.",
+  "segments": [
+    {
+      "start": 0.771,
+      "end": 2.192,
+      "text": "Search."
+    },
+    {
+      "start": 2.312,
+      "end": 3.913,
+      "text": "Easy water."
+    }
+  ],
+  "language": "en"
+}

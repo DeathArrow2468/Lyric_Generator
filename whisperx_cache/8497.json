@@ -1,0 +1,36 @@
+{
+  "text": "This is a hard defeat. The Detroit girls run out of gas. Drinking whiskey from a plastic cup. Don't run and let it don't grow up. Screw your head off tight and make it last all night. The Hollywood.",
+  "segments": [
+    {
+      "start": 0.031,
+      "end": 2.552,
+      "text": "This is a hard defeat."
+    },
+    {
+      "start": 2.632,
+      "end": 4.714,
+      "text": "The Detroit girls run out of gas."
+    },
+    {
+      "start": 5.054,
+      "end": 6.655,
+      "text": "Drinking whiskey from a plastic cup."
+    },
+    {
+      "start": 6.695,
+      "end": 9.776,
+      "text": "Don't run and let it don't grow up."
+    },
+    {
+      "start": 10.937,
+      "end": 14.159,
+      "text": "Screw your head off tight and make it last all night."
+    },
+    {
+      "start": 14.179,
+      "end": 15.179,
+      "text": "The Hollywood."
+    }
+  ],
+  "language": "en"
+}

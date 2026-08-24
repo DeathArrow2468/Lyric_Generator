@@ -1,0 +1,61 @@
+{
+  "text": "You don't know who I am. Why, we have never met before. So he shouted out once more. Who? You. Me? Yes. Not me. I'm not the man. Sam met his friend one day, right near a swale cafe, and said it's time to dine. It's almost three.",
+  "segments": [
+    {
+      "start": 0.191,
+      "end": 2.411,
+      "text": "You don't know who I am."
+    },
+    {
+      "start": 2.951,
+      "end": 5.712,
+      "text": "Why, we have never met before."
+    },
+    {
+      "start": 6.092,
+      "end": 8.592,
+      "text": "So he shouted out once more."
+    },
+    {
+      "start": 8.632,
+      "end": 9.373,
+      "text": "Who?"
+    },
+    {
+      "start": 9.633,
+      "end": 9.933,
+      "text": "You."
+    },
+    {
+      "start": 10.213,
+      "end": 10.773,
+      "text": "Me?"
+    },
+    {
+      "start": 10.853,
+      "end": 11.273,
+      "text": "Yes."
+    },
+    {
+      "start": 11.353,
+      "end": 12.033,
+      "text": "Not me."
+    },
+    {
+      "start": 12.253,
+      "end": 13.733,
+      "text": "I'm not the man."
+    },
+    {
+      "start": 15.794,
+      "end": 27.296,
+      "text": "Sam met his friend one day, right near a swale cafe, and said it's time to dine."
+    },
+    {
+      "start": 27.396,
+      "end": 28.836,
+      "text": "It's almost three."
+    }
+  ],
+  "language": "en"
+}

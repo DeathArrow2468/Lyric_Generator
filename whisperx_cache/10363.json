@@ -1,0 +1,21 @@
+{
+  "text": "What a love that was true. She's dancing her heart away. Melody seems to",
+  "segments": [
+    {
+      "start": 0.131,
+      "end": 4.935,
+      "text": "What a love that was true."
+    },
+    {
+      "start": 5.656,
+      "end": 13.763,
+      "text": "She's dancing her heart away."
+    },
+    {
+      "start": 27.656,
+      "end": 29.898,
+      "text": "Melody seems to"
+    }
+  ],
+  "language": "en"
+}

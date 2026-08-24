@@ -1,0 +1,36 @@
+{
+  "text": "I'm back. I'm back. I'm back. I'm back. I'm back. I'm back.",
+  "segments": [
+    {
+      "start": 16.25,
+      "end": 17.971,
+      "text": "I'm back."
+    },
+    {
+      "start": 18.071,
+      "end": 18.812,
+      "text": "I'm back."
+    },
+    {
+      "start": 19.672,
+      "end": 20.313,
+      "text": "I'm back."
+    },
+    {
+      "start": 20.433,
+      "end": 22.734,
+      "text": "I'm back."
+    },
+    {
+      "start": 23.294,
+      "end": 24.215,
+      "text": "I'm back."
+    },
+    {
+      "start": 24.335,
+      "end": 25.176,
+      "text": "I'm back."
+    }
+  ],
+  "language": "en"
+}

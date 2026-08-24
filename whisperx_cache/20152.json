@@ -1,0 +1,21 @@
+{
+  "text": "I feel like it's something from somebody, sometimes. But I'll never do nothing for nobody, no time. When summer comes all cool and clear, and my friends see me drawing near,",
+  "segments": [
+    {
+      "start": 2.351,
+      "end": 7.894,
+      "text": "I feel like it's something from somebody, sometimes."
+    },
+    {
+      "start": 7.994,
+      "end": 18.459,
+      "text": "But I'll never do nothing for nobody, no time."
+    },
+    {
+      "start": 21.26,
+      "end": 29.104,
+      "text": "When summer comes all cool and clear, and my friends see me drawing near,"
+    }
+  ],
+  "language": "en"
+}

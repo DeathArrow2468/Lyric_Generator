@@ -1,0 +1,26 @@
+{
+  "text": "Yes, she gets up with a sigh, and then her work's begun. First she starts to cook the bread to find more. Then does the little dough and then, that she has to work and dress. Then she starts to cook the bread to find more.",
+  "segments": [
+    {
+      "start": 2.673,
+      "end": 11.141,
+      "text": "Yes, she gets up with a sigh, and then her work's begun."
+    },
+    {
+      "start": 11.221,
+      "end": 14.984,
+      "text": "First she starts to cook the bread to find more."
+    },
+    {
+      "start": 15.025,
+      "end": 23.612,
+      "text": "Then does the little dough and then, that she has to work and dress."
+    },
+    {
+      "start": 23.732,
+      "end": 26.255,
+      "text": "Then she starts to cook the bread to find more."
+    }
+  ],
+  "language": "en"
+}

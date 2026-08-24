@@ -1,0 +1,31 @@
+{
+  "text": "Pump it up, y'all. Do it like that. Pump it up, y'all. Do it like that. Pump it up, y'all.",
+  "segments": [
+    {
+      "start": 24.738,
+      "end": 25.902,
+      "text": "Pump it up, y'all."
+    },
+    {
+      "start": 25.923,
+      "end": 26.726,
+      "text": "Do it like that."
+    },
+    {
+      "start": 26.926,
+      "end": 28.091,
+      "text": "Pump it up, y'all."
+    },
+    {
+      "start": 28.111,
+      "end": 28.894,
+      "text": "Do it like that."
+    },
+    {
+      "start": 28.914,
+      "end": 29.737,
+      "text": "Pump it up, y'all."
+    }
+  ],
+  "language": "en"
+}

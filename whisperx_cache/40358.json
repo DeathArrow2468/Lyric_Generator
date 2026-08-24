@@ -1,0 +1,31 @@
+{
+  "text": "No one minds how far I've come to stay. I'll rise to the sky. It's all a problem if I don't do it. The end of the mission is in your hands. Although it's just a feeling,",
+  "segments": [
+    {
+      "start": 0.031,
+      "end": 1.211,
+      "text": "No one minds how far I've come to stay."
+    },
+    {
+      "start": 1.291,
+      "end": 1.831,
+      "text": "I'll rise to the sky."
+    },
+    {
+      "start": 1.851,
+      "end": 2.711,
+      "text": "It's all a problem if I don't do it."
+    },
+    {
+      "start": 2.731,
+      "end": 3.652,
+      "text": "The end of the mission is in your hands."
+    },
+    {
+      "start": 3.672,
+      "end": 4.332,
+      "text": "Although it's just a feeling,"
+    }
+  ],
+  "language": "en"
+}

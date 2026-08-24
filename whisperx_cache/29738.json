@@ -1,0 +1,51 @@
+{
+  "text": "Helps me when I'm down and feeling pretty blue. It's not a dirty word unless you eat it too. One more time again. Just say butter. We'll be home by ten. Just say butter. Over slept the test. Just say butter. Guess you know the rest.",
+  "segments": [
+    {
+      "start": 0.091,
+      "end": 4.613,
+      "text": "Helps me when I'm down and feeling pretty blue."
+    },
+    {
+      "start": 5.773,
+      "end": 12.136,
+      "text": "It's not a dirty word unless you eat it too."
+    },
+    {
+      "start": 14.337,
+      "end": 16.837,
+      "text": "One more time again."
+    },
+    {
+      "start": 17.138,
+      "end": 18.818,
+      "text": "Just say butter."
+    },
+    {
+      "start": 18.838,
+      "end": 20.699,
+      "text": "We'll be home by ten."
+    },
+    {
+      "start": 20.939,
+      "end": 22.74,
+      "text": "Just say butter."
+    },
+    {
+      "start": 22.76,
+      "end": 24.3,
+      "text": "Over slept the test."
+    },
+    {
+      "start": 24.701,
+      "end": 26.001,
+      "text": "Just say butter."
+    },
+    {
+      "start": 26.021,
+      "end": 28.002,
+      "text": "Guess you know the rest."
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,16 @@
+{
+  "text": "This is high, high, high, high, high, high, high, high. This is high, high, high, high, high, high, high, high.",
+  "segments": [
+    {
+      "start": 14.448,
+      "end": 17.832,
+      "text": "This is high, high, high, high, high, high, high, high."
+    },
+    {
+      "start": 17.852,
+      "end": 29.286,
+      "text": "This is high, high, high, high, high, high, high, high."
+    }
+  ],
+  "language": "en"
+}

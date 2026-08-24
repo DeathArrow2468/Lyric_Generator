@@ -1,0 +1,51 @@
+{
+  "text": "I'm ready. I'm ready. I'm ready. I'm ready. I'm ready. I'm ready. I'm ready. I'm ready. I'm ready.",
+  "segments": [
+    {
+      "start": 0.84,
+      "end": 1.721,
+      "text": "I'm ready."
+    },
+    {
+      "start": 1.901,
+      "end": 2.501,
+      "text": "I'm ready."
+    },
+    {
+      "start": 2.681,
+      "end": 3.542,
+      "text": "I'm ready."
+    },
+    {
+      "start": 3.602,
+      "end": 4.222,
+      "text": "I'm ready."
+    },
+    {
+      "start": 4.282,
+      "end": 5.003,
+      "text": "I'm ready."
+    },
+    {
+      "start": 5.083,
+      "end": 5.663,
+      "text": "I'm ready."
+    },
+    {
+      "start": 5.703,
+      "end": 6.424,
+      "text": "I'm ready."
+    },
+    {
+      "start": 6.484,
+      "end": 6.964,
+      "text": "I'm ready."
+    },
+    {
+      "start": 7.004,
+      "end": 7.504,
+      "text": "I'm ready."
+    }
+  ],
+  "language": "en"
+}

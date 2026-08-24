@@ -1,0 +1,16 @@
+{
+  "text": "not a dish like a bird flying under the sea. But yes, a fish is not a dish like a bird flying under the sea.",
+  "segments": [
+    {
+      "start": 0.051,
+      "end": 5.855,
+      "text": "not a dish like a bird flying under the sea."
+    },
+    {
+      "start": 6.435,
+      "end": 15.681,
+      "text": "But yes, a fish is not a dish like a bird flying under the sea."
+    }
+  ],
+  "language": "en"
+}

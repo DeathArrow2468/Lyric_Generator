@@ -1,0 +1,26 @@
+{
+  "text": "She's as pure as the lily in the dell. And she's as pretty as a heather, The bony purple heather, Where April's got the bell. Ah, I love the latte, A bony, healing latte, Chicken warble like the beavers in the dell. She's a name-chillin' brick candy, With a jolly laugh on Monday, And is modded, As her names take the blue flag,",
+  "segments": [
+    {
+      "start": 0.151,
+      "end": 3.753,
+      "text": "She's as pure as the lily in the dell."
+    },
+    {
+      "start": 3.893,
+      "end": 13.898,
+      "text": "And she's as pretty as a heather, The bony purple heather, Where April's got the bell."
+    },
+    {
+      "start": 14.979,
+      "end": 22.103,
+      "text": "Ah, I love the latte, A bony, healing latte, Chicken warble like the beavers in the dell."
+    },
+    {
+      "start": 23.143,
+      "end": 29.967,
+      "text": "She's a name-chillin' brick candy, With a jolly laugh on Monday, And is modded, As her names take the blue flag,"
+    }
+  ],
+  "language": "en"
+}

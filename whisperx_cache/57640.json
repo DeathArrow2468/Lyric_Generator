@@ -1,0 +1,16 @@
+{
+  "text": "You talk, you talk, you talk, you talk, you talk a mile a minute. You keep apologizing.",
+  "segments": [
+    {
+      "start": 0.071,
+      "end": 4.015,
+      "text": "You talk, you talk, you talk, you talk, you talk a mile a minute."
+    },
+    {
+      "start": 4.756,
+      "end": 6.298,
+      "text": "You keep apologizing."
+    }
+  ],
+  "language": "en"
+}

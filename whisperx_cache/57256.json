@@ -1,0 +1,21 @@
+{
+  "text": "La fiesta termina, llegó el final. Camina feliz, te regreso a mi hogar. Las pin, estaban ahí, iluminados.",
+  "segments": [
+    {
+      "start": 5.361,
+      "end": 8.003,
+      "text": "La fiesta termina, llegó el final."
+    },
+    {
+      "start": 8.023,
+      "end": 10.385,
+      "text": "Camina feliz, te regreso a mi hogar."
+    },
+    {
+      "start": 11.165,
+      "end": 13.967,
+      "text": "Las pin, estaban ahí, iluminados."
+    }
+  ],
+  "language": "es"
+}

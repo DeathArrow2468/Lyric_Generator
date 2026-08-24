@@ -1,0 +1,36 @@
+{
+  "text": "Hey, what's that sound? Kick her and just run away from messin' around. Come on. Come on and rock the world. If they tell you you can't do it, you just turn it up and play like a girl. Four little fish swimming in the water.",
+  "segments": [
+    {
+      "start": 8.939,
+      "end": 10.22,
+      "text": "Hey, what's that sound?"
+    },
+    {
+      "start": 10.66,
+      "end": 13.561,
+      "text": "Kick her and just run away from messin' around."
+    },
+    {
+      "start": 13.821,
+      "end": 14.701,
+      "text": "Come on."
+    },
+    {
+      "start": 16.282,
+      "end": 18.263,
+      "text": "Come on and rock the world."
+    },
+    {
+      "start": 21.004,
+      "end": 25.025,
+      "text": "If they tell you you can't do it, you just turn it up and play like a girl."
+    },
+    {
+      "start": 25.085,
+      "end": 29.807,
+      "text": "Four little fish swimming in the water."
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,16 @@
+{
+  "text": "I love cheese. I love cheese.",
+  "segments": [
+    {
+      "start": 11.125,
+      "end": 12.187,
+      "text": "I love cheese."
+    },
+    {
+      "start": 12.247,
+      "end": 13.589,
+      "text": "I love cheese."
+    }
+  ],
+  "language": "en"
+}

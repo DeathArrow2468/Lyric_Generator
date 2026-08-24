@@ -1,0 +1,26 @@
+{
+  "text": "Hahahaha! Hahahaha! Hahahaha! Hahahaha!",
+  "segments": [
+    {
+      "start": 0.351,
+      "end": 1.032,
+      "text": "Hahahaha!"
+    },
+    {
+      "start": 1.072,
+      "end": 2.052,
+      "text": "Hahahaha!"
+    },
+    {
+      "start": 2.152,
+      "end": 3.093,
+      "text": "Hahahaha!"
+    },
+    {
+      "start": 3.173,
+      "end": 3.893,
+      "text": "Hahahaha!"
+    }
+  ],
+  "language": "en"
+}

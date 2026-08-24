@@ -1,0 +1,16 @@
+{
+  "text": "We are now approaching Millionaire's Row. On Tuesday, Wednesday, Thursday, Friday, Saturday, they're robbing everybody that they can.",
+  "segments": [
+    {
+      "start": 0.231,
+      "end": 4.295,
+      "text": "We are now approaching Millionaire's Row."
+    },
+    {
+      "start": 4.315,
+      "end": 10.1,
+      "text": "On Tuesday, Wednesday, Thursday, Friday, Saturday, they're robbing everybody that they can."
+    }
+  ],
+  "language": "en"
+}

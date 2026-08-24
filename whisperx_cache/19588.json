@@ -1,0 +1,46 @@
+{
+  "text": "Has anybody here seen Rover? I'm looking for him now all over. He's a hunting dog, all right. He keeps me hunting day and night. This is what I worry over. Say, who put the roving Rover? My whistle's getting dry. It seems as if I hear that mongrel whine.",
+  "segments": [
+    {
+      "start": 1.513,
+      "end": 4.595,
+      "text": "Has anybody here seen Rover?"
+    },
+    {
+      "start": 4.756,
+      "end": 9.32,
+      "text": "I'm looking for him now all over."
+    },
+    {
+      "start": 9.7,
+      "end": 11.802,
+      "text": "He's a hunting dog, all right."
+    },
+    {
+      "start": 11.942,
+      "end": 14.624,
+      "text": "He keeps me hunting day and night."
+    },
+    {
+      "start": 14.704,
+      "end": 17.047,
+      "text": "This is what I worry over."
+    },
+    {
+      "start": 17.287,
+      "end": 21.911,
+      "text": "Say, who put the roving Rover?"
+    },
+    {
+      "start": 22.031,
+      "end": 24.173,
+      "text": "My whistle's getting dry."
+    },
+    {
+      "start": 24.193,
+      "end": 27.756,
+      "text": "It seems as if I hear that mongrel whine."
+    }
+  ],
+  "language": "en"
+}

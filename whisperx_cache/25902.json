@@ -1,0 +1,26 @@
+{
+  "text": "So I'll die on the road. Play this here harp until I get old. I hurt nobody, so don't mess with me. Leave me alone and just let me go.",
+  "segments": [
+    {
+      "start": 18.053,
+      "end": 20.699,
+      "text": "So I'll die on the road."
+    },
+    {
+      "start": 21.32,
+      "end": 24.005,
+      "text": "Play this here harp until I get old."
+    },
+    {
+      "start": 24.667,
+      "end": 27.413,
+      "text": "I hurt nobody, so don't mess with me."
+    },
+    {
+      "start": 28.094,
+      "end": 30.018,
+      "text": "Leave me alone and just let me go."
+    }
+  ],
+  "language": "en"
+}

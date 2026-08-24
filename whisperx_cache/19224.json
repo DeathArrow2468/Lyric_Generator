@@ -1,0 +1,21 @@
+{
+  "text": "And I did not want to be the next on their list. Playing chess was my best decision ever. I waited for Valentine's Day.",
+  "segments": [
+    {
+      "start": 10.684,
+      "end": 13.848,
+      "text": "And I did not want to be the next on their list."
+    },
+    {
+      "start": 13.968,
+      "end": 20.736,
+      "text": "Playing chess was my best decision ever."
+    },
+    {
+      "start": 21.036,
+      "end": 23.319,
+      "text": "I waited for Valentine's Day."
+    }
+  ],
+  "language": "en"
+}

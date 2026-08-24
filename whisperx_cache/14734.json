@@ -1,0 +1,26 @@
+{
+  "text": "This afternoon, your face not so bad, your bark's not too scary. I would kiss you for remembering my address. Find you in the dumps. I have money out of drugs.",
+  "segments": [
+    {
+      "start": 10.598,
+      "end": 17.933,
+      "text": "This afternoon, your face not so bad, your bark's not too scary."
+    },
+    {
+      "start": 18.114,
+      "end": 24.787,
+      "text": "I would kiss you for remembering my address."
+    },
+    {
+      "start": 24.907,
+      "end": 26.992,
+      "text": "Find you in the dumps."
+    },
+    {
+      "start": 27.012,
+      "end": 30.018,
+      "text": "I have money out of drugs."
+    }
+  ],
+  "language": "en"
+}

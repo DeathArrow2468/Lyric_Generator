@@ -1,0 +1,31 @@
+{
+  "text": "Yes mon amir, dubi dubi! Yes sir! This is dub style revolution! Aha! Music rock the nation!",
+  "segments": [
+    {
+      "start": 2.302,
+      "end": 4.204,
+      "text": "Yes mon amir, dubi dubi!"
+    },
+    {
+      "start": 4.264,
+      "end": 8.608,
+      "text": "Yes sir!"
+    },
+    {
+      "start": 9.969,
+      "end": 11.81,
+      "text": "This is dub style revolution!"
+    },
+    {
+      "start": 12.451,
+      "end": 12.591,
+      "text": "Aha!"
+    },
+    {
+      "start": 13.091,
+      "end": 14.573,
+      "text": "Music rock the nation!"
+    }
+  ],
+  "language": "en"
+}

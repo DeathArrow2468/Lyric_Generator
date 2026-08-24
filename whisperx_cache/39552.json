@@ -1,0 +1,26 @@
+{
+  "text": "I've been waiting for you. I've been waiting for you. I've been waiting for you. I've been waiting for you.",
+  "segments": [
+    {
+      "start": 1.852,
+      "end": 5.215,
+      "text": "I've been waiting for you."
+    },
+    {
+      "start": 5.235,
+      "end": 8.918,
+      "text": "I've been waiting for you."
+    },
+    {
+      "start": 8.958,
+      "end": 27.235,
+      "text": "I've been waiting for you."
+    },
+    {
+      "start": 27.295,
+      "end": 30.018,
+      "text": "I've been waiting for you."
+    }
+  ],
+  "language": "nn"
+}

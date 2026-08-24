@@ -1,0 +1,16 @@
+{
+  "text": "Have I told you about my baby? She won't answer those calls She won't answer that phone, no, no Stop behind those walls",
+  "segments": [
+    {
+      "start": 5.37,
+      "end": 8.612,
+      "text": "Have I told you about my baby?"
+    },
+    {
+      "start": 12.135,
+      "end": 28.946,
+      "text": "She won't answer those calls She won't answer that phone, no, no Stop behind those walls"
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,16 @@
+{
+  "text": "Don't you know that? Don't you?",
+  "segments": [
+    {
+      "start": 20.5,
+      "end": 20.96,
+      "text": "Don't you know that?"
+    },
+    {
+      "start": 20.981,
+      "end": 21.201,
+      "text": "Don't you?"
+    }
+  ],
+  "language": "en"
+}

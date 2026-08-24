@@ -1,0 +1,36 @@
+{
+  "text": "In company I need me. Can't you see I'm lonely? Lonely as can be. For I want you only. There's no one else for me and you know it. Sometimes here I wonder why you keep away.",
+  "segments": [
+    {
+      "start": 1.032,
+      "end": 7.137,
+      "text": "In company I need me."
+    },
+    {
+      "start": 7.298,
+      "end": 10.2,
+      "text": "Can't you see I'm lonely?"
+    },
+    {
+      "start": 10.24,
+      "end": 13.763,
+      "text": "Lonely as can be."
+    },
+    {
+      "start": 13.863,
+      "end": 16.206,
+      "text": "For I want you only."
+    },
+    {
+      "start": 16.306,
+      "end": 22.411,
+      "text": "There's no one else for me and you know it."
+    },
+    {
+      "start": 22.892,
+      "end": 28.617,
+      "text": "Sometimes here I wonder why you keep away."
+    }
+  ],
+  "language": "en"
+}

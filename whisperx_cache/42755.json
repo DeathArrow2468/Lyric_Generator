@@ -1,0 +1,16 @@
+{
+  "text": "I'm not going to lie. I'm not going to lie.",
+  "segments": [
+    {
+      "start": 0.091,
+      "end": 0.851,
+      "text": "I'm not going to lie."
+    },
+    {
+      "start": 0.871,
+      "end": 1.531,
+      "text": "I'm not going to lie."
+    }
+  ],
+  "language": "en"
+}

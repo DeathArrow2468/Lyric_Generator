@@ -1,0 +1,21 @@
+{
+  "text": "Who's your father? Who's your dog? Tell me something I don't know If I beat you I would not Tell you something that I don't I wanna dye my hair black",
+  "segments": [
+    {
+      "start": 5.721,
+      "end": 6.761,
+      "text": "Who's your father?"
+    },
+    {
+      "start": 7.021,
+      "end": 8.342,
+      "text": "Who's your dog?"
+    },
+    {
+      "start": 11.843,
+      "end": 28.127,
+      "text": "Tell me something I don't know If I beat you I would not Tell you something that I don't I wanna dye my hair black"
+    }
+  ],
+  "language": "en"
+}

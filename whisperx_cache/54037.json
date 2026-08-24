@@ -1,0 +1,36 @@
+{
+  "text": "Are you real, not real? Are you real, not real? Are you real, not real? Are you real, not real? Are you real, not real? Are you real, not real?",
+  "segments": [
+    {
+      "start": 7.203,
+      "end": 7.663,
+      "text": "Are you real, not real?"
+    },
+    {
+      "start": 7.684,
+      "end": 8.144,
+      "text": "Are you real, not real?"
+    },
+    {
+      "start": 8.164,
+      "end": 8.645,
+      "text": "Are you real, not real?"
+    },
+    {
+      "start": 8.665,
+      "end": 9.185,
+      "text": "Are you real, not real?"
+    },
+    {
+      "start": 9.225,
+      "end": 9.706,
+      "text": "Are you real, not real?"
+    },
+    {
+      "start": 9.726,
+      "end": 10.206,
+      "text": "Are you real, not real?"
+    }
+  ],
+  "language": "en"
+}

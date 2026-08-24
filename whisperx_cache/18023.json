@@ -1,0 +1,41 @@
+{
+  "text": "Come and take me to the cabaret. Take me to the cabaret. Take me there and let me stay. Let me hear those popular songs. Love songs, ragdolls, tunes about girls. When I hear that raggedy dream, then I feel as though I'm a thing. Your daddy did the same thing fifty years ago.",
+  "segments": [
+    {
+      "start": 0.231,
+      "end": 5.436,
+      "text": "Come and take me to the cabaret."
+    },
+    {
+      "start": 5.536,
+      "end": 9.239,
+      "text": "Take me to the cabaret."
+    },
+    {
+      "start": 9.439,
+      "end": 12.242,
+      "text": "Take me there and let me stay."
+    },
+    {
+      "start": 12.482,
+      "end": 15.065,
+      "text": "Let me hear those popular songs."
+    },
+    {
+      "start": 15.505,
+      "end": 18.127,
+      "text": "Love songs, ragdolls, tunes about girls."
+    },
+    {
+      "start": 18.488,
+      "end": 23.993,
+      "text": "When I hear that raggedy dream, then I feel as though I'm a thing."
+    },
+    {
+      "start": 24.253,
+      "end": 28.517,
+      "text": "Your daddy did the same thing fifty years ago."
+    }
+  ],
+  "language": "en"
+}

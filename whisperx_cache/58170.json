@@ -1,0 +1,21 @@
+{
+  "text": "Oh! Oh! Oh!",
+  "segments": [
+    {
+      "start": 0.571,
+      "end": 0.811,
+      "text": "Oh!"
+    },
+    {
+      "start": 1.012,
+      "end": 1.152,
+      "text": "Oh!"
+    },
+    {
+      "start": 1.512,
+      "end": 1.632,
+      "text": "Oh!"
+    }
+  ],
+  "language": "en"
+}

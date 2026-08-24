@@ -1,0 +1,26 @@
+{
+  "text": "place that has a cat and I have a senior citizen that wants the room. If it's still available on October 1st, I know both of them are going to get in touch with you before then and there's no way you can get in touch with me. Are you close enough to pick up? I keep getting an answering machine.",
+  "segments": [
+    {
+      "start": 0.051,
+      "end": 7.693,
+      "text": "place that has a cat and I have a senior citizen that wants the room."
+    },
+    {
+      "start": 8.533,
+      "end": 22.857,
+      "text": "If it's still available on October 1st, I know both of them are going to get in touch with you before then and there's no way you can get in touch with me."
+    },
+    {
+      "start": 22.877,
+      "end": 26.118,
+      "text": "Are you close enough to pick up?"
+    },
+    {
+      "start": 26.298,
+      "end": 28.959,
+      "text": "I keep getting an answering machine."
+    }
+  ],
+  "language": "en"
+}

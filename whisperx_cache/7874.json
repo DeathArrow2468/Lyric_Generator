@@ -1,0 +1,21 @@
+{
+  "text": "Why, he's a real grump, daddy. It's not a coup gonna bring. What if I simply ask you down?",
+  "segments": [
+    {
+      "start": 0.111,
+      "end": 2.893,
+      "text": "Why, he's a real grump, daddy."
+    },
+    {
+      "start": 2.993,
+      "end": 4.635,
+      "text": "It's not a coup gonna bring."
+    },
+    {
+      "start": 4.655,
+      "end": 7.157,
+      "text": "What if I simply ask you down?"
+    }
+  ],
+  "language": "en"
+}

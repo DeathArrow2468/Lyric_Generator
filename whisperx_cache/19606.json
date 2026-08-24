@@ -1,0 +1,16 @@
+{
+  "text": "I don't know. Nobody knows who won.",
+  "segments": [
+    {
+      "start": 0.511,
+      "end": 2.392,
+      "text": "I don't know."
+    },
+    {
+      "start": 2.492,
+      "end": 4.754,
+      "text": "Nobody knows who won."
+    }
+  ],
+  "language": "en"
+}

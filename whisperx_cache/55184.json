@@ -1,0 +1,31 @@
+{
+  "text": "You see? You see? Your stupid minds! Stupid! Stupid!",
+  "segments": [
+    {
+      "start": 0.941,
+      "end": 1.842,
+      "text": "You see?"
+    },
+    {
+      "start": 1.962,
+      "end": 2.902,
+      "text": "You see?"
+    },
+    {
+      "start": 5.304,
+      "end": 9.747,
+      "text": "Your stupid minds!"
+    },
+    {
+      "start": 9.767,
+      "end": 10.287,
+      "text": "Stupid!"
+    },
+    {
+      "start": 10.307,
+      "end": 10.847,
+      "text": "Stupid!"
+    }
+  ],
+  "language": "en"
+}

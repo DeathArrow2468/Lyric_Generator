@@ -1,0 +1,26 @@
+{
+  "text": "glistening silver, green and black in the innocent rushing of a shallow stream. Neck snapped, bill and closed eyes rest softly against feathered breast. I stand in admiration of this duck's coffin in the shining spring sun. Cars hum on bridges above.",
+  "segments": [
+    {
+      "start": 0.111,
+      "end": 6.835,
+      "text": "glistening silver, green and black in the innocent rushing of a shallow stream."
+    },
+    {
+      "start": 8.576,
+      "end": 15.579,
+      "text": "Neck snapped, bill and closed eyes rest softly against feathered breast."
+    },
+    {
+      "start": 17.58,
+      "end": 23.564,
+      "text": "I stand in admiration of this duck's coffin in the shining spring sun."
+    },
+    {
+      "start": 26.945,
+      "end": 29.307,
+      "text": "Cars hum on bridges above."
+    }
+  ],
+  "language": "en"
+}

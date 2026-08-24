@@ -1,0 +1,16 @@
+{
+  "text": "I want you, I want you, though you're unruly. Why do you misbehave?",
+  "segments": [
+    {
+      "start": 0.451,
+      "end": 20.77,
+      "text": "I want you, I want you, though you're unruly."
+    },
+    {
+      "start": 20.85,
+      "end": 27.916,
+      "text": "Why do you misbehave?"
+    }
+  ],
+  "language": "en"
+}

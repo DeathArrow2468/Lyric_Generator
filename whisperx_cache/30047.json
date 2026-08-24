@@ -1,0 +1,16 @@
+{
+  "text": "Who is that? Who is that?",
+  "segments": [
+    {
+      "start": 7.74,
+      "end": 9.283,
+      "text": "Who is that?"
+    },
+    {
+      "start": 9.463,
+      "end": 15.453,
+      "text": "Who is that?"
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,41 @@
+{
+  "text": "It's sick! It's sick! It's sick! It's sick! It's sick! It's sick! It's sick!",
+  "segments": [
+    {
+      "start": 2.298,
+      "end": 3.158,
+      "text": "It's sick!"
+    },
+    {
+      "start": 3.718,
+      "end": 4.319,
+      "text": "It's sick!"
+    },
+    {
+      "start": 5.219,
+      "end": 5.839,
+      "text": "It's sick!"
+    },
+    {
+      "start": 6.759,
+      "end": 7.3,
+      "text": "It's sick!"
+    },
+    {
+      "start": 8.7,
+      "end": 15.822,
+      "text": "It's sick!"
+    },
+    {
+      "start": 16.062,
+      "end": 17.883,
+      "text": "It's sick!"
+    },
+    {
+      "start": 18.803,
+      "end": 19.324,
+      "text": "It's sick!"
+    }
+  ],
+  "language": "en"
+}

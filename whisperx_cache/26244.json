@@ -1,0 +1,16 @@
+{
+  "text": "Policeman You're working for the government Policeman That uniform? Excellent Policeman Protectors from the junkies Policeman says",
+  "segments": [
+    {
+      "start": 17.3,
+      "end": 23.443,
+      "text": "Policeman You're working for the government Policeman That uniform?"
+    },
+    {
+      "start": 23.844,
+      "end": 29.427,
+      "text": "Excellent Policeman Protectors from the junkies Policeman says"
+    }
+  ],
+  "language": "en"
+}

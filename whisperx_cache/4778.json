@@ -1,0 +1,31 @@
+{
+  "text": "She called the cops, she said. She made her every 9-1-1. The group of rockin' haters havin' too much fun. She's always playin' music in the middle of the night. Yeah, she's always havin' fun when she caught that run.",
+  "segments": [
+    {
+      "start": 0.071,
+      "end": 2.214,
+      "text": "She called the cops, she said."
+    },
+    {
+      "start": 3.675,
+      "end": 5.177,
+      "text": "She made her every 9-1-1."
+    },
+    {
+      "start": 5.938,
+      "end": 9.081,
+      "text": "The group of rockin' haters havin' too much fun."
+    },
+    {
+      "start": 9.202,
+      "end": 13.046,
+      "text": "She's always playin' music in the middle of the night."
+    },
+    {
+      "start": 13.106,
+      "end": 16.53,
+      "text": "Yeah, she's always havin' fun when she caught that run."
+    }
+  ],
+  "language": "en"
+}

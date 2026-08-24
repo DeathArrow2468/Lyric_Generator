@@ -1,0 +1,56 @@
+{
+  "text": "Your life is a lie. Yeah, yeah, yeah, yeah. Well, neo-cars left the two-tower bound. I tell ya, tell ya, tell ya, it's conspiracy. Malcom X, you shoulda known. I tell ya, tell ya, tell ya, it's conspiracy. Drugs in the water keep us dumb. I tell ya, tell ya, tell ya, it's conspiracy. Fuckin' admit it, it's conspiracy. Just fuckin' admit it, it's conspiracy.",
+  "segments": [
+    {
+      "start": 0.371,
+      "end": 1.612,
+      "text": "Your life is a lie."
+    },
+    {
+      "start": 2.732,
+      "end": 4.192,
+      "text": "Yeah, yeah, yeah, yeah."
+    },
+    {
+      "start": 4.213,
+      "end": 6.513,
+      "text": "Well, neo-cars left the two-tower bound."
+    },
+    {
+      "start": 6.793,
+      "end": 9.855,
+      "text": "I tell ya, tell ya, tell ya, it's conspiracy."
+    },
+    {
+      "start": 9.875,
+      "end": 11.735,
+      "text": "Malcom X, you shoulda known."
+    },
+    {
+      "start": 11.815,
+      "end": 14.456,
+      "text": "I tell ya, tell ya, tell ya, it's conspiracy."
+    },
+    {
+      "start": 14.796,
+      "end": 17.197,
+      "text": "Drugs in the water keep us dumb."
+    },
+    {
+      "start": 17.217,
+      "end": 22.059,
+      "text": "I tell ya, tell ya, tell ya, it's conspiracy."
+    },
+    {
+      "start": 22.139,
+      "end": 23.66,
+      "text": "Fuckin' admit it, it's conspiracy."
+    },
+    {
+      "start": 23.68,
+      "end": 25.02,
+      "text": "Just fuckin' admit it, it's conspiracy."
+    }
+  ],
+  "language": "en"
+}

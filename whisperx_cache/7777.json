@@ -1,0 +1,26 @@
+{
+  "text": "You will never see me. I lost your hand. I lost your hand. I lost your hand.",
+  "segments": [
+    {
+      "start": 0.071,
+      "end": 13.66,
+      "text": "You will never see me."
+    },
+    {
+      "start": 14.08,
+      "end": 20.304,
+      "text": "I lost your hand."
+    },
+    {
+      "start": 20.965,
+      "end": 25.708,
+      "text": "I lost your hand."
+    },
+    {
+      "start": 25.968,
+      "end": 27.709,
+      "text": "I lost your hand."
+    }
+  ],
+  "language": "en"
+}

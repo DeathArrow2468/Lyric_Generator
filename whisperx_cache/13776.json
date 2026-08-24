@@ -1,0 +1,41 @@
+{
+  "text": "Oh, I got a feeling things ain't going right. I tried to call you. I tried to call you. But the numbers could change. I tried to call you. But the numbers could change. I said operator, please darling,",
+  "segments": [
+    {
+      "start": 0.632,
+      "end": 9.379,
+      "text": "Oh, I got a feeling things ain't going right."
+    },
+    {
+      "start": 10.0,
+      "end": 12.162,
+      "text": "I tried to call you."
+    },
+    {
+      "start": 12.182,
+      "end": 14.224,
+      "text": "I tried to call you."
+    },
+    {
+      "start": 14.384,
+      "end": 17.427,
+      "text": "But the numbers could change."
+    },
+    {
+      "start": 17.627,
+      "end": 20.93,
+      "text": "I tried to call you."
+    },
+    {
+      "start": 20.97,
+      "end": 24.413,
+      "text": "But the numbers could change."
+    },
+    {
+      "start": 24.673,
+      "end": 27.776,
+      "text": "I said operator, please darling,"
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,21 @@
+{
+  "text": "Rose around the purple heather, with your gold, lassie gold. And we'll all go together, to pick wild mountain thyme. All around the blooming heather, with your gold, lassie gold.",
+  "segments": [
+    {
+      "start": 0.371,
+      "end": 7.196,
+      "text": "Rose around the purple heather, with your gold, lassie gold."
+    },
+    {
+      "start": 7.316,
+      "end": 17.383,
+      "text": "And we'll all go together, to pick wild mountain thyme."
+    },
+    {
+      "start": 18.064,
+      "end": 25.609,
+      "text": "All around the blooming heather, with your gold, lassie gold."
+    }
+  ],
+  "language": "en"
+}

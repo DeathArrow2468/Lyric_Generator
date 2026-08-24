@@ -1,0 +1,31 @@
+{
+  "text": "putting a wedding gown next to the body of her husband. She killed her husband on the wedding night. Why? Because he tried to make her do it, but he couldn't. She was found spattered with blood.",
+  "segments": [
+    {
+      "start": 0.371,
+      "end": 4.995,
+      "text": "putting a wedding gown next to the body of her husband."
+    },
+    {
+      "start": 5.495,
+      "end": 8.297,
+      "text": "She killed her husband on the wedding night."
+    },
+    {
+      "start": 8.317,
+      "end": 8.477,
+      "text": "Why?"
+    },
+    {
+      "start": 8.537,
+      "end": 17.844,
+      "text": "Because he tried to make her do it, but he couldn't."
+    },
+    {
+      "start": 18.624,
+      "end": 25.369,
+      "text": "She was found spattered with blood."
+    }
+  ],
+  "language": "en"
+}

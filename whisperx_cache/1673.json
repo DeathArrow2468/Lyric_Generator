@@ -1,0 +1,16 @@
+{
+  "text": "We're going to be in a lot of places. How are you, my boy?",
+  "segments": [
+    {
+      "start": 0.031,
+      "end": 16.529,
+      "text": "We're going to be in a lot of places."
+    },
+    {
+      "start": 16.549,
+      "end": 20.213,
+      "text": "How are you, my boy?"
+    }
+  ],
+  "language": "nn"
+}

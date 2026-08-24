@@ -1,0 +1,41 @@
+{
+  "text": "This is Jeff, I can help you. Hi, I was calling to see if you guys had those new radiated shower heads in your hardware department. Give me a second here when they walk down there, see what we have. Radiated shower heads? Yeah. They spin both ways? Okay.",
+  "segments": [
+    {
+      "start": 6.224,
+      "end": 7.385,
+      "text": "This is Jeff, I can help you."
+    },
+    {
+      "start": 7.885,
+      "end": 12.849,
+      "text": "Hi, I was calling to see if you guys had those new radiated shower heads in your hardware department."
+    },
+    {
+      "start": 14.691,
+      "end": 18.134,
+      "text": "Give me a second here when they walk down there, see what we have."
+    },
+    {
+      "start": 21.397,
+      "end": 23.119,
+      "text": "Radiated shower heads?"
+    },
+    {
+      "start": 23.539,
+      "end": 23.899,
+      "text": "Yeah."
+    },
+    {
+      "start": 24.56,
+      "end": 25.481,
+      "text": "They spin both ways?"
+    },
+    {
+      "start": 27.402,
+      "end": 27.763,
+      "text": "Okay."
+    }
+  ],
+  "language": "en"
+}

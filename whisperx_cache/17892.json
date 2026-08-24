@@ -1,0 +1,46 @@
+{
+  "text": "Don't you know? Father God's gonna take you away. Gonna take you to Paris. Take you to New York. Well, Anna, baby. Boy, you'll win. Can't compete when there's something better. Anna, baby.",
+  "segments": [
+    {
+      "start": 0.531,
+      "end": 5.914,
+      "text": "Don't you know?"
+    },
+    {
+      "start": 6.274,
+      "end": 11.057,
+      "text": "Father God's gonna take you away."
+    },
+    {
+      "start": 11.337,
+      "end": 13.998,
+      "text": "Gonna take you to Paris."
+    },
+    {
+      "start": 14.139,
+      "end": 17.901,
+      "text": "Take you to New York."
+    },
+    {
+      "start": 18.001,
+      "end": 21.002,
+      "text": "Well, Anna, baby."
+    },
+    {
+      "start": 21.042,
+      "end": 22.943,
+      "text": "Boy, you'll win."
+    },
+    {
+      "start": 23.043,
+      "end": 27.686,
+      "text": "Can't compete when there's something better."
+    },
+    {
+      "start": 27.846,
+      "end": 29.147,
+      "text": "Anna, baby."
+    }
+  ],
+  "language": "en"
+}

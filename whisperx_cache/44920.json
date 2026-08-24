@@ -1,0 +1,36 @@
+{
+  "text": "Oh, it's a nightmare, it's a nightmare, it's a nightmare. Oh, she's out of her house, she's been trying to get to the street. She's coming up the stairs, she's seen it, baby. Oh, the blood, oh, the blood. And she's eating candy on the floor. Oh, it's a nightmare, it's a nightmare, it's a nightmare.",
+  "segments": [
+    {
+      "start": 0.091,
+      "end": 10.457,
+      "text": "Oh, it's a nightmare, it's a nightmare, it's a nightmare."
+    },
+    {
+      "start": 10.497,
+      "end": 14.919,
+      "text": "Oh, she's out of her house, she's been trying to get to the street."
+    },
+    {
+      "start": 15.099,
+      "end": 17.881,
+      "text": "She's coming up the stairs, she's seen it, baby."
+    },
+    {
+      "start": 18.021,
+      "end": 20.362,
+      "text": "Oh, the blood, oh, the blood."
+    },
+    {
+      "start": 20.722,
+      "end": 23.924,
+      "text": "And she's eating candy on the floor."
+    },
+    {
+      "start": 24.004,
+      "end": 29.967,
+      "text": "Oh, it's a nightmare, it's a nightmare, it's a nightmare."
+    }
+  ],
+  "language": "en"
+}

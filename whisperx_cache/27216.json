@@ -1,0 +1,26 @@
+{
+  "text": "Do you like kung fu? Do you like kung fu? Do you like kung fu? Do you like kung fu?",
+  "segments": [
+    {
+      "start": 1.533,
+      "end": 5.197,
+      "text": "Do you like kung fu?"
+    },
+    {
+      "start": 5.317,
+      "end": 8.139,
+      "text": "Do you like kung fu?"
+    },
+    {
+      "start": 8.279,
+      "end": 10.502,
+      "text": "Do you like kung fu?"
+    },
+    {
+      "start": 10.602,
+      "end": 12.724,
+      "text": "Do you like kung fu?"
+    }
+  ],
+  "language": "en"
+}

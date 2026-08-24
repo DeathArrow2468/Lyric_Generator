@@ -1,0 +1,31 @@
+{
+  "text": "The rich get rich and the poor get children. In the meantime, in between times, ain't we got fun? Just to make their troubles nearly double, something happened last night. To the chimney a gray bird came, missed a stalk of his name. And I'll bet you picked a pair of wings, just happened in with a bird.",
+  "segments": [
+    {
+      "start": 1.352,
+      "end": 4.273,
+      "text": "The rich get rich and the poor get children."
+    },
+    {
+      "start": 4.914,
+      "end": 9.316,
+      "text": "In the meantime, in between times, ain't we got fun?"
+    },
+    {
+      "start": 11.157,
+      "end": 18.021,
+      "text": "Just to make their troubles nearly double, something happened last night."
+    },
+    {
+      "start": 19.041,
+      "end": 23.764,
+      "text": "To the chimney a gray bird came, missed a stalk of his name."
+    },
+    {
+      "start": 24.444,
+      "end": 29.687,
+      "text": "And I'll bet you picked a pair of wings, just happened in with a bird."
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,41 @@
+{
+  "text": "I float, and you're like me, a refugee. Life float. I float, and you're like me, a refugee. I said you march, and this bumble go down. If I were to win, let the boat drown. Just swim away, and let it float. I'm saved from my knees.",
+  "segments": [
+    {
+      "start": 0.271,
+      "end": 5.894,
+      "text": "I float, and you're like me, a refugee."
+    },
+    {
+      "start": 6.334,
+      "end": 8.796,
+      "text": "Life float."
+    },
+    {
+      "start": 9.316,
+      "end": 14.359,
+      "text": "I float, and you're like me, a refugee."
+    },
+    {
+      "start": 14.479,
+      "end": 18.381,
+      "text": "I said you march, and this bumble go down."
+    },
+    {
+      "start": 18.681,
+      "end": 23.163,
+      "text": "If I were to win, let the boat drown."
+    },
+    {
+      "start": 23.203,
+      "end": 26.845,
+      "text": "Just swim away, and let it float."
+    },
+    {
+      "start": 26.945,
+      "end": 29.507,
+      "text": "I'm saved from my knees."
+    }
+  ],
+  "language": "en"
+}

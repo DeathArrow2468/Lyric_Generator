@@ -1,0 +1,21 @@
+{
+  "text": "Yeah. Yeah. Yeah.",
+  "segments": [
+    {
+      "start": 0.291,
+      "end": 4.475,
+      "text": "Yeah."
+    },
+    {
+      "start": 4.935,
+      "end": 7.478,
+      "text": "Yeah."
+    },
+    {
+      "start": 7.538,
+      "end": 8.399,
+      "text": "Yeah."
+    }
+  ],
+  "language": "en"
+}

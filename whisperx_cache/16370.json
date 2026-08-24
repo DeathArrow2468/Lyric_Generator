@@ -1,0 +1,21 @@
+{
+  "text": "home again blue. I can't wait until I reach that gate and home I see. You'll ask me, I know they're going to wait to welcome me.",
+  "segments": [
+    {
+      "start": 4.443,
+      "end": 7.926,
+      "text": "home again blue."
+    },
+    {
+      "start": 8.267,
+      "end": 22.16,
+      "text": "I can't wait until I reach that gate and home I see."
+    },
+    {
+      "start": 22.78,
+      "end": 26.544,
+      "text": "You'll ask me, I know they're going to wait to welcome me."
+    }
+  ],
+  "language": "en"
+}

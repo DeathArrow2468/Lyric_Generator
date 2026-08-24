@@ -1,0 +1,51 @@
+{
+  "text": "Don't you just turn around and make a bump, Joseph? I don't know. This guy's got the same attitude. Where's the piano? Where does it come back in? I hear a heart startling. Both eyes. I don't know what's wrong. Nothing seems to be working.",
+  "segments": [
+    {
+      "start": 7.533,
+      "end": 10.054,
+      "text": "Don't you just turn around and make a bump, Joseph?"
+    },
+    {
+      "start": 10.134,
+      "end": 10.754,
+      "text": "I don't know."
+    },
+    {
+      "start": 10.874,
+      "end": 13.854,
+      "text": "This guy's got the same attitude."
+    },
+    {
+      "start": 13.894,
+      "end": 15.655,
+      "text": "Where's the piano?"
+    },
+    {
+      "start": 15.715,
+      "end": 20.456,
+      "text": "Where does it come back in?"
+    },
+    {
+      "start": 20.576,
+      "end": 22.697,
+      "text": "I hear a heart startling."
+    },
+    {
+      "start": 22.757,
+      "end": 24.977,
+      "text": "Both eyes."
+    },
+    {
+      "start": 25.117,
+      "end": 27.418,
+      "text": "I don't know what's wrong."
+    },
+    {
+      "start": 27.498,
+      "end": 28.858,
+      "text": "Nothing seems to be working."
+    }
+  ],
+  "language": "en"
+}

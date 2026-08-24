@@ -1,0 +1,31 @@
+{
+  "text": "I'll cut him down. I'll cut him down. Hey little sister, is it true he hits ya? Someone said he beats you and suddenly mistreats you. Don't be afraid to come home if it doesn't",
+  "segments": [
+    {
+      "start": 0.231,
+      "end": 7.135,
+      "text": "I'll cut him down."
+    },
+    {
+      "start": 8.055,
+      "end": 10.537,
+      "text": "I'll cut him down."
+    },
+    {
+      "start": 10.597,
+      "end": 15.299,
+      "text": "Hey little sister, is it true he hits ya?"
+    },
+    {
+      "start": 15.339,
+      "end": 24.624,
+      "text": "Someone said he beats you and suddenly mistreats you."
+    },
+    {
+      "start": 24.704,
+      "end": 29.847,
+      "text": "Don't be afraid to come home if it doesn't"
+    }
+  ],
+  "language": "en"
+}

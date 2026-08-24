@@ -1,0 +1,16 @@
+{
+  "text": "I owe you heavy. I owe you heavy.",
+  "segments": [
+    {
+      "start": 0.351,
+      "end": 3.733,
+      "text": "I owe you heavy."
+    },
+    {
+      "start": 3.973,
+      "end": 5.974,
+      "text": "I owe you heavy."
+    }
+  ],
+  "language": "en"
+}

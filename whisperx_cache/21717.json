@@ -1,0 +1,26 @@
+{
+  "text": "Anyone know this next verse? Because I don't. I didn't tell you. We're just going to skip.",
+  "segments": [
+    {
+      "start": 0.691,
+      "end": 4.313,
+      "text": "Anyone know this next verse?"
+    },
+    {
+      "start": 4.693,
+      "end": 5.774,
+      "text": "Because I don't."
+    },
+    {
+      "start": 5.874,
+      "end": 7.135,
+      "text": "I didn't tell you."
+    },
+    {
+      "start": 7.675,
+      "end": 11.417,
+      "text": "We're just going to skip."
+    }
+  ],
+  "language": "en"
+}

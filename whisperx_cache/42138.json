@@ -1,0 +1,16 @@
+{
+  "text": "Jazz captured my soul. All I could really hear was the end of the piece.",
+  "segments": [
+    {
+      "start": 8.335,
+      "end": 10.437,
+      "text": "Jazz captured my soul."
+    },
+    {
+      "start": 10.457,
+      "end": 20.902,
+      "text": "All I could really hear was the end of the piece."
+    }
+  ],
+  "language": "en"
+}

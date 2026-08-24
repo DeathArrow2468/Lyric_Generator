@@ -1,0 +1,26 @@
+{
+  "text": "the berry on the right tree. The bird is home from the mountain and valley. Oh, Haro iririka jul gula. Oh, Haro iririka jul gula.",
+  "segments": [
+    {
+      "start": 0.751,
+      "end": 4.532,
+      "text": "the berry on the right tree."
+    },
+    {
+      "start": 4.632,
+      "end": 10.414,
+      "text": "The bird is home from the mountain and valley."
+    },
+    {
+      "start": 10.734,
+      "end": 15.816,
+      "text": "Oh, Haro iririka jul gula."
+    },
+    {
+      "start": 16.016,
+      "end": 18.377,
+      "text": "Oh, Haro iririka jul gula."
+    }
+  ],
+  "language": "en"
+}

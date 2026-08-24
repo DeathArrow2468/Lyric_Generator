@@ -1,0 +1,16 @@
+{
+  "text": "Tobacco smoke drifting low in the blues bar. The audience lost.",
+  "segments": [
+    {
+      "start": 10.827,
+      "end": 14.675,
+      "text": "Tobacco smoke drifting low in the blues bar."
+    },
+    {
+      "start": 16.158,
+      "end": 18.243,
+      "text": "The audience lost."
+    }
+  ],
+  "language": "en"
+}

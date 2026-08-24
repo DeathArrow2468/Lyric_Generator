@@ -1,0 +1,61 @@
+{
+  "text": "from the harsh. You should join us in the marsh. Here's a key to all the spots. Now you're free to call the shots. I'll keep the water flowing. You'll throw it through the wire. We'll keep the hoses blowing like in the forest fire. The light will point us from the harsh. You should join us in the marsh. Here's a key to all the spots. Now you're",
+  "segments": [
+    {
+      "start": 0.051,
+      "end": 1.392,
+      "text": "from the harsh."
+    },
+    {
+      "start": 1.432,
+      "end": 3.914,
+      "text": "You should join us in the marsh."
+    },
+    {
+      "start": 4.235,
+      "end": 6.737,
+      "text": "Here's a key to all the spots."
+    },
+    {
+      "start": 7.037,
+      "end": 9.48,
+      "text": "Now you're free to call the shots."
+    },
+    {
+      "start": 10.28,
+      "end": 12.602,
+      "text": "I'll keep the water flowing."
+    },
+    {
+      "start": 12.943,
+      "end": 15.365,
+      "text": "You'll throw it through the wire."
+    },
+    {
+      "start": 15.765,
+      "end": 20.65,
+      "text": "We'll keep the hoses blowing like in the forest fire."
+    },
+    {
+      "start": 20.67,
+      "end": 23.732,
+      "text": "The light will point us from the harsh."
+    },
+    {
+      "start": 23.752,
+      "end": 26.275,
+      "text": "You should join us in the marsh."
+    },
+    {
+      "start": 26.575,
+      "end": 29.297,
+      "text": "Here's a key to all the spots."
+    },
+    {
+      "start": 29.337,
+      "end": 29.918,
+      "text": "Now you're"
+    }
+  ],
+  "language": "en"
+}

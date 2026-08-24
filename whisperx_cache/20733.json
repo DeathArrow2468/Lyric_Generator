@@ -1,0 +1,26 @@
+{
+  "text": "Good Lord above, we all look just the same. Oh, don't hang your head in shame. Don't you roll, don't you roll, don't you roll. Don't be blue on your black, don't you roll.",
+  "segments": [
+    {
+      "start": 1.232,
+      "end": 6.697,
+      "text": "Good Lord above, we all look just the same."
+    },
+    {
+      "start": 7.097,
+      "end": 13.924,
+      "text": "Oh, don't hang your head in shame."
+    },
+    {
+      "start": 14.884,
+      "end": 21.41,
+      "text": "Don't you roll, don't you roll, don't you roll."
+    },
+    {
+      "start": 21.53,
+      "end": 26.575,
+      "text": "Don't be blue on your black, don't you roll."
+    }
+  ],
+  "language": "en"
+}

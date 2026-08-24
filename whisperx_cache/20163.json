@@ -1,0 +1,21 @@
+{
+  "text": "my mama answer me and say, Oscar by my darling, try or tears don't cry. Mama dear is walking, baby from the sky. I wish there was a pilot to heaven, and mama would not feel so fine.",
+  "segments": [
+    {
+      "start": 0.371,
+      "end": 11.681,
+      "text": "my mama answer me and say, Oscar by my darling, try or tears don't cry."
+    },
+    {
+      "start": 12.222,
+      "end": 19.008,
+      "text": "Mama dear is walking, baby from the sky."
+    },
+    {
+      "start": 19.889,
+      "end": 29.197,
+      "text": "I wish there was a pilot to heaven, and mama would not feel so fine."
+    }
+  ],
+  "language": "en"
+}

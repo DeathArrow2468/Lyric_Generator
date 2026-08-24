@@ -1,0 +1,21 @@
+{
+  "text": "USA. Canada. Sports.",
+  "segments": [
+    {
+      "start": 0.631,
+      "end": 1.032,
+      "text": "USA."
+    },
+    {
+      "start": 1.072,
+      "end": 1.472,
+      "text": "Canada."
+    },
+    {
+      "start": 1.492,
+      "end": 1.732,
+      "text": "Sports."
+    }
+  ],
+  "language": "en"
+}

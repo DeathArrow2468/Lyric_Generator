@@ -1,0 +1,16 @@
+{
+  "text": "What do we find in this hell? No one loves me when I'm dark.",
+  "segments": [
+    {
+      "start": 13.1,
+      "end": 15.102,
+      "text": "What do we find in this hell?"
+    },
+    {
+      "start": 15.162,
+      "end": 16.824,
+      "text": "No one loves me when I'm dark."
+    }
+  ],
+  "language": "en"
+}

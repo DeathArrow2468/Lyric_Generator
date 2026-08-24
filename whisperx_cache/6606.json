@@ -1,0 +1,41 @@
+{
+  "text": "were at the door. Strangers were raging. They were staging the coup. We hit the floor. Kicked out the castle. We were thrown from the thrones. And we were left cussing and fussing in a valley of bones outside of Cavalcade.",
+  "segments": [
+    {
+      "start": 0.211,
+      "end": 1.851,
+      "text": "were at the door."
+    },
+    {
+      "start": 1.951,
+      "end": 3.992,
+      "text": "Strangers were raging."
+    },
+    {
+      "start": 4.072,
+      "end": 7.073,
+      "text": "They were staging the coup."
+    },
+    {
+      "start": 7.173,
+      "end": 8.953,
+      "text": "We hit the floor."
+    },
+    {
+      "start": 8.973,
+      "end": 10.954,
+      "text": "Kicked out the castle."
+    },
+    {
+      "start": 11.034,
+      "end": 13.854,
+      "text": "We were thrown from the thrones."
+    },
+    {
+      "start": 14.275,
+      "end": 23.897,
+      "text": "And we were left cussing and fussing in a valley of bones outside of Cavalcade."
+    }
+  ],
+  "language": "en"
+}

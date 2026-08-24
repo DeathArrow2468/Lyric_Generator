@@ -1,0 +1,31 @@
+{
+  "text": "I'll be waiting beneath the pond this day. I've sent in answers, all the answers all day long. I won't forget those I've objected. Let the love last all the day. I'm bound to go any way I know.",
+  "segments": [
+    {
+      "start": 0.071,
+      "end": 4.533,
+      "text": "I'll be waiting beneath the pond this day."
+    },
+    {
+      "start": 4.894,
+      "end": 11.737,
+      "text": "I've sent in answers, all the answers all day long."
+    },
+    {
+      "start": 11.957,
+      "end": 13.678,
+      "text": "I won't forget those I've objected."
+    },
+    {
+      "start": 13.778,
+      "end": 15.739,
+      "text": "Let the love last all the day."
+    },
+    {
+      "start": 15.96,
+      "end": 18.801,
+      "text": "I'm bound to go any way I know."
+    }
+  ],
+  "language": "en"
+}

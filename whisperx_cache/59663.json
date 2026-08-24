@@ -1,0 +1,21 @@
+{
+  "text": "Oh, he had, he had boys. But Lord, he's a leader. Oh, he had, he had boys.",
+  "segments": [
+    {
+      "start": 0.471,
+      "end": 4.315,
+      "text": "Oh, he had, he had boys."
+    },
+    {
+      "start": 4.355,
+      "end": 6.977,
+      "text": "But Lord, he's a leader."
+    },
+    {
+      "start": 8.278,
+      "end": 13.863,
+      "text": "Oh, he had, he had boys."
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,16 @@
+{
+  "text": "Oh, y'en a plus que d'eux, là ! J'en sais rien !",
+  "segments": [
+    {
+      "start": 23.733,
+      "end": 26.081,
+      "text": "Oh, y'en a plus que d'eux, là !"
+    },
+    {
+      "start": 26.101,
+      "end": 27.205,
+      "text": "J'en sais rien !"
+    }
+  ],
+  "language": "fr"
+}

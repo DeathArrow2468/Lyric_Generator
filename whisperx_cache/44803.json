@@ -1,0 +1,16 @@
+{
+  "text": "I really need for you to stay Why can't you just see? Cause there's no way out The curse is not a doubt Can you fight?",
+  "segments": [
+    {
+      "start": 0.551,
+      "end": 3.653,
+      "text": "I really need for you to stay Why can't you just see?"
+    },
+    {
+      "start": 3.733,
+      "end": 12.778,
+      "text": "Cause there's no way out The curse is not a doubt Can you fight?"
+    }
+  ],
+  "language": "en"
+}

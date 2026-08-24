@@ -1,0 +1,61 @@
+{
+  "text": "Mother, what's he doing? Well, he's spinning glass here. How spinning it, Mother? I don't know. Then how you know he's spinning it? I'm going to hit you in a minute. Mother, look at that man, Mother. What's he doing? Oh, that's a cowboy. What's a cowboy? A man that drives cattle out on the train.",
+  "segments": [
+    {
+      "start": 0.131,
+      "end": 2.233,
+      "text": "Mother, what's he doing?"
+    },
+    {
+      "start": 2.914,
+      "end": 4.695,
+      "text": "Well, he's spinning glass here."
+    },
+    {
+      "start": 5.336,
+      "end": 7.318,
+      "text": "How spinning it, Mother?"
+    },
+    {
+      "start": 7.958,
+      "end": 8.879,
+      "text": "I don't know."
+    },
+    {
+      "start": 9.359,
+      "end": 12.142,
+      "text": "Then how you know he's spinning it?"
+    },
+    {
+      "start": 13.783,
+      "end": 16.666,
+      "text": "I'm going to hit you in a minute."
+    },
+    {
+      "start": 17.967,
+      "end": 20.529,
+      "text": "Mother, look at that man, Mother."
+    },
+    {
+      "start": 20.63,
+      "end": 22.551,
+      "text": "What's he doing?"
+    },
+    {
+      "start": 22.731,
+      "end": 24.533,
+      "text": "Oh, that's a cowboy."
+    },
+    {
+      "start": 25.114,
+      "end": 26.855,
+      "text": "What's a cowboy?"
+    },
+    {
+      "start": 27.536,
+      "end": 29.818,
+      "text": "A man that drives cattle out on the train."
+    }
+  ],
+  "language": "en"
+}

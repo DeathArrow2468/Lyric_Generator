@@ -1,0 +1,31 @@
+{
+  "text": "Honey, the wedding gales soon grow to chime. Put on your new wedding gown. Let your big loving eyes look into mine. Parson's here in town. What makes a whippoorwill something so sweet?",
+  "segments": [
+    {
+      "start": 7.918,
+      "end": 11.822,
+      "text": "Honey, the wedding gales soon grow to chime."
+    },
+    {
+      "start": 11.842,
+      "end": 16.646,
+      "text": "Put on your new wedding gown."
+    },
+    {
+      "start": 16.686,
+      "end": 20.409,
+      "text": "Let your big loving eyes look into mine."
+    },
+    {
+      "start": 20.429,
+      "end": 25.074,
+      "text": "Parson's here in town."
+    },
+    {
+      "start": 25.674,
+      "end": 29.478,
+      "text": "What makes a whippoorwill something so sweet?"
+    }
+  ],
+  "language": "en"
+}

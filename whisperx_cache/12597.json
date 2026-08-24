@@ -1,0 +1,16 @@
+{
+  "text": "The bullet will tear us apart. We're under arrest, now the party's forced to move in.",
+  "segments": [
+    {
+      "start": 8.57,
+      "end": 9.191,
+      "text": "The bullet will tear us apart."
+    },
+    {
+      "start": 9.211,
+      "end": 10.314,
+      "text": "We're under arrest, now the party's forced to move in."
+    }
+  ],
+  "language": "en"
+}

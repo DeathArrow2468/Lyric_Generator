@@ -1,0 +1,31 @@
+{
+  "text": "Go on, go on, Mr. Niggie, go on. He stood there at the view all the whole night long. He cried, oh, mama, won't you let me in? I know that after all, I prove it, see. Please, respond to me.",
+  "segments": [
+    {
+      "start": 0.131,
+      "end": 7.838,
+      "text": "Go on, go on, Mr. Niggie, go on."
+    },
+    {
+      "start": 7.978,
+      "end": 14.084,
+      "text": "He stood there at the view all the whole night long."
+    },
+    {
+      "start": 14.184,
+      "end": 19.469,
+      "text": "He cried, oh, mama, won't you let me in?"
+    },
+    {
+      "start": 19.809,
+      "end": 25.754,
+      "text": "I know that after all, I prove it, see."
+    },
+    {
+      "start": 26.074,
+      "end": 27.796,
+      "text": "Please, respond to me."
+    }
+  ],
+  "language": "en"
+}

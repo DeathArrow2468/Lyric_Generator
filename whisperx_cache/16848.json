@@ -1,0 +1,21 @@
+{
+  "text": "What color was the blood? What color was the blood? Chippa, chippa, chippa Chippa Chippa Chippa Chippa Chippa Chippa Chippa Chippa Chippa Chippa Chippa Chippa Chippa Chippa Chippa Chippa Chippa Chippa",
+  "segments": [
+    {
+      "start": 0.341,
+      "end": 1.382,
+      "text": "What color was the blood?"
+    },
+    {
+      "start": 1.422,
+      "end": 4.106,
+      "text": "What color was the blood?"
+    },
+    {
+      "start": 4.166,
+      "end": 29.718,
+      "text": "Chippa, chippa, chippa Chippa Chippa Chippa Chippa Chippa Chippa Chippa Chippa Chippa Chippa Chippa Chippa Chippa Chippa Chippa Chippa Chippa Chippa"
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,36 @@
+{
+  "text": "the girl with some crap in her hair. She'd burn her brawn to save a panda bear. Yeah, she'll canvass and she'll protest and chew a handbill. Suck all the hair out of a politician's gills. Well, I'm just the boy who holds her keys so she can go plant some baby trees. But even with",
+  "segments": [
+    {
+      "start": 0.291,
+      "end": 3.995,
+      "text": "the girl with some crap in her hair."
+    },
+    {
+      "start": 4.275,
+      "end": 8.559,
+      "text": "She'd burn her brawn to save a panda bear."
+    },
+    {
+      "start": 8.639,
+      "end": 14.264,
+      "text": "Yeah, she'll canvass and she'll protest and chew a handbill."
+    },
+    {
+      "start": 14.284,
+      "end": 19.288,
+      "text": "Suck all the hair out of a politician's gills."
+    },
+    {
+      "start": 19.569,
+      "end": 28.256,
+      "text": "Well, I'm just the boy who holds her keys so she can go plant some baby trees."
+    },
+    {
+      "start": 28.477,
+      "end": 29.878,
+      "text": "But even with"
+    }
+  ],
+  "language": "en"
+}

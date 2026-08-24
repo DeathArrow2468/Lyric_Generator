@@ -1,0 +1,16 @@
+{
+  "text": "I don't know what to do with this. I don't know what to do.",
+  "segments": [
+    {
+      "start": 11.02,
+      "end": 17.662,
+      "text": "I don't know what to do with this."
+    },
+    {
+      "start": 17.822,
+      "end": 29.967,
+      "text": "I don't know what to do."
+    }
+  ],
+  "language": "nn"
+}

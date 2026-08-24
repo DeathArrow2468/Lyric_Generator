@@ -1,0 +1,21 @@
+{
+  "text": "We're traitors. We're made in our own image. Wasted the world.",
+  "segments": [
+    {
+      "start": 0.231,
+      "end": 2.373,
+      "text": "We're traitors."
+    },
+    {
+      "start": 3.795,
+      "end": 8.239,
+      "text": "We're made in our own image."
+    },
+    {
+      "start": 9.04,
+      "end": 11.162,
+      "text": "Wasted the world."
+    }
+  ],
+  "language": "en"
+}

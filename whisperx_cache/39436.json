@@ -1,0 +1,21 @@
+{
+  "text": "I can't take no more of this You want a piece of me? We'll just kill and save I can't take no more of this! I can't take no more of this!",
+  "segments": [
+    {
+      "start": 5.014,
+      "end": 12.18,
+      "text": "I can't take no more of this You want a piece of me?"
+    },
+    {
+      "start": 12.2,
+      "end": 22.647,
+      "text": "We'll just kill and save I can't take no more of this!"
+    },
+    {
+      "start": 22.947,
+      "end": 26.07,
+      "text": "I can't take no more of this!"
+    }
+  ],
+  "language": "en"
+}

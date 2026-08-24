@@ -1,0 +1,46 @@
+{
+  "text": "You can't achieve, don't just keep, be the best. Don't just help to find the right. You are what you are. That is the best. Anything you believe, you can achieve. That's the key. Be the best. Be the best.",
+  "segments": [
+    {
+      "start": 0.752,
+      "end": 7.818,
+      "text": "You can't achieve, don't just keep, be the best."
+    },
+    {
+      "start": 9.339,
+      "end": 11.061,
+      "text": "Don't just help to find the right."
+    },
+    {
+      "start": 11.101,
+      "end": 12.042,
+      "text": "You are what you are."
+    },
+    {
+      "start": 12.062,
+      "end": 13.043,
+      "text": "That is the best."
+    },
+    {
+      "start": 13.163,
+      "end": 14.945,
+      "text": "Anything you believe, you can achieve."
+    },
+    {
+      "start": 15.025,
+      "end": 15.825,
+      "text": "That's the key."
+    },
+    {
+      "start": 15.885,
+      "end": 16.626,
+      "text": "Be the best."
+    },
+    {
+      "start": 17.427,
+      "end": 18.728,
+      "text": "Be the best."
+    }
+  ],
+  "language": "en"
+}

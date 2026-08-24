@@ -1,0 +1,46 @@
+{
+  "text": "You've been cooking the honey ourselves too. Don't be so gross. I know you both. I just want to know how you're feeling now. And then I'll say goodbye. It's blowing about, Jeff. I'll catch a cold, I feel. Now, Liza, please don't stand and tease.",
+  "segments": [
+    {
+      "start": 0.031,
+      "end": 3.754,
+      "text": "You've been cooking the honey ourselves too."
+    },
+    {
+      "start": 4.095,
+      "end": 5.596,
+      "text": "Don't be so gross."
+    },
+    {
+      "start": 5.976,
+      "end": 7.097,
+      "text": "I know you both."
+    },
+    {
+      "start": 7.258,
+      "end": 11.381,
+      "text": "I just want to know how you're feeling now."
+    },
+    {
+      "start": 12.262,
+      "end": 15.405,
+      "text": "And then I'll say goodbye."
+    },
+    {
+      "start": 19.188,
+      "end": 22.431,
+      "text": "It's blowing about, Jeff."
+    },
+    {
+      "start": 22.791,
+      "end": 25.414,
+      "text": "I'll catch a cold, I feel."
+    },
+    {
+      "start": 26.054,
+      "end": 29.197,
+      "text": "Now, Liza, please don't stand and tease."
+    }
+  ],
+  "language": "en"
+}

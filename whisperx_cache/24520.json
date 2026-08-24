@@ -1,0 +1,31 @@
+{
+  "text": "Brilliant, brilliant, brilliant, brilliant, brilliant, brilliant, brilliant, brilliant, brilliant, brilliant, old, old, old, old paper. Brilliant, brilliant, brilliant, old, old, old, old paper. So old I can't remember it. Brilliant, brilliant, brilliant, brilliant, brilliant, old, old, old, old paper. Brilliant, brilliant, brilliant, old, old, old, old, old, old, old, old, old, old, old, old, old, old, old, old, old,",
+  "segments": [
+    {
+      "start": 3.765,
+      "end": 9.773,
+      "text": "Brilliant, brilliant, brilliant, brilliant, brilliant, brilliant, brilliant, brilliant, brilliant, brilliant, old, old, old, old paper."
+    },
+    {
+      "start": 10.133,
+      "end": 13.477,
+      "text": "Brilliant, brilliant, brilliant, old, old, old, old paper."
+    },
+    {
+      "start": 13.838,
+      "end": 15.36,
+      "text": "So old I can't remember it."
+    },
+    {
+      "start": 15.38,
+      "end": 19.645,
+      "text": "Brilliant, brilliant, brilliant, brilliant, brilliant, old, old, old, old paper."
+    },
+    {
+      "start": 20.066,
+      "end": 29.217,
+      "text": "Brilliant, brilliant, brilliant, old, old, old, old, old, old, old, old, old, old, old, old, old, old, old, old, old,"
+    }
+  ],
+  "language": "en"
+}

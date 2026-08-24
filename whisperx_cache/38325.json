@@ -1,0 +1,46 @@
+{
+  "text": "Raise B-Day, D-Day, DJ, K-Shit, Clay, Batman, Spider-Man, Spider-Man, you thought so. Einstein, Bernstein, money, money, red, white. Eisenhower, Beckenbauer, Derea, Berlina, Mauer. Vietnam, Guernica, Sanning, Guadalajara, Washington. Watergate, Port-au-Lieu, Australia, Vietnam, Pumao, Ho Chi Minh, Bali, Oman, Fatami. You and me, one, two, three. Who could be a refugee? Smile, smile.",
+  "segments": [
+    {
+      "start": 0.171,
+      "end": 5.573,
+      "text": "Raise B-Day, D-Day, DJ, K-Shit, Clay, Batman, Spider-Man, Spider-Man, you thought so."
+    },
+    {
+      "start": 5.733,
+      "end": 8.154,
+      "text": "Einstein, Bernstein, money, money, red, white."
+    },
+    {
+      "start": 8.314,
+      "end": 10.856,
+      "text": "Eisenhower, Beckenbauer, Derea, Berlina, Mauer."
+    },
+    {
+      "start": 10.876,
+      "end": 13.397,
+      "text": "Vietnam, Guernica, Sanning, Guadalajara, Washington."
+    },
+    {
+      "start": 13.437,
+      "end": 18.519,
+      "text": "Watergate, Port-au-Lieu, Australia, Vietnam, Pumao, Ho Chi Minh, Bali, Oman, Fatami."
+    },
+    {
+      "start": 18.559,
+      "end": 19.819,
+      "text": "You and me, one, two, three."
+    },
+    {
+      "start": 19.859,
+      "end": 20.76,
+      "text": "Who could be a refugee?"
+    },
+    {
+      "start": 20.78,
+      "end": 21.44,
+      "text": "Smile, smile."
+    }
+  ],
+  "language": "en"
+}

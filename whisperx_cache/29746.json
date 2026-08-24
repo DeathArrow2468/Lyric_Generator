@@ -1,0 +1,31 @@
+{
+  "text": "play that note. Okay? Here we go. Okay, ship go. Yeah.",
+  "segments": [
+    {
+      "start": 0.451,
+      "end": 0.971,
+      "text": "play that note."
+    },
+    {
+      "start": 1.031,
+      "end": 1.751,
+      "text": "Okay?"
+    },
+    {
+      "start": 1.891,
+      "end": 2.372,
+      "text": "Here we go."
+    },
+    {
+      "start": 8.113,
+      "end": 8.853,
+      "text": "Okay, ship go."
+    },
+    {
+      "start": 9.033,
+      "end": 10.093,
+      "text": "Yeah."
+    }
+  ],
+  "language": "en"
+}

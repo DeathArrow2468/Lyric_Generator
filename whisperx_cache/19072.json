@@ -1,0 +1,21 @@
+{
+  "text": "Cravings, no, cravings, no. Sweet things, I can't stop back then. Like I'm full of blood, I can't see the sun.",
+  "segments": [
+    {
+      "start": 9.716,
+      "end": 12.94,
+      "text": "Cravings, no, cravings, no."
+    },
+    {
+      "start": 14.261,
+      "end": 17.164,
+      "text": "Sweet things, I can't stop back then."
+    },
+    {
+      "start": 17.445,
+      "end": 20.708,
+      "text": "Like I'm full of blood, I can't see the sun."
+    }
+  ],
+  "language": "en"
+}

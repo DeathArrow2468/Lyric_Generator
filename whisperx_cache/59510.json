@@ -1,0 +1,26 @@
+{
+  "text": "I get so much money, but no one seems to care. I lost my money, and so my honey got wet and gave me air. We're gonna have an early fall, according to the news. When that mama tour drops down to North,",
+  "segments": [
+    {
+      "start": 1.15,
+      "end": 7.594,
+      "text": "I get so much money, but no one seems to care."
+    },
+    {
+      "start": 7.754,
+      "end": 15.218,
+      "text": "I lost my money, and so my honey got wet and gave me air."
+    },
+    {
+      "start": 15.358,
+      "end": 24.944,
+      "text": "We're gonna have an early fall, according to the news."
+    },
+    {
+      "start": 25.264,
+      "end": 28.806,
+      "text": "When that mama tour drops down to North,"
+    }
+  ],
+  "language": "en"
+}

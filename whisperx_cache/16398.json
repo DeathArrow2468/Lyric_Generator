@@ -1,0 +1,21 @@
+{
+  "text": "Ain't that a wicked tune? Shoot me while I'm happy. This queen be jazza on her piazza.",
+  "segments": [
+    {
+      "start": 0.311,
+      "end": 3.793,
+      "text": "Ain't that a wicked tune?"
+    },
+    {
+      "start": 3.813,
+      "end": 5.834,
+      "text": "Shoot me while I'm happy."
+    },
+    {
+      "start": 5.874,
+      "end": 10.296,
+      "text": "This queen be jazza on her piazza."
+    }
+  ],
+  "language": "en"
+}

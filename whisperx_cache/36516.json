@@ -1,0 +1,16 @@
+{
+  "text": "Give me what I don't know. Corner every eye.",
+  "segments": [
+    {
+      "start": 0.571,
+      "end": 9.776,
+      "text": "Give me what I don't know."
+    },
+    {
+      "start": 9.816,
+      "end": 12.238,
+      "text": "Corner every eye."
+    }
+  ],
+  "language": "en"
+}

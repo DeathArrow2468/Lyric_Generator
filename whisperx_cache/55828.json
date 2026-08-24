@@ -1,0 +1,31 @@
+{
+  "text": "Quiere minera que los hombres se la lleven. Mírala cómo va la pelarita de los hombres. Mírala cómo va la pelarita de los hombres. Quiere minera que los hombres se la lleven. Mírala cómo va la pelarita de los hombres",
+  "segments": [
+    {
+      "start": 0.031,
+      "end": 2.552,
+      "text": "Quiere minera que los hombres se la lleven."
+    },
+    {
+      "start": 2.572,
+      "end": 6.174,
+      "text": "Mírala cómo va la pelarita de los hombres."
+    },
+    {
+      "start": 6.214,
+      "end": 8.556,
+      "text": "Mírala cómo va la pelarita de los hombres."
+    },
+    {
+      "start": 8.576,
+      "end": 10.236,
+      "text": "Quiere minera que los hombres se la lleven."
+    },
+    {
+      "start": 10.256,
+      "end": 12.017,
+      "text": "Mírala cómo va la pelarita de los hombres"
+    }
+  ],
+  "language": "es"
+}

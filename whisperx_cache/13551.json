@@ -1,0 +1,36 @@
+{
+  "text": "But every corner that I traverse has a line going on through. But I ain't seen you before. I just heard stories of your love. But every one I see is dressed up like some want to make it. I throw the monkey wrench to them shit. But I keep sitting here with my drink.",
+  "segments": [
+    {
+      "start": 0.658,
+      "end": 8.841,
+      "text": "But every corner that I traverse has a line going on through."
+    },
+    {
+      "start": 8.881,
+      "end": 11.901,
+      "text": "But I ain't seen you before."
+    },
+    {
+      "start": 11.921,
+      "end": 14.962,
+      "text": "I just heard stories of your love."
+    },
+    {
+      "start": 15.002,
+      "end": 19.704,
+      "text": "But every one I see is dressed up like some want to make it."
+    },
+    {
+      "start": 20.804,
+      "end": 22.965,
+      "text": "I throw the monkey wrench to them shit."
+    },
+    {
+      "start": 23.085,
+      "end": 29.447,
+      "text": "But I keep sitting here with my drink."
+    }
+  ],
+  "language": "en"
+}

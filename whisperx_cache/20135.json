@@ -1,0 +1,26 @@
+{
+  "text": "And when he sees love, love invades him and I'm gone, too. For this love invades I am too. For that love of mine, in fact, is a lie. He takes me out most every night.",
+  "segments": [
+    {
+      "start": 0.211,
+      "end": 5.756,
+      "text": "And when he sees love, love invades him and I'm gone, too."
+    },
+    {
+      "start": 5.936,
+      "end": 8.619,
+      "text": "For this love invades I am too."
+    },
+    {
+      "start": 8.719,
+      "end": 12.222,
+      "text": "For that love of mine, in fact, is a lie."
+    },
+    {
+      "start": 12.282,
+      "end": 18.808,
+      "text": "He takes me out most every night."
+    }
+  ],
+  "language": "en"
+}

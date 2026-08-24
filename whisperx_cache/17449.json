@@ -1,0 +1,16 @@
+{
+  "text": "No one is there! Oh I said...",
+  "segments": [
+    {
+      "start": 12.505,
+      "end": 16.854,
+      "text": "No one is there!"
+    },
+    {
+      "start": 17.234,
+      "end": 20.24,
+      "text": "Oh I said..."
+    }
+  ],
+  "language": "en"
+}

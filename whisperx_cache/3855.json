@@ -1,0 +1,36 @@
+{
+  "text": "Oh my, oh my, I can't believe it. It's all total snake, snake, snake. The other word of, no question, no point of view. Is it only what they think they are supposed to say? Oh my, oh my, I can't believe it. It's all total snake, snake, snake, snake, snake.",
+  "segments": [
+    {
+      "start": 4.308,
+      "end": 7.33,
+      "text": "Oh my, oh my, I can't believe it."
+    },
+    {
+      "start": 7.591,
+      "end": 11.093,
+      "text": "It's all total snake, snake, snake."
+    },
+    {
+      "start": 11.113,
+      "end": 14.836,
+      "text": "The other word of, no question, no point of view."
+    },
+    {
+      "start": 15.196,
+      "end": 18.939,
+      "text": "Is it only what they think they are supposed to say?"
+    },
+    {
+      "start": 19.359,
+      "end": 22.802,
+      "text": "Oh my, oh my, I can't believe it."
+    },
+    {
+      "start": 22.902,
+      "end": 26.885,
+      "text": "It's all total snake, snake, snake, snake, snake."
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,16 @@
+{
+  "text": "I am proud of you. I am proud of you.",
+  "segments": [
+    {
+      "start": 9.937,
+      "end": 11.998,
+      "text": "I am proud of you."
+    },
+    {
+      "start": 12.018,
+      "end": 13.72,
+      "text": "I am proud of you."
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,31 @@
+{
+  "text": "If I had a little message I could leave you with, bring it on the door. But I don't, and it's just no use no more. Don't let me know. Oh, oh. Honey, I'll be hustling the make-up slide.",
+  "segments": [
+    {
+      "start": 9.638,
+      "end": 15.26,
+      "text": "If I had a little message I could leave you with, bring it on the door."
+    },
+    {
+      "start": 16.201,
+      "end": 19.462,
+      "text": "But I don't, and it's just no use no more."
+    },
+    {
+      "start": 19.943,
+      "end": 22.224,
+      "text": "Don't let me know."
+    },
+    {
+      "start": 23.304,
+      "end": 26.025,
+      "text": "Oh, oh."
+    },
+    {
+      "start": 26.465,
+      "end": 29.167,
+      "text": "Honey, I'll be hustling the make-up slide."
+    }
+  ],
+  "language": "en"
+}

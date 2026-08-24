@@ -1,0 +1,16 @@
+{
+  "text": "like you, you see. We'd like to start a family.",
+  "segments": [
+    {
+      "start": 1.592,
+      "end": 3.254,
+      "text": "like you, you see."
+    },
+    {
+      "start": 3.474,
+      "end": 5.295,
+      "text": "We'd like to start a family."
+    }
+  ],
+  "language": "en"
+}

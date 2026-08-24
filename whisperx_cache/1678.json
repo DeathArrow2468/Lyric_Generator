@@ -1,0 +1,21 @@
+{
+  "text": "such thing as a simple way. No. No, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no,",
+  "segments": [
+    {
+      "start": 0.251,
+      "end": 10.24,
+      "text": "such thing as a simple way."
+    },
+    {
+      "start": 12.722,
+      "end": 13.043,
+      "text": "No."
+    },
+    {
+      "start": 13.183,
+      "end": 28.597,
+      "text": "No, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no,"
+    }
+  ],
+  "language": "en"
+}

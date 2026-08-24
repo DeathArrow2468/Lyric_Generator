@@ -1,0 +1,46 @@
+{
+  "text": "I'm waiting just to hear a wonderful tune. Where the birds are singing in the sweet melody. The birds are singing in the sweet melody. The birds are singing in the sweet melody. The birds are singing in the sweet melody. The birds are singing in the sweet melody. The birds are singing in the sweet melody. The birds are singing in the sweet melody.",
+  "segments": [
+    {
+      "start": 0.38,
+      "end": 4.861,
+      "text": "I'm waiting just to hear a wonderful tune."
+    },
+    {
+      "start": 4.881,
+      "end": 8.162,
+      "text": "Where the birds are singing in the sweet melody."
+    },
+    {
+      "start": 8.222,
+      "end": 11.943,
+      "text": "The birds are singing in the sweet melody."
+    },
+    {
+      "start": 12.283,
+      "end": 15.764,
+      "text": "The birds are singing in the sweet melody."
+    },
+    {
+      "start": 15.824,
+      "end": 19.585,
+      "text": "The birds are singing in the sweet melody."
+    },
+    {
+      "start": 19.645,
+      "end": 23.726,
+      "text": "The birds are singing in the sweet melody."
+    },
+    {
+      "start": 23.806,
+      "end": 26.266,
+      "text": "The birds are singing in the sweet melody."
+    },
+    {
+      "start": 26.326,
+      "end": 29.907,
+      "text": "The birds are singing in the sweet melody."
+    }
+  ],
+  "language": "en"
+}

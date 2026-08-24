@@ -1,0 +1,16 @@
+{
+  "text": "Come, the night has been. Here comes...",
+  "segments": [
+    {
+      "start": 9.159,
+      "end": 11.206,
+      "text": "Come, the night has been."
+    },
+    {
+      "start": 12.47,
+      "end": 13.152,
+      "text": "Here comes..."
+    }
+  ],
+  "language": "en"
+}

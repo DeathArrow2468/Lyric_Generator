@@ -1,0 +1,16 @@
+{
+  "text": "Buzz, buzz, baby Buzz, buzz I'm a thug in a tank Am I breathless? Low on tea, yeah Buzz, buzz Buzz, buzz, baby Buzz, buzz",
+  "segments": [
+    {
+      "start": 0.637,
+      "end": 18.323,
+      "text": "Buzz, buzz, baby Buzz, buzz I'm a thug in a tank Am I breathless?"
+    },
+    {
+      "start": 18.343,
+      "end": 29.667,
+      "text": "Low on tea, yeah Buzz, buzz Buzz, buzz, baby Buzz, buzz"
+    }
+  ],
+  "language": "en"
+}

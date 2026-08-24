@@ -1,0 +1,26 @@
+{
+  "text": "Are you what you're looking like? Are you something else? You're making me a fool or am I fooling with myself? So many places but I know it's true in time Take just what you want and leave the rest to me I'm coming up here before you let me alone Please don't talk about me What I'll do",
+  "segments": [
+    {
+      "start": 2.049,
+      "end": 5.671,
+      "text": "Are you what you're looking like?"
+    },
+    {
+      "start": 6.112,
+      "end": 7.853,
+      "text": "Are you something else?"
+    },
+    {
+      "start": 7.893,
+      "end": 13.637,
+      "text": "You're making me a fool or am I fooling with myself?"
+    },
+    {
+      "start": 13.657,
+      "end": 29.847,
+      "text": "So many places but I know it's true in time Take just what you want and leave the rest to me I'm coming up here before you let me alone Please don't talk about me What I'll do"
+    }
+  ],
+  "language": "en"
+}

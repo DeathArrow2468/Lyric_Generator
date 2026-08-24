@@ -1,0 +1,16 @@
+{
+  "text": "Garfield, the movie. Garfield, the police officers.",
+  "segments": [
+    {
+      "start": 1.152,
+      "end": 13.782,
+      "text": "Garfield, the movie."
+    },
+    {
+      "start": 17.965,
+      "end": 24.69,
+      "text": "Garfield, the police officers."
+    }
+  ],
+  "language": "en"
+}

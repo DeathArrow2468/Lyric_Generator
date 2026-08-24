@@ -1,0 +1,21 @@
+{
+  "text": "Black in the blade, they bow to our touch. And you were my darkened sun. I've been waiting for your shadow to fall.",
+  "segments": [
+    {
+      "start": 0.111,
+      "end": 5.275,
+      "text": "Black in the blade, they bow to our touch."
+    },
+    {
+      "start": 5.575,
+      "end": 9.858,
+      "text": "And you were my darkened sun."
+    },
+    {
+      "start": 10.039,
+      "end": 18.325,
+      "text": "I've been waiting for your shadow to fall."
+    }
+  ],
+  "language": "en"
+}

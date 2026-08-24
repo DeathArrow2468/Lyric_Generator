@@ -1,0 +1,71 @@
+{
+  "text": "It's just that I like to shit before I go. You like to shit before you go to the dentist. I like to shit before I go out. I was actually just going to go for a shit when you rang. What in the car? No. In my house. Or beside the car. And then when you rang it went back in. It was just working its way out to the hall and you fucking rang and then it went whoop. There you go. What's that shit alarm? No that's the alarm to say it's time to go.",
+  "segments": [
+    {
+      "start": 0.171,
+      "end": 2.192,
+      "text": "It's just that I like to shit before I go."
+    },
+    {
+      "start": 2.352,
+      "end": 5.234,
+      "text": "You like to shit before you go to the dentist."
+    },
+    {
+      "start": 5.534,
+      "end": 7.195,
+      "text": "I like to shit before I go out."
+    },
+    {
+      "start": 7.215,
+      "end": 10.057,
+      "text": "I was actually just going to go for a shit when you rang."
+    },
+    {
+      "start": 10.077,
+      "end": 11.298,
+      "text": "What in the car?"
+    },
+    {
+      "start": 11.518,
+      "end": 13.119,
+      "text": "No."
+    },
+    {
+      "start": 13.679,
+      "end": 14.299,
+      "text": "In my house."
+    },
+    {
+      "start": 14.459,
+      "end": 15.34,
+      "text": "Or beside the car."
+    },
+    {
+      "start": 15.62,
+      "end": 18.042,
+      "text": "And then when you rang it went back in."
+    },
+    {
+      "start": 18.642,
+      "end": 23.125,
+      "text": "It was just working its way out to the hall and you fucking rang and then it went whoop."
+    },
+    {
+      "start": 23.145,
+      "end": 24.305,
+      "text": "There you go."
+    },
+    {
+      "start": 24.325,
+      "end": 25.246,
+      "text": "What's that shit alarm?"
+    },
+    {
+      "start": 25.546,
+      "end": 28.848,
+      "text": "No that's the alarm to say it's time to go."
+    }
+  ],
+  "language": "en"
+}

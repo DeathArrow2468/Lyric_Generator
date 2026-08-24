@@ -1,0 +1,81 @@
+{
+  "text": "You will be receiving it in about an hour. Guaranteed delivery. That'll be $275, sir, no tax. Well, I haven't had a chance to change my money yet. Just a moment, sir. Is this your bag? No, it's not. Check it again. Do take your time, sir. This is definitely not my bag. Just as we thought. Sign here, please. And here. And here. And here.",
+  "segments": [
+    {
+      "start": 0.772,
+      "end": 2.593,
+      "text": "You will be receiving it in about an hour."
+    },
+    {
+      "start": 3.014,
+      "end": 4.075,
+      "text": "Guaranteed delivery."
+    },
+    {
+      "start": 4.775,
+      "end": 7.418,
+      "text": "That'll be $275, sir, no tax."
+    },
+    {
+      "start": 7.458,
+      "end": 9.52,
+      "text": "Well, I haven't had a chance to change my money yet."
+    },
+    {
+      "start": 9.58,
+      "end": 10.801,
+      "text": "Just a moment, sir."
+    },
+    {
+      "start": 10.881,
+      "end": 12.042,
+      "text": "Is this your bag?"
+    },
+    {
+      "start": 12.122,
+      "end": 12.843,
+      "text": "No, it's not."
+    },
+    {
+      "start": 13.543,
+      "end": 14.204,
+      "text": "Check it again."
+    },
+    {
+      "start": 15.165,
+      "end": 16.446,
+      "text": "Do take your time, sir."
+    },
+    {
+      "start": 16.706,
+      "end": 18.488,
+      "text": "This is definitely not my bag."
+    },
+    {
+      "start": 18.848,
+      "end": 22.011,
+      "text": "Just as we thought."
+    },
+    {
+      "start": 22.051,
+      "end": 22.892,
+      "text": "Sign here, please."
+    },
+    {
+      "start": 24.953,
+      "end": 25.434,
+      "text": "And here."
+    },
+    {
+      "start": 27.015,
+      "end": 27.576,
+      "text": "And here."
+    },
+    {
+      "start": 29.157,
+      "end": 29.918,
+      "text": "And here."
+    }
+  ],
+  "language": "en"
+}

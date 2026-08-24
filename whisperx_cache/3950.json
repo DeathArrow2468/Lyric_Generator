@@ -1,0 +1,36 @@
+{
+  "text": "in the rock, click, click, bang, bang. Everybody wants to save you. Yes, I know and I sure do thank you. Why can't you look like you want to? Well, I'm not sure that I want to. And I've never been afraid of broken hearts.",
+  "segments": [
+    {
+      "start": 0.151,
+      "end": 2.473,
+      "text": "in the rock, click, click, bang, bang."
+    },
+    {
+      "start": 2.693,
+      "end": 5.995,
+      "text": "Everybody wants to save you."
+    },
+    {
+      "start": 6.135,
+      "end": 10.458,
+      "text": "Yes, I know and I sure do thank you."
+    },
+    {
+      "start": 10.999,
+      "end": 14.761,
+      "text": "Why can't you look like you want to?"
+    },
+    {
+      "start": 15.402,
+      "end": 18.344,
+      "text": "Well, I'm not sure that I want to."
+    },
+    {
+      "start": 18.564,
+      "end": 23.367,
+      "text": "And I've never been afraid of broken hearts."
+    }
+  ],
+  "language": "en"
+}

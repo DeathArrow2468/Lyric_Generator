@@ -1,0 +1,31 @@
+{
+  "text": "I had such a view on branches and an empty playground. The window saved me. I had such a view on branches and an empty playground. From above, looking down. From above, I said looking down.",
+  "segments": [
+    {
+      "start": 0.291,
+      "end": 7.675,
+      "text": "I had such a view on branches and an empty playground."
+    },
+    {
+      "start": 8.616,
+      "end": 10.557,
+      "text": "The window saved me."
+    },
+    {
+      "start": 10.577,
+      "end": 18.201,
+      "text": "I had such a view on branches and an empty playground."
+    },
+    {
+      "start": 19.101,
+      "end": 23.804,
+      "text": "From above, looking down."
+    },
+    {
+      "start": 24.624,
+      "end": 28.466,
+      "text": "From above, I said looking down."
+    }
+  ],
+  "language": "en"
+}

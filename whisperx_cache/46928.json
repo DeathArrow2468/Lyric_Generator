@@ -1,0 +1,26 @@
+{
+  "text": "It's been this way forever, for way too long. Now people say that I've got bad luck, but at least I've got my pickup truck. Will I sleep in it when it gets cold at night? Or if my baby and me get into a fight?",
+  "segments": [
+    {
+      "start": 1.752,
+      "end": 11.197,
+      "text": "It's been this way forever, for way too long."
+    },
+    {
+      "start": 14.079,
+      "end": 21.342,
+      "text": "Now people say that I've got bad luck, but at least I've got my pickup truck."
+    },
+    {
+      "start": 21.422,
+      "end": 25.104,
+      "text": "Will I sleep in it when it gets cold at night?"
+    },
+    {
+      "start": 25.765,
+      "end": 29.107,
+      "text": "Or if my baby and me get into a fight?"
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,31 @@
+{
+  "text": "When my parents are not found, I push the envelope. I'm not loud. I'm a fart. I'm a fart. I'm a fart.",
+  "segments": [
+    {
+      "start": 2.696,
+      "end": 11.303,
+      "text": "When my parents are not found, I push the envelope."
+    },
+    {
+      "start": 11.763,
+      "end": 13.024,
+      "text": "I'm not loud."
+    },
+    {
+      "start": 13.945,
+      "end": 14.866,
+      "text": "I'm a fart."
+    },
+    {
+      "start": 16.147,
+      "end": 16.827,
+      "text": "I'm a fart."
+    },
+    {
+      "start": 17.187,
+      "end": 17.828,
+      "text": "I'm a fart."
+    }
+  ],
+  "language": "en"
+}

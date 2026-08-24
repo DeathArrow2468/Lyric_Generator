@@ -1,0 +1,16 @@
+{
+  "text": "Get out of here! This is the end!",
+  "segments": [
+    {
+      "start": 16.883,
+      "end": 17.929,
+      "text": "Get out of here!"
+    },
+    {
+      "start": 18.15,
+      "end": 18.813,
+      "text": "This is the end!"
+    }
+  ],
+  "language": "en"
+}

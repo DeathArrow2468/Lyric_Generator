@@ -1,0 +1,26 @@
+{
+  "text": "Think of what the field is when we're in the... Bungalow for two, dear, roof for me and you, dear. Come and jump upon my train. Don't you fail, and we'll sail underneath the monkey boat. They were wed in two.",
+  "segments": [
+    {
+      "start": 0.871,
+      "end": 12.318,
+      "text": "Think of what the field is when we're in the... Bungalow for two, dear, roof for me and you, dear."
+    },
+    {
+      "start": 12.438,
+      "end": 14.959,
+      "text": "Come and jump upon my train."
+    },
+    {
+      "start": 15.059,
+      "end": 22.223,
+      "text": "Don't you fail, and we'll sail underneath the monkey boat."
+    },
+    {
+      "start": 22.263,
+      "end": 24.044,
+      "text": "They were wed in two."
+    }
+  ],
+  "language": "en"
+}

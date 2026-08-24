@@ -1,0 +1,16 @@
+{
+  "text": "I don't know. I don't know.",
+  "segments": [
+    {
+      "start": 0.915,
+      "end": 1.415,
+      "text": "I don't know."
+    },
+    {
+      "start": 1.475,
+      "end": 2.075,
+      "text": "I don't know."
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,26 @@
+{
+  "text": "My chariot will be of gold, with a zebra on my steed. My candle will be lion's-bowl, away up in the lead. Rusty leaves all paved with ivory, and precious sparkling stone. And ninety-seven wives to call my own.",
+  "segments": [
+    {
+      "start": 7.155,
+      "end": 12.198,
+      "text": "My chariot will be of gold, with a zebra on my steed."
+    },
+    {
+      "start": 12.518,
+      "end": 20.422,
+      "text": "My candle will be lion's-bowl, away up in the lead."
+    },
+    {
+      "start": 20.442,
+      "end": 26.265,
+      "text": "Rusty leaves all paved with ivory, and precious sparkling stone."
+    },
+    {
+      "start": 26.585,
+      "end": 29.927,
+      "text": "And ninety-seven wives to call my own."
+    }
+  ],
+  "language": "en"
+}

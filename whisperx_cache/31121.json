@@ -1,0 +1,86 @@
+{
+  "text": "Oh, I didn't get here until way long in the middle of the night, about half past nine. So I'm here at the hotel. The hotel. H-O-T-E-W-L. Which one? What is the two? By this one right across the road from the depot. The name of it? I don't know. Wait a minute. Hold the line. Say, Captain, what's the name of this hotel? The Belmont. Hello, John. Say, this hotel is the Belmont. And say, John.",
+  "segments": [
+    {
+      "start": 0.772,
+      "end": 5.596,
+      "text": "Oh, I didn't get here until way long in the middle of the night, about half past nine."
+    },
+    {
+      "start": 5.616,
+      "end": 7.958,
+      "text": "So I'm here at the hotel."
+    },
+    {
+      "start": 8.779,
+      "end": 9.76,
+      "text": "The hotel."
+    },
+    {
+      "start": 9.82,
+      "end": 10.34,
+      "text": "H-O-T-E-W-L."
+    },
+    {
+      "start": 11.381,
+      "end": 11.922,
+      "text": "Which one?"
+    },
+    {
+      "start": 12.322,
+      "end": 13.223,
+      "text": "What is the two?"
+    },
+    {
+      "start": 14.024,
+      "end": 16.606,
+      "text": "By this one right across the road from the depot."
+    },
+    {
+      "start": 17.867,
+      "end": 18.428,
+      "text": "The name of it?"
+    },
+    {
+      "start": 18.828,
+      "end": 19.368,
+      "text": "I don't know."
+    },
+    {
+      "start": 19.549,
+      "end": 20.089,
+      "text": "Wait a minute."
+    },
+    {
+      "start": 20.189,
+      "end": 20.77,
+      "text": "Hold the line."
+    },
+    {
+      "start": 21.49,
+      "end": 22.972,
+      "text": "Say, Captain, what's the name of this hotel?"
+    },
+    {
+      "start": 23.852,
+      "end": 24.393,
+      "text": "The Belmont."
+    },
+    {
+      "start": 25.154,
+      "end": 25.874,
+      "text": "Hello, John."
+    },
+    {
+      "start": 26.295,
+      "end": 28.216,
+      "text": "Say, this hotel is the Belmont."
+    },
+    {
+      "start": 29.117,
+      "end": 30.018,
+      "text": "And say, John."
+    }
+  ],
+  "language": "en"
+}

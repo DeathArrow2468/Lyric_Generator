@@ -1,0 +1,46 @@
+{
+  "text": "You want my money? You want my money? You want my money, motherfucker? Motherfucker, I want more money. Do you remember? I call you remember. Now get some money. You remember, motherfucker?",
+  "segments": [
+    {
+      "start": 0.131,
+      "end": 6.714,
+      "text": "You want my money?"
+    },
+    {
+      "start": 6.814,
+      "end": 8.994,
+      "text": "You want my money?"
+    },
+    {
+      "start": 9.074,
+      "end": 11.735,
+      "text": "You want my money, motherfucker?"
+    },
+    {
+      "start": 11.795,
+      "end": 13.676,
+      "text": "Motherfucker, I want more money."
+    },
+    {
+      "start": 14.697,
+      "end": 16.177,
+      "text": "Do you remember?"
+    },
+    {
+      "start": 16.237,
+      "end": 20.459,
+      "text": "I call you remember."
+    },
+    {
+      "start": 20.539,
+      "end": 23.04,
+      "text": "Now get some money."
+    },
+    {
+      "start": 23.16,
+      "end": 28.642,
+      "text": "You remember, motherfucker?"
+    }
+  ],
+  "language": "en"
+}

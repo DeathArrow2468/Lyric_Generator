@@ -1,0 +1,46 @@
+{
+  "text": "Can I do this for you? My fire bombs It's leaping apart Do you wanna shake? It's leaping apart Do you wanna dance? Hold my hands Sing it! Hi-ya-ya! Hi-ya-ya! What do you see in my eyes? I'm out to dance",
+  "segments": [
+    {
+      "start": 3.024,
+      "end": 5.866,
+      "text": "Can I do this for you?"
+    },
+    {
+      "start": 5.966,
+      "end": 13.11,
+      "text": "My fire bombs It's leaping apart Do you wanna shake?"
+    },
+    {
+      "start": 13.55,
+      "end": 17.613,
+      "text": "It's leaping apart Do you wanna dance?"
+    },
+    {
+      "start": 17.693,
+      "end": 19.554,
+      "text": "Hold my hands Sing it!"
+    },
+    {
+      "start": 19.814,
+      "end": 20.414,
+      "text": "Hi-ya-ya!"
+    },
+    {
+      "start": 20.574,
+      "end": 21.495,
+      "text": "Hi-ya-ya!"
+    },
+    {
+      "start": 21.555,
+      "end": 23.936,
+      "text": "What do you see in my eyes?"
+    },
+    {
+      "start": 24.216,
+      "end": 26.698,
+      "text": "I'm out to dance"
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,26 @@
+{
+  "text": "In the midst of the sun's sun You're headed for trouble Who's your double now? You're headed for good times Who's your trouble now? Headed for the heartache What's the point of talking now? What's the trouble now?",
+  "segments": [
+    {
+      "start": 2.913,
+      "end": 12.681,
+      "text": "In the midst of the sun's sun You're headed for trouble Who's your double now?"
+    },
+    {
+      "start": 13.181,
+      "end": 18.025,
+      "text": "You're headed for good times Who's your trouble now?"
+    },
+    {
+      "start": 18.305,
+      "end": 25.29,
+      "text": "Headed for the heartache What's the point of talking now?"
+    },
+    {
+      "start": 26.612,
+      "end": 27.933,
+      "text": "What's the trouble now?"
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,26 @@
+{
+  "text": "I can't go back. I can't go back. I can't go back. No, I can't go back.",
+  "segments": [
+    {
+      "start": 5.319,
+      "end": 7.201,
+      "text": "I can't go back."
+    },
+    {
+      "start": 7.501,
+      "end": 10.505,
+      "text": "I can't go back."
+    },
+    {
+      "start": 10.765,
+      "end": 12.126,
+      "text": "I can't go back."
+    },
+    {
+      "start": 12.507,
+      "end": 13.428,
+      "text": "No, I can't go back."
+    }
+  ],
+  "language": "en"
+}

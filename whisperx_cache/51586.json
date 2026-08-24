@@ -1,0 +1,36 @@
+{
+  "text": "y una boquita hermosa. Hay que unirte a los muchachitos, no va a toque. Estoy teniendo el ajo de mi yola, mi yola preciosa. El que yula esta mi yola, creo que es un calahualcar. Ni el cristal ni el perico tampoco lo va. Estoy teniendo el ajo de mi yola, mi yola preciosa.",
+  "segments": [
+    {
+      "start": 6.16,
+      "end": 9.641,
+      "text": "y una boquita hermosa."
+    },
+    {
+      "start": 10.041,
+      "end": 11.702,
+      "text": "Hay que unirte a los muchachitos, no va a toque."
+    },
+    {
+      "start": 12.362,
+      "end": 16.263,
+      "text": "Estoy teniendo el ajo de mi yola, mi yola preciosa."
+    },
+    {
+      "start": 16.723,
+      "end": 22.025,
+      "text": "El que yula esta mi yola, creo que es un calahualcar."
+    },
+    {
+      "start": 22.385,
+      "end": 24.465,
+      "text": "Ni el cristal ni el perico tampoco lo va."
+    },
+    {
+      "start": 24.525,
+      "end": 28.507,
+      "text": "Estoy teniendo el ajo de mi yola, mi yola preciosa."
+    }
+  ],
+  "language": "es"
+}

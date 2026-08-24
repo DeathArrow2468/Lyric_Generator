@@ -1,0 +1,41 @@
+{
+  "text": "I want your love. Oh, I will always need it, baby. I need your love. But you didn't want to have me, just wanted to be happy. I need your kiss. Oh, I will always need it, baby. I want your kiss, but you didn't",
+  "segments": [
+    {
+      "start": 3.121,
+      "end": 4.061,
+      "text": "I want your love."
+    },
+    {
+      "start": 5.962,
+      "end": 8.522,
+      "text": "Oh, I will always need it, baby."
+    },
+    {
+      "start": 8.822,
+      "end": 11.043,
+      "text": "I need your love."
+    },
+    {
+      "start": 12.323,
+      "end": 20.005,
+      "text": "But you didn't want to have me, just wanted to be happy."
+    },
+    {
+      "start": 20.165,
+      "end": 21.305,
+      "text": "I need your kiss."
+    },
+    {
+      "start": 22.625,
+      "end": 25.906,
+      "text": "Oh, I will always need it, baby."
+    },
+    {
+      "start": 26.006,
+      "end": 29.967,
+      "text": "I want your kiss, but you didn't"
+    }
+  ],
+  "language": "en"
+}

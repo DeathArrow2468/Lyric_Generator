@@ -1,0 +1,56 @@
+{
+  "text": "You gotta keep your head. Ocean fog gets brought in by the wind. Hereditary skull. Stuck with eyes. Tears break your face. And cut the spine. If they try to make you stand in line. Three steps forward and give it back. Your chance on a mild man. Crossbones stick with a living chicken.",
+  "segments": [
+    {
+      "start": 0.151,
+      "end": 2.052,
+      "text": "You gotta keep your head."
+    },
+    {
+      "start": 2.232,
+      "end": 6.274,
+      "text": "Ocean fog gets brought in by the wind."
+    },
+    {
+      "start": 6.394,
+      "end": 7.115,
+      "text": "Hereditary skull."
+    },
+    {
+      "start": 7.175,
+      "end": 8.696,
+      "text": "Stuck with eyes."
+    },
+    {
+      "start": 8.756,
+      "end": 11.477,
+      "text": "Tears break your face."
+    },
+    {
+      "start": 11.597,
+      "end": 12.898,
+      "text": "And cut the spine."
+    },
+    {
+      "start": 13.018,
+      "end": 17.881,
+      "text": "If they try to make you stand in line."
+    },
+    {
+      "start": 17.941,
+      "end": 22.963,
+      "text": "Three steps forward and give it back."
+    },
+    {
+      "start": 23.343,
+      "end": 25.345,
+      "text": "Your chance on a mild man."
+    },
+    {
+      "start": 25.365,
+      "end": 29.827,
+      "text": "Crossbones stick with a living chicken."
+    }
+  ],
+  "language": "en"
+}

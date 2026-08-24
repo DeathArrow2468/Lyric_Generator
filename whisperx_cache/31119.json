@@ -1,0 +1,41 @@
+{
+  "text": "If I had a ladder, I would climb up to a platter full of home-made muffins and jam. Home, how lonesome I am. Oh, I got the home again blue. When I left home, I didn't have a cent. Was a croak, but I was badly bent. Didn't have a single dime to count. Now I'm going home.",
+  "segments": [
+    {
+      "start": 0.151,
+      "end": 8.098,
+      "text": "If I had a ladder, I would climb up to a platter full of home-made muffins and jam."
+    },
+    {
+      "start": 8.659,
+      "end": 13.543,
+      "text": "Home, how lonesome I am."
+    },
+    {
+      "start": 13.583,
+      "end": 17.086,
+      "text": "Oh, I got the home again blue."
+    },
+    {
+      "start": 17.527,
+      "end": 21.871,
+      "text": "When I left home, I didn't have a cent."
+    },
+    {
+      "start": 22.331,
+      "end": 25.554,
+      "text": "Was a croak, but I was badly bent."
+    },
+    {
+      "start": 25.594,
+      "end": 28.116,
+      "text": "Didn't have a single dime to count."
+    },
+    {
+      "start": 28.617,
+      "end": 29.958,
+      "text": "Now I'm going home."
+    }
+  ],
+  "language": "en"
+}

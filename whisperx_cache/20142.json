@@ -1,0 +1,61 @@
+{
+  "text": "Out in San Francisco, we met Dr. Cook. Talking on the pole from an old cookbook. The engineer was angry, said he's dumb. I'll go get that pole. Who'll come? Someone gave a signal. We were off like a shot. Gee, but everyone was hot. In just 30 seconds, we were halfway there. Then stopped to get directions from the polar bear. Ah, ah, that's true.",
+  "segments": [
+    {
+      "start": 1.452,
+      "end": 7.194,
+      "text": "Out in San Francisco, we met Dr. Cook."
+    },
+    {
+      "start": 7.574,
+      "end": 10.275,
+      "text": "Talking on the pole from an old cookbook."
+    },
+    {
+      "start": 10.315,
+      "end": 12.857,
+      "text": "The engineer was angry, said he's dumb."
+    },
+    {
+      "start": 13.377,
+      "end": 14.977,
+      "text": "I'll go get that pole."
+    },
+    {
+      "start": 14.997,
+      "end": 15.658,
+      "text": "Who'll come?"
+    },
+    {
+      "start": 15.718,
+      "end": 17.018,
+      "text": "Someone gave a signal."
+    },
+    {
+      "start": 17.038,
+      "end": 18.499,
+      "text": "We were off like a shot."
+    },
+    {
+      "start": 18.859,
+      "end": 21.38,
+      "text": "Gee, but everyone was hot."
+    },
+    {
+      "start": 21.42,
+      "end": 24.021,
+      "text": "In just 30 seconds, we were halfway there."
+    },
+    {
+      "start": 24.221,
+      "end": 27.023,
+      "text": "Then stopped to get directions from the polar bear."
+    },
+    {
+      "start": 27.683,
+      "end": 29.664,
+      "text": "Ah, ah, that's true."
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,31 @@
+{
+  "text": "I'm in love with you How you make me feel so fine You know that you are always mine Mary, Mary What do you wanna do with me today? Mary, Mary Do you wanna play with me? Okay Okay, Mary What's the story? Am I your one and only? Our love is like",
+  "segments": [
+    {
+      "start": 0.131,
+      "end": 15.259,
+      "text": "I'm in love with you How you make me feel so fine You know that you are always mine Mary, Mary What do you wanna do with me today?"
+    },
+    {
+      "start": 15.359,
+      "end": 19.802,
+      "text": "Mary, Mary Do you wanna play with me?"
+    },
+    {
+      "start": 20.142,
+      "end": 24.684,
+      "text": "Okay Okay, Mary What's the story?"
+    },
+    {
+      "start": 25.004,
+      "end": 28.266,
+      "text": "Am I your one and only?"
+    },
+    {
+      "start": 28.386,
+      "end": 29.967,
+      "text": "Our love is like"
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,21 @@
+{
+  "text": "I think about you. I think about you. I think about you.",
+  "segments": [
+    {
+      "start": 7.266,
+      "end": 8.508,
+      "text": "I think about you."
+    },
+    {
+      "start": 8.709,
+      "end": 11.794,
+      "text": "I think about you."
+    },
+    {
+      "start": 13.097,
+      "end": 14.059,
+      "text": "I think about you."
+    }
+  ],
+  "language": "en"
+}

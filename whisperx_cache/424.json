@@ -1,0 +1,26 @@
+{
+  "text": "I don't need you. I don't need you. I don't need you. I don't need you.",
+  "segments": [
+    {
+      "start": 0.111,
+      "end": 2.652,
+      "text": "I don't need you."
+    },
+    {
+      "start": 2.792,
+      "end": 4.734,
+      "text": "I don't need you."
+    },
+    {
+      "start": 4.934,
+      "end": 6.655,
+      "text": "I don't need you."
+    },
+    {
+      "start": 6.795,
+      "end": 8.676,
+      "text": "I don't need you."
+    }
+  ],
+  "language": "en"
+}

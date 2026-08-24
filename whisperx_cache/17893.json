@@ -1,0 +1,26 @@
+{
+  "text": "Y'all want a airplane? Won't quit it then. Just a side plane. Come on, chicken wing.",
+  "segments": [
+    {
+      "start": 16.946,
+      "end": 19.329,
+      "text": "Y'all want a airplane?"
+    },
+    {
+      "start": 19.389,
+      "end": 21.231,
+      "text": "Won't quit it then."
+    },
+    {
+      "start": 21.251,
+      "end": 23.514,
+      "text": "Just a side plane."
+    },
+    {
+      "start": 23.554,
+      "end": 26.217,
+      "text": "Come on, chicken wing."
+    }
+  ],
+  "language": "en"
+}

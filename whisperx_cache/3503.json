@@ -1,0 +1,16 @@
+{
+  "text": "I'm a wicked momma! And I know what you do.",
+  "segments": [
+    {
+      "start": 8.029,
+      "end": 18.537,
+      "text": "I'm a wicked momma!"
+    },
+    {
+      "start": 18.878,
+      "end": 21.64,
+      "text": "And I know what you do."
+    }
+  ],
+  "language": "en"
+}

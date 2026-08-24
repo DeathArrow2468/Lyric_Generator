@@ -1,0 +1,56 @@
+{
+  "text": "You. You. You. You. You. You. You. You. You. You.",
+  "segments": [
+    {
+      "start": 0.402,
+      "end": 0.682,
+      "text": "You."
+    },
+    {
+      "start": 0.782,
+      "end": 1.202,
+      "text": "You."
+    },
+    {
+      "start": 1.222,
+      "end": 1.562,
+      "text": "You."
+    },
+    {
+      "start": 1.722,
+      "end": 1.922,
+      "text": "You."
+    },
+    {
+      "start": 3.043,
+      "end": 3.323,
+      "text": "You."
+    },
+    {
+      "start": 3.723,
+      "end": 4.023,
+      "text": "You."
+    },
+    {
+      "start": 4.383,
+      "end": 4.603,
+      "text": "You."
+    },
+    {
+      "start": 4.623,
+      "end": 6.024,
+      "text": "You."
+    },
+    {
+      "start": 6.124,
+      "end": 6.824,
+      "text": "You."
+    },
+    {
+      "start": 6.904,
+      "end": 7.344,
+      "text": "You."
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,31 @@
+{
+  "text": "Zastavljen i ružan. Pametan sit, život mene čeka. Smri, hnup, za mene nema leka. To sam ja, to sam ja. Čovjek zastavljeno slojeva.",
+  "segments": [
+    {
+      "start": 0.031,
+      "end": 0.371,
+      "text": "Zastavljen i ružan."
+    },
+    {
+      "start": 0.371,
+      "end": 3.914,
+      "text": "Pametan sit, život mene čeka."
+    },
+    {
+      "start": 3.914,
+      "end": 26.315,
+      "text": "Smri, hnup, za mene nema leka."
+    },
+    {
+      "start": 26.315,
+      "end": 29.478,
+      "text": "To sam ja, to sam ja."
+    },
+    {
+      "start": 29.478,
+      "end": 30.018,
+      "text": "Čovjek zastavljeno slojeva."
+    }
+  ],
+  "language": "hr"
+}

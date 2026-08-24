@@ -1,0 +1,36 @@
+{
+  "text": "I don't give a damn. All the people in this town are trying to put me down. All the people in this town, they could never understand I'm a black man. Yeah, man. Love and passion. Did you see that?",
+  "segments": [
+    {
+      "start": 0.071,
+      "end": 1.112,
+      "text": "I don't give a damn."
+    },
+    {
+      "start": 1.192,
+      "end": 6.036,
+      "text": "All the people in this town are trying to put me down."
+    },
+    {
+      "start": 6.116,
+      "end": 11.141,
+      "text": "All the people in this town, they could never understand I'm a black man."
+    },
+    {
+      "start": 11.161,
+      "end": 23.672,
+      "text": "Yeah, man."
+    },
+    {
+      "start": 23.732,
+      "end": 24.353,
+      "text": "Love and passion."
+    },
+    {
+      "start": 27.296,
+      "end": 29.938,
+      "text": "Did you see that?"
+    }
+  ],
+  "language": "en"
+}

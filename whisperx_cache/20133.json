@@ -1,0 +1,36 @@
+{
+  "text": "I was in the back land. I went to be a pirate on the fall. But mother, I'm feeling hungry and I want me bread and milk. So your bloody little son is coming home. Say folks, I hear them calling me warm. Say, just what they're calling me, neighbor shout out.",
+  "segments": [
+    {
+      "start": 0.031,
+      "end": 1.572,
+      "text": "I was in the back land."
+    },
+    {
+      "start": 2.453,
+      "end": 5.136,
+      "text": "I went to be a pirate on the fall."
+    },
+    {
+      "start": 6.136,
+      "end": 9.96,
+      "text": "But mother, I'm feeling hungry and I want me bread and milk."
+    },
+    {
+      "start": 10.16,
+      "end": 14.144,
+      "text": "So your bloody little son is coming home."
+    },
+    {
+      "start": 19.308,
+      "end": 23.953,
+      "text": "Say folks, I hear them calling me warm."
+    },
+    {
+      "start": 24.693,
+      "end": 29.718,
+      "text": "Say, just what they're calling me, neighbor shout out."
+    }
+  ],
+  "language": "en"
+}

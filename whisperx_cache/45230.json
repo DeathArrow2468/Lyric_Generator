@@ -1,0 +1,56 @@
+{
+  "text": "Là, je le mets juste en haut dans le nez. Et pas les pas. Ça fait saigner le nez. C'était quand on saignait le nez. Ça n'a pas été cotérisé, mais il y a un temps, deux fois. La première fois par un dingue. Et il vient de toi, ça. Qu'est-ce qui se passe ? Je ne sais pas. C'est une idée.",
+  "segments": [
+    {
+      "start": 0.951,
+      "end": 4.814,
+      "text": "Là, je le mets juste en haut dans le nez."
+    },
+    {
+      "start": 4.874,
+      "end": 7.235,
+      "text": "Et pas les pas."
+    },
+    {
+      "start": 7.255,
+      "end": 9.196,
+      "text": "Ça fait saigner le nez."
+    },
+    {
+      "start": 9.236,
+      "end": 14.399,
+      "text": "C'était quand on saignait le nez."
+    },
+    {
+      "start": 14.419,
+      "end": 17.861,
+      "text": "Ça n'a pas été cotérisé, mais il y a un temps, deux fois."
+    },
+    {
+      "start": 17.881,
+      "end": 23.724,
+      "text": "La première fois par un dingue."
+    },
+    {
+      "start": 23.784,
+      "end": 24.484,
+      "text": "Et il vient de toi, ça."
+    },
+    {
+      "start": 24.504,
+      "end": 26.245,
+      "text": "Qu'est-ce qui se passe ?"
+    },
+    {
+      "start": 26.265,
+      "end": 28.126,
+      "text": "Je ne sais pas."
+    },
+    {
+      "start": 28.146,
+      "end": 29.487,
+      "text": "C'est une idée."
+    }
+  ],
+  "language": "fr"
+}

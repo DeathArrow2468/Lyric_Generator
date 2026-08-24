@@ -1,0 +1,26 @@
+{
+  "text": "I'm calling it quits, I'm calling it any old thing. I can figure out how to spit out of your face. I'm flinging you through some mud and now my heart is strong and my head is stronger like the Hulk. My shirt is ripped right down the center and you",
+  "segments": [
+    {
+      "start": 2.112,
+      "end": 7.475,
+      "text": "I'm calling it quits, I'm calling it any old thing."
+    },
+    {
+      "start": 7.715,
+      "end": 13.198,
+      "text": "I can figure out how to spit out of your face."
+    },
+    {
+      "start": 13.698,
+      "end": 23.243,
+      "text": "I'm flinging you through some mud and now my heart is strong and my head is stronger like the Hulk."
+    },
+    {
+      "start": 24.064,
+      "end": 29.387,
+      "text": "My shirt is ripped right down the center and you"
+    }
+  ],
+  "language": "en"
+}

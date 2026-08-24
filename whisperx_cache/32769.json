@@ -1,0 +1,31 @@
+{
+  "text": "You see the lies and the power we miss? It's not too bad. We've got to get away from this. So guys, one, two, three. Whoa!",
+  "segments": [
+    {
+      "start": 2.201,
+      "end": 9.934,
+      "text": "You see the lies and the power we miss?"
+    },
+    {
+      "start": 10.055,
+      "end": 11.096,
+      "text": "It's not too bad."
+    },
+    {
+      "start": 11.116,
+      "end": 13.941,
+      "text": "We've got to get away from this."
+    },
+    {
+      "start": 13.981,
+      "end": 15.784,
+      "text": "So guys, one, two, three."
+    },
+    {
+      "start": 15.864,
+      "end": 16.045,
+      "text": "Whoa!"
+    }
+  ],
+  "language": "en"
+}

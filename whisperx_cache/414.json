@@ -1,0 +1,111 @@
+{
+  "text": "My name is Mary. Wife. Please meet John. Hello. Beautiful. My name is John Two. John Two. I would like some carrots. I would like some cheese. I would like some sausage. I'm a vegetarian. Ma'am. Please bring me some grapes. Beautiful. I'm not feeling well. Hunger is a good sauce. I don't think so. Yes. Mary, it is good. Thanks. Okay.",
+  "segments": [
+    {
+      "start": 0.071,
+      "end": 1.032,
+      "text": "My name is Mary."
+    },
+    {
+      "start": 1.612,
+      "end": 1.872,
+      "text": "Wife."
+    },
+    {
+      "start": 2.712,
+      "end": 3.733,
+      "text": "Please meet John."
+    },
+    {
+      "start": 4.013,
+      "end": 4.373,
+      "text": "Hello."
+    },
+    {
+      "start": 5.214,
+      "end": 6.554,
+      "text": "Beautiful."
+    },
+    {
+      "start": 6.695,
+      "end": 7.955,
+      "text": "My name is John Two."
+    },
+    {
+      "start": 8.395,
+      "end": 9.076,
+      "text": "John Two."
+    },
+    {
+      "start": 9.736,
+      "end": 10.877,
+      "text": "I would like some carrots."
+    },
+    {
+      "start": 11.677,
+      "end": 13.298,
+      "text": "I would like some cheese."
+    },
+    {
+      "start": 13.458,
+      "end": 14.759,
+      "text": "I would like some sausage."
+    },
+    {
+      "start": 15.859,
+      "end": 16.94,
+      "text": "I'm a vegetarian."
+    },
+    {
+      "start": 17.76,
+      "end": 18.101,
+      "text": "Ma'am."
+    },
+    {
+      "start": 18.721,
+      "end": 19.962,
+      "text": "Please bring me some grapes."
+    },
+    {
+      "start": 20.382,
+      "end": 21.042,
+      "text": "Beautiful."
+    },
+    {
+      "start": 21.362,
+      "end": 22.363,
+      "text": "I'm not feeling well."
+    },
+    {
+      "start": 22.943,
+      "end": 24.204,
+      "text": "Hunger is a good sauce."
+    },
+    {
+      "start": 24.884,
+      "end": 25.725,
+      "text": "I don't think so."
+    },
+    {
+      "start": 26.245,
+      "end": 26.525,
+      "text": "Yes."
+    },
+    {
+      "start": 27.025,
+      "end": 28.206,
+      "text": "Mary, it is good."
+    },
+    {
+      "start": 28.406,
+      "end": 28.666,
+      "text": "Thanks."
+    },
+    {
+      "start": 29.247,
+      "end": 29.667,
+      "text": "Okay."
+    }
+  ],
+  "language": "en"
+}

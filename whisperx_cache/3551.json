@@ -1,0 +1,26 @@
+{
+  "text": "Just go! Just go! Just go! Just go!",
+  "segments": [
+    {
+      "start": 1.972,
+      "end": 2.252,
+      "text": "Just go!"
+    },
+    {
+      "start": 2.273,
+      "end": 2.613,
+      "text": "Just go!"
+    },
+    {
+      "start": 2.653,
+      "end": 6.135,
+      "text": "Just go!"
+    },
+    {
+      "start": 6.155,
+      "end": 6.716,
+      "text": "Just go!"
+    }
+  ],
+  "language": "pt"
+}

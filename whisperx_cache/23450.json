@@ -1,0 +1,16 @@
+{
+  "text": "This is AmigaSpeaking. This is AmigaSpeaking.",
+  "segments": [
+    {
+      "start": 3.613,
+      "end": 6.194,
+      "text": "This is AmigaSpeaking."
+    },
+    {
+      "start": 6.275,
+      "end": 10.217,
+      "text": "This is AmigaSpeaking."
+    }
+  ],
+  "language": "en"
+}

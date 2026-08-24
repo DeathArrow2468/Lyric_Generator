@@ -1,0 +1,76 @@
+{
+  "text": "Their president's a crook. Well, I'm not a crook. Crook, crook. And I don't dream about the president anymore. Crook, crook. As a flower, she grew. And all of my friends, they say that they don't either. Crook, crook. And as a fair, young flower, she died. Richard Nixon died today. Poppycock. I saw it on the news, they said. Because people have got to know. Oh, I guess he was.",
+  "segments": [
+    {
+      "start": 1.505,
+      "end": 2.727,
+      "text": "Their president's a crook."
+    },
+    {
+      "start": 2.767,
+      "end": 4.509,
+      "text": "Well, I'm not a crook."
+    },
+    {
+      "start": 4.529,
+      "end": 5.43,
+      "text": "Crook, crook."
+    },
+    {
+      "start": 5.57,
+      "end": 8.674,
+      "text": "And I don't dream about the president anymore."
+    },
+    {
+      "start": 8.694,
+      "end": 9.434,
+      "text": "Crook, crook."
+    },
+    {
+      "start": 9.695,
+      "end": 12.017,
+      "text": "As a flower, she grew."
+    },
+    {
+      "start": 12.037,
+      "end": 16.703,
+      "text": "And all of my friends, they say that they don't either."
+    },
+    {
+      "start": 16.723,
+      "end": 17.444,
+      "text": "Crook, crook."
+    },
+    {
+      "start": 17.664,
+      "end": 20.387,
+      "text": "And as a fair, young flower, she died."
+    },
+    {
+      "start": 20.527,
+      "end": 22.67,
+      "text": "Richard Nixon died today."
+    },
+    {
+      "start": 22.77,
+      "end": 23.711,
+      "text": "Poppycock."
+    },
+    {
+      "start": 23.731,
+      "end": 26.814,
+      "text": "I saw it on the news, they said."
+    },
+    {
+      "start": 27.015,
+      "end": 28.977,
+      "text": "Because people have got to know."
+    },
+    {
+      "start": 28.997,
+      "end": 29.958,
+      "text": "Oh, I guess he was."
+    }
+  ],
+  "language": "en"
+}

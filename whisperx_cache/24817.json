@@ -1,0 +1,21 @@
+{
+  "text": "Okay. Okay. Okay.",
+  "segments": [
+    {
+      "start": 0.031,
+      "end": 0.851,
+      "text": "Okay."
+    },
+    {
+      "start": 0.991,
+      "end": 1.572,
+      "text": "Okay."
+    },
+    {
+      "start": 1.632,
+      "end": 2.492,
+      "text": "Okay."
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,21 @@
+{
+  "text": "Hey, do you wanna? I love y'all. Let's go, y'all.",
+  "segments": [
+    {
+      "start": 6.764,
+      "end": 10.693,
+      "text": "Hey, do you wanna?"
+    },
+    {
+      "start": 10.713,
+      "end": 11.294,
+      "text": "I love y'all."
+    },
+    {
+      "start": 12.096,
+      "end": 12.817,
+      "text": "Let's go, y'all."
+    }
+  ],
+  "language": "en"
+}

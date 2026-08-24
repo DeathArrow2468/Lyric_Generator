@@ -1,0 +1,31 @@
+{
+  "text": "Struški te momi, momo, momi, da gledam. Na kepenci te momo, da zedam. Struški te momi, momo, momi, da gledam. Lej, lej, vajaj, momo, momo, kalino. Struški te momi, momo, momi, da gledam.",
+  "segments": [
+    {
+      "start": 4.754,
+      "end": 8.857,
+      "text": "Struški te momi, momo, momi, da gledam."
+    },
+    {
+      "start": 8.957,
+      "end": 12.258,
+      "text": "Na kepenci te momo, da zedam."
+    },
+    {
+      "start": 12.278,
+      "end": 17.561,
+      "text": "Struški te momi, momo, momi, da gledam."
+    },
+    {
+      "start": 17.701,
+      "end": 19.502,
+      "text": "Lej, lej, vajaj, momo, momo, kalino."
+    },
+    {
+      "start": 19.562,
+      "end": 21.603,
+      "text": "Struški te momi, momo, momi, da gledam."
+    }
+  ],
+  "language": "sl"
+}

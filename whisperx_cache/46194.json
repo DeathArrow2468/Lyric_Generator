@@ -1,0 +1,36 @@
+{
+  "text": "We had our day in the sunshine. Now we have to go away. Giving all I've got to give. Giving it to London town. London's giving all it has back to me. Giving it all with Lugo.",
+  "segments": [
+    {
+      "start": 1.246,
+      "end": 4.65,
+      "text": "We had our day in the sunshine."
+    },
+    {
+      "start": 6.852,
+      "end": 10.156,
+      "text": "Now we have to go away."
+    },
+    {
+      "start": 10.176,
+      "end": 14.421,
+      "text": "Giving all I've got to give."
+    },
+    {
+      "start": 14.441,
+      "end": 17.484,
+      "text": "Giving it to London town."
+    },
+    {
+      "start": 17.684,
+      "end": 25.493,
+      "text": "London's giving all it has back to me."
+    },
+    {
+      "start": 25.693,
+      "end": 28.416,
+      "text": "Giving it all with Lugo."
+    }
+  ],
+  "language": "en"
+}

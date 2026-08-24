@@ -1,0 +1,26 @@
+{
+  "text": "She went behind my back, she went down. Say what? Took a call from the tabletop, exasperated, she went downtown. Meanwhile, I took the stairs to the street.",
+  "segments": [
+    {
+      "start": 17.253,
+      "end": 18.735,
+      "text": "She went behind my back, she went down."
+    },
+    {
+      "start": 18.815,
+      "end": 19.075,
+      "text": "Say what?"
+    },
+    {
+      "start": 19.095,
+      "end": 22.098,
+      "text": "Took a call from the tabletop, exasperated, she went downtown."
+    },
+    {
+      "start": 22.118,
+      "end": 23.62,
+      "text": "Meanwhile, I took the stairs to the street."
+    }
+  ],
+  "language": "en"
+}

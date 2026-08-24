@@ -1,0 +1,56 @@
+{
+  "text": "Oye, lo que tiene Cuba, sentimiento. ¿Pero qué cosa es esto? Lo que tiene Cuba. Ay, qué rico, papacito, así. Ay, qué rico, papacito, así. Vuelvelo así. ¿Pero qué cosa es esto? Lo que tiene Cuba. Cubita, la bella que tiene palmera, ron y tabaco y monatas entre ellas. Aquí viene, papá, los metales",
+  "segments": [
+    {
+      "start": 0.571,
+      "end": 3.453,
+      "text": "Oye, lo que tiene Cuba, sentimiento."
+    },
+    {
+      "start": 3.473,
+      "end": 4.714,
+      "text": "¿Pero qué cosa es esto?"
+    },
+    {
+      "start": 4.754,
+      "end": 5.454,
+      "text": "Lo que tiene Cuba."
+    },
+    {
+      "start": 5.514,
+      "end": 6.414,
+      "text": "Ay, qué rico, papacito, así."
+    },
+    {
+      "start": 6.434,
+      "end": 7.755,
+      "text": "Ay, qué rico, papacito, así."
+    },
+    {
+      "start": 7.775,
+      "end": 8.355,
+      "text": "Vuelvelo así."
+    },
+    {
+      "start": 8.415,
+      "end": 9.956,
+      "text": "¿Pero qué cosa es esto?"
+    },
+    {
+      "start": 9.976,
+      "end": 10.497,
+      "text": "Lo que tiene Cuba."
+    },
+    {
+      "start": 10.557,
+      "end": 13.998,
+      "text": "Cubita, la bella que tiene palmera, ron y tabaco y monatas entre ellas."
+    },
+    {
+      "start": 14.038,
+      "end": 15.719,
+      "text": "Aquí viene, papá, los metales"
+    }
+  ],
+  "language": "es"
+}

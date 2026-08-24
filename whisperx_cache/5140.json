@@ -1,0 +1,26 @@
+{
+  "text": "The sun is waiting where the sky is very white. La la ba da ba da dee da da. La ba da da da. La ba da.",
+  "segments": [
+    {
+      "start": 3.041,
+      "end": 8.162,
+      "text": "The sun is waiting where the sky is very white."
+    },
+    {
+      "start": 15.484,
+      "end": 19.425,
+      "text": "La la ba da ba da dee da da."
+    },
+    {
+      "start": 22.505,
+      "end": 24.426,
+      "text": "La ba da da da."
+    },
+    {
+      "start": 28.387,
+      "end": 29.387,
+      "text": "La ba da."
+    }
+  ],
+  "language": "en"
+}

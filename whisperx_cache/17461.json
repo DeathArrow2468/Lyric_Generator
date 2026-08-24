@@ -1,0 +1,16 @@
+{
+  "text": "I'm 28. 28.",
+  "segments": [
+    {
+      "start": 0.291,
+      "end": 0.811,
+      "text": "I'm 28."
+    },
+    {
+      "start": 0.831,
+      "end": 1.132,
+      "text": "28."
+    }
+  ],
+  "language": "en"
+}

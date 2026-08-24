@@ -1,0 +1,31 @@
+{
+  "text": "King Kong and the Hawkins play big ball with the Seagulls. There's nothing like King Kong. He is a champion. When it comes to playing big ball, he goes over all the Hawkins. King Kong and the Hawkins play big ball with the Seagulls.",
+  "segments": [
+    {
+      "start": 3.32,
+      "end": 6.445,
+      "text": "King Kong and the Hawkins play big ball with the Seagulls."
+    },
+    {
+      "start": 11.492,
+      "end": 13.214,
+      "text": "There's nothing like King Kong."
+    },
+    {
+      "start": 13.935,
+      "end": 15.578,
+      "text": "He is a champion."
+    },
+    {
+      "start": 16.279,
+      "end": 20.625,
+      "text": "When it comes to playing big ball, he goes over all the Hawkins."
+    },
+    {
+      "start": 25.532,
+      "end": 28.816,
+      "text": "King Kong and the Hawkins play big ball with the Seagulls."
+    }
+  ],
+  "language": "en"
+}

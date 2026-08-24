@@ -1,0 +1,16 @@
+{
+  "text": "Function equals false. Equals false.",
+  "segments": [
+    {
+      "start": 11.962,
+      "end": 14.243,
+      "text": "Function equals false."
+    },
+    {
+      "start": 14.283,
+      "end": 14.803,
+      "text": "Equals false."
+    }
+  ],
+  "language": "en"
+}

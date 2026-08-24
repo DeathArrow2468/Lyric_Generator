@@ -1,0 +1,21 @@
+{
+  "text": "The crush of hours, the crash of days Can I learn from my love? Can I rise above? The rising tide",
+  "segments": [
+    {
+      "start": 0.051,
+      "end": 12.994,
+      "text": "The crush of hours, the crash of days Can I learn from my love?"
+    },
+    {
+      "start": 13.914,
+      "end": 18.075,
+      "text": "Can I rise above?"
+    },
+    {
+      "start": 18.115,
+      "end": 19.435,
+      "text": "The rising tide"
+    }
+  ],
+  "language": "en"
+}

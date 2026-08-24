@@ -1,0 +1,21 @@
+{
+  "text": "Why did you run from me and the child? Johnny hardly knew you Where are your legs that used to run? Where are your legs that used to run?",
+  "segments": [
+    {
+      "start": 4.778,
+      "end": 8.599,
+      "text": "Why did you run from me and the child?"
+    },
+    {
+      "start": 8.7,
+      "end": 20.864,
+      "text": "Johnny hardly knew you Where are your legs that used to run?"
+    },
+    {
+      "start": 20.884,
+      "end": 28.086,
+      "text": "Where are your legs that used to run?"
+    }
+  ],
+  "language": "en"
+}

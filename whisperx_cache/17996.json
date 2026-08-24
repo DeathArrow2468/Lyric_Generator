@@ -1,0 +1,21 @@
+{
+  "text": "The janitor's child next door buys pokey pokey from a guinea. I eat my cream with a plate to spoon so as not to soil me skinny. We go to Europe",
+  "segments": [
+    {
+      "start": 0.071,
+      "end": 10.056,
+      "text": "The janitor's child next door buys pokey pokey from a guinea."
+    },
+    {
+      "start": 10.156,
+      "end": 18.641,
+      "text": "I eat my cream with a plate to spoon so as not to soil me skinny."
+    },
+    {
+      "start": 18.661,
+      "end": 19.882,
+      "text": "We go to Europe"
+    }
+  ],
+  "language": "en"
+}

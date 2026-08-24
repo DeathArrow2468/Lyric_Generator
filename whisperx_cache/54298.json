@@ -1,0 +1,11 @@
+{
+  "text": "A table of three, let's put two drinks on it",
+  "segments": [
+    {
+      "start": 1.225,
+      "end": 3.659,
+      "text": "A table of three, let's put two drinks on it"
+    }
+  ],
+  "language": "en"
+}

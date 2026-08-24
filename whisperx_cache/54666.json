@@ -1,0 +1,16 @@
+{
+  "text": "Did you want one? Oh I like it!",
+  "segments": [
+    {
+      "start": 0.592,
+      "end": 3.56,
+      "text": "Did you want one?"
+    },
+    {
+      "start": 3.72,
+      "end": 5.384,
+      "text": "Oh I like it!"
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,16 @@
+{
+  "text": "That's the way it is, that's the way it is. We're talking at the same time.",
+  "segments": [
+    {
+      "start": 22.298,
+      "end": 26.549,
+      "text": "That's the way it is, that's the way it is."
+    },
+    {
+      "start": 26.629,
+      "end": 28.835,
+      "text": "We're talking at the same time."
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,36 @@
+{
+  "text": "I must leave this city. Is the sun a man's pride? Lord, you're all he's right. You're the faggot's wife. You're nothing but a little sleepyhead. Oh, baby.",
+  "segments": [
+    {
+      "start": 0.091,
+      "end": 2.072,
+      "text": "I must leave this city."
+    },
+    {
+      "start": 2.312,
+      "end": 4.093,
+      "text": "Is the sun a man's pride?"
+    },
+    {
+      "start": 4.113,
+      "end": 5.994,
+      "text": "Lord, you're all he's right."
+    },
+    {
+      "start": 6.214,
+      "end": 10.236,
+      "text": "You're the faggot's wife."
+    },
+    {
+      "start": 10.457,
+      "end": 16.46,
+      "text": "You're nothing but a little sleepyhead."
+    },
+    {
+      "start": 16.66,
+      "end": 18.461,
+      "text": "Oh, baby."
+    }
+  ],
+  "language": "en"
+}

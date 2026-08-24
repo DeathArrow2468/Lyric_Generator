@@ -1,0 +1,21 @@
+{
+  "text": "Boy, I left an X on my forehead. Boy, I left an X on my forehead. Boy, I left an X on my forehead.",
+  "segments": [
+    {
+      "start": 0.949,
+      "end": 5.812,
+      "text": "Boy, I left an X on my forehead."
+    },
+    {
+      "start": 5.872,
+      "end": 9.275,
+      "text": "Boy, I left an X on my forehead."
+    },
+    {
+      "start": 9.395,
+      "end": 14.298,
+      "text": "Boy, I left an X on my forehead."
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,26 @@
+{
+  "text": "The best rock and roll singer, sicka lover, sicka lover. Lost one man, lost one leg, when I'm singing to my favorite song. Got life's love in it all, singing about Madonna. The best rock and roll singer, sicka lover,",
+  "segments": [
+    {
+      "start": 1.232,
+      "end": 8.459,
+      "text": "The best rock and roll singer, sicka lover, sicka lover."
+    },
+    {
+      "start": 9.56,
+      "end": 17.927,
+      "text": "Lost one man, lost one leg, when I'm singing to my favorite song."
+    },
+    {
+      "start": 18.988,
+      "end": 23.712,
+      "text": "Got life's love in it all, singing about Madonna."
+    },
+    {
+      "start": 24.953,
+      "end": 29.097,
+      "text": "The best rock and roll singer, sicka lover,"
+    }
+  ],
+  "language": "en"
+}

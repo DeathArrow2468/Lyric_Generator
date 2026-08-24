@@ -1,0 +1,21 @@
+{
+  "text": "DANGER! DANGER! DANGER!",
+  "segments": [
+    {
+      "start": 5.781,
+      "end": 6.464,
+      "text": "DANGER!"
+    },
+    {
+      "start": 7.73,
+      "end": 9.076,
+      "text": "DANGER!"
+    },
+    {
+      "start": 9.197,
+      "end": 9.558,
+      "text": "DANGER!"
+    }
+  ],
+  "language": "en"
+}

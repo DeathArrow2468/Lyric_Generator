@@ -1,0 +1,16 @@
+{
+  "text": "Yeah, have a blast! One, two, three, four!",
+  "segments": [
+    {
+      "start": 3.11,
+      "end": 4.275,
+      "text": "Yeah, have a blast!"
+    },
+    {
+      "start": 4.396,
+      "end": 6.103,
+      "text": "One, two, three, four!"
+    }
+  ],
+  "language": "en"
+}

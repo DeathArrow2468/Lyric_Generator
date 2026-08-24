@@ -1,0 +1,16 @@
+{
+  "text": "Már akkor meggyújtunk. Revőj, madár, revőj, Ménaságra revőj, Édes galakom, napnyegy,",
+  "segments": [
+    {
+      "start": 10.627,
+      "end": 12.41,
+      "text": "Már akkor meggyújtunk."
+    },
+    {
+      "start": 12.59,
+      "end": 26.452,
+      "text": "Revőj, madár, revőj, Ménaságra revőj, Édes galakom, napnyegy,"
+    }
+  ],
+  "language": "hu"
+}

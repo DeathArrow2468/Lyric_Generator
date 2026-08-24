@@ -1,0 +1,41 @@
+{
+  "text": "Qu'est-ce qu'il a trahissé, baby ? Ce qu'il a trahissé, baby, c'est le mort et la jette ! Qu'est-ce qu'il a trahissé ? Ce qu'il a trahissé, c'est toi crucifié ! Arrête pas de la rue de la piette ! Arrête pas de la rue de la piette ! Qu'est-ce qu'il a trahissé, baby, c'est le mort et la jette !",
+  "segments": [
+    {
+      "start": 0.031,
+      "end": 5.614,
+      "text": "Qu'est-ce qu'il a trahissé, baby ?"
+    },
+    {
+      "start": 5.634,
+      "end": 8.035,
+      "text": "Ce qu'il a trahissé, baby, c'est le mort et la jette !"
+    },
+    {
+      "start": 8.055,
+      "end": 9.116,
+      "text": "Qu'est-ce qu'il a trahissé ?"
+    },
+    {
+      "start": 9.136,
+      "end": 11.357,
+      "text": "Ce qu'il a trahissé, c'est toi crucifié !"
+    },
+    {
+      "start": 11.377,
+      "end": 13.598,
+      "text": "Arrête pas de la rue de la piette !"
+    },
+    {
+      "start": 13.618,
+      "end": 15.96,
+      "text": "Arrête pas de la rue de la piette !"
+    },
+    {
+      "start": 16.26,
+      "end": 28.906,
+      "text": "Qu'est-ce qu'il a trahissé, baby, c'est le mort et la jette !"
+    }
+  ],
+  "language": "fr"
+}

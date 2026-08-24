@@ -1,0 +1,26 @@
+{
+  "text": "We can say, drop your hands into the sun. Ni hao kalin. Ni meo shite. We can say, all the rest.",
+  "segments": [
+    {
+      "start": 0.718,
+      "end": 5.822,
+      "text": "We can say, drop your hands into the sun."
+    },
+    {
+      "start": 6.922,
+      "end": 9.664,
+      "text": "Ni hao kalin."
+    },
+    {
+      "start": 9.744,
+      "end": 11.205,
+      "text": "Ni meo shite."
+    },
+    {
+      "start": 11.265,
+      "end": 14.828,
+      "text": "We can say, all the rest."
+    }
+  ],
+  "language": "en"
+}

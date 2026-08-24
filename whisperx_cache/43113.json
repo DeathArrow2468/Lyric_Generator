@@ -1,0 +1,51 @@
+{
+  "text": "I think we'd still be dancing by now. No, this is hard work, this dance. I didn't stop doing it either. We're doing a little swing now. What? This dance is a little harder than the other one was. The other one was a little easier to do here. I think it was because we had music. Did somebody say they were going to play?",
+  "segments": [
+    {
+      "start": 0.611,
+      "end": 10.397,
+      "text": "I think we'd still be dancing by now."
+    },
+    {
+      "start": 10.417,
+      "end": 11.817,
+      "text": "No, this is hard work, this dance."
+    },
+    {
+      "start": 11.837,
+      "end": 13.418,
+      "text": "I didn't stop doing it either."
+    },
+    {
+      "start": 13.438,
+      "end": 16.74,
+      "text": "We're doing a little swing now."
+    },
+    {
+      "start": 16.82,
+      "end": 17.08,
+      "text": "What?"
+    },
+    {
+      "start": 17.1,
+      "end": 19.301,
+      "text": "This dance is a little harder than the other one was."
+    },
+    {
+      "start": 19.321,
+      "end": 22.543,
+      "text": "The other one was a little easier to do here."
+    },
+    {
+      "start": 22.843,
+      "end": 24.584,
+      "text": "I think it was because we had music."
+    },
+    {
+      "start": 25.284,
+      "end": 28.586,
+      "text": "Did somebody say they were going to play?"
+    }
+  ],
+  "language": "en"
+}

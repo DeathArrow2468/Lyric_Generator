@@ -1,0 +1,26 @@
+{
+  "text": "What's the matter with the moon tonight? He don't seem the same old fool. The ground rocks just for a spell-free town, From a home is made in a hole. But he gives a judder and he turns about, And he says,",
+  "segments": [
+    {
+      "start": 0.231,
+      "end": 8.118,
+      "text": "What's the matter with the moon tonight?"
+    },
+    {
+      "start": 8.238,
+      "end": 17.287,
+      "text": "He don't seem the same old fool."
+    },
+    {
+      "start": 18.307,
+      "end": 25.794,
+      "text": "The ground rocks just for a spell-free town, From a home is made in a hole."
+    },
+    {
+      "start": 25.874,
+      "end": 30.018,
+      "text": "But he gives a judder and he turns about, And he says,"
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,21 @@
+{
+  "text": "Let's throw upon a nice white stone, we'll be written below. He was all Britain, but no place to go. Once a friend of mine gave me one",
+  "segments": [
+    {
+      "start": 0.031,
+      "end": 7.295,
+      "text": "Let's throw upon a nice white stone, we'll be written below."
+    },
+    {
+      "start": 8.075,
+      "end": 14.219,
+      "text": "He was all Britain, but no place to go."
+    },
+    {
+      "start": 26.245,
+      "end": 29.767,
+      "text": "Once a friend of mine gave me one"
+    }
+  ],
+  "language": "en"
+}

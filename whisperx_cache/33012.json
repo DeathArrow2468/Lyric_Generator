@@ -1,0 +1,26 @@
+{
+  "text": "I believe in you. I feel nothing. For you are always with me. And it is your will that I shall fly.",
+  "segments": [
+    {
+      "start": 0.051,
+      "end": 0.872,
+      "text": "I believe in you."
+    },
+    {
+      "start": 1.453,
+      "end": 2.254,
+      "text": "I feel nothing."
+    },
+    {
+      "start": 3.296,
+      "end": 5.158,
+      "text": "For you are always with me."
+    },
+    {
+      "start": 6.42,
+      "end": 9.605,
+      "text": "And it is your will that I shall fly."
+    }
+  ],
+  "language": "en"
+}

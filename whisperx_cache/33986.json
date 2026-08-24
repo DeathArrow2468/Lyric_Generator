@@ -1,0 +1,36 @@
+{
+  "text": "Oh, somebody can see me, and I just smile. The balls fly, I trip down to bed, I leave, I stay, it's all good through the night, hey. Pour onto the sea. Wipes all the picture of our love. We've jumped into now, deep in love. Wipes all the picture of our love.",
+  "segments": [
+    {
+      "start": 0.251,
+      "end": 2.993,
+      "text": "Oh, somebody can see me, and I just smile."
+    },
+    {
+      "start": 3.013,
+      "end": 10.86,
+      "text": "The balls fly, I trip down to bed, I leave, I stay, it's all good through the night, hey."
+    },
+    {
+      "start": 10.88,
+      "end": 12.201,
+      "text": "Pour onto the sea."
+    },
+    {
+      "start": 12.341,
+      "end": 18.666,
+      "text": "Wipes all the picture of our love."
+    },
+    {
+      "start": 18.706,
+      "end": 24.351,
+      "text": "We've jumped into now, deep in love."
+    },
+    {
+      "start": 24.391,
+      "end": 28.955,
+      "text": "Wipes all the picture of our love."
+    }
+  ],
+  "language": "en"
+}

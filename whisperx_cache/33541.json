@@ -1,0 +1,26 @@
+{
+  "text": "Dust fills out on the streets, bodies missing voice. Booze eyes keeping a clue inside, watching the butterflies fly here. On the Crystal Frontier. Crystal Frontier.",
+  "segments": [
+    {
+      "start": 0.031,
+      "end": 5.677,
+      "text": "Dust fills out on the streets, bodies missing voice."
+    },
+    {
+      "start": 6.918,
+      "end": 12.724,
+      "text": "Booze eyes keeping a clue inside, watching the butterflies fly here."
+    },
+    {
+      "start": 12.865,
+      "end": 15.367,
+      "text": "On the Crystal Frontier."
+    },
+    {
+      "start": 15.888,
+      "end": 16.829,
+      "text": "Crystal Frontier."
+    }
+  ],
+  "language": "en"
+}

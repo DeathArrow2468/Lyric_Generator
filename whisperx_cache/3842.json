@@ -1,0 +1,51 @@
+{
+  "text": "I said, well, blubber. Yeah, well, she's too bad for me. Can you, can you sing about this? Sha-dee-doo-be-doo-be-ooh. Sha-dee-doo-da-da-da-da. Da-da-ba-da-da-da-ba-ba. Yeah, I will see her, see her lady. Yeah. Sorry to see you go rogue.",
+  "segments": [
+    {
+      "start": 1.752,
+      "end": 4.573,
+      "text": "I said, well, blubber."
+    },
+    {
+      "start": 4.774,
+      "end": 8.275,
+      "text": "Yeah, well, she's too bad for me."
+    },
+    {
+      "start": 8.616,
+      "end": 11.777,
+      "text": "Can you, can you sing about this?"
+    },
+    {
+      "start": 11.877,
+      "end": 16.4,
+      "text": "Sha-dee-doo-be-doo-be-ooh."
+    },
+    {
+      "start": 16.48,
+      "end": 19.061,
+      "text": "Sha-dee-doo-da-da-da-da."
+    },
+    {
+      "start": 19.261,
+      "end": 21.923,
+      "text": "Da-da-ba-da-da-da-ba-ba."
+    },
+    {
+      "start": 22.023,
+      "end": 24.284,
+      "text": "Yeah, I will see her, see her lady."
+    },
+    {
+      "start": 25.365,
+      "end": 26.445,
+      "text": "Yeah."
+    },
+    {
+      "start": 28.066,
+      "end": 29.747,
+      "text": "Sorry to see you go rogue."
+    }
+  ],
+  "language": "en"
+}

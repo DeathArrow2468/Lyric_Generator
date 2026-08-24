@@ -1,0 +1,36 @@
+{
+  "text": "Look at me, look at me, look at me. I'm an Indian, ha-ha, I'm an Indian. Down on the beach is the market for the shoes, and there on the back is a little pebble. And up in the head is a feather from a goose. It's a goose, it's a goose, but I'm an Indian. I sell around me bumping bears, laughing foos, and sending",
+  "segments": [
+    {
+      "start": 0.431,
+      "end": 7.815,
+      "text": "Look at me, look at me, look at me."
+    },
+    {
+      "start": 7.835,
+      "end": 10.096,
+      "text": "I'm an Indian, ha-ha, I'm an Indian."
+    },
+    {
+      "start": 10.337,
+      "end": 17.4,
+      "text": "Down on the beach is the market for the shoes, and there on the back is a little pebble."
+    },
+    {
+      "start": 17.56,
+      "end": 20.582,
+      "text": "And up in the head is a feather from a goose."
+    },
+    {
+      "start": 20.882,
+      "end": 24.684,
+      "text": "It's a goose, it's a goose, but I'm an Indian."
+    },
+    {
+      "start": 25.044,
+      "end": 29.907,
+      "text": "I sell around me bumping bears, laughing foos, and sending"
+    }
+  ],
+  "language": "en"
+}

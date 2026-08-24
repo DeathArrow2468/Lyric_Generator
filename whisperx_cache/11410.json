@@ -1,0 +1,31 @@
+{
+  "text": "my hands and my human words. But there are so many other powers. There are so many other powers. I had constructed a box the size of half of my brain, which I fixed to the side of an office building. And then the building forgot how to stand.",
+  "segments": [
+    {
+      "start": 0.031,
+      "end": 5.014,
+      "text": "my hands and my human words."
+    },
+    {
+      "start": 5.074,
+      "end": 9.956,
+      "text": "But there are so many other powers."
+    },
+    {
+      "start": 9.976,
+      "end": 14.139,
+      "text": "There are so many other powers."
+    },
+    {
+      "start": 14.239,
+      "end": 22.223,
+      "text": "I had constructed a box the size of half of my brain, which I fixed to the side of an office building."
+    },
+    {
+      "start": 22.323,
+      "end": 29.667,
+      "text": "And then the building forgot how to stand."
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,16 @@
+{
+  "text": "Out in Cairo, where the sun beats down with all its might. Out in Cairo, where a big red moon shines every night.",
+  "segments": [
+    {
+      "start": 15.077,
+      "end": 20.986,
+      "text": "Out in Cairo, where the sun beats down with all its might."
+    },
+    {
+      "start": 21.967,
+      "end": 26.613,
+      "text": "Out in Cairo, where a big red moon shines every night."
+    }
+  ],
+  "language": "en"
+}

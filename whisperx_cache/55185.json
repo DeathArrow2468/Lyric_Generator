@@ -1,0 +1,41 @@
+{
+  "text": "It is in this box that my meal is waiting. It is a, well, how do you Americans say it? A packaged dinner? Now, if you will forgive me, I will begin. There we are. But why do you gasp? It's just the head of a human.",
+  "segments": [
+    {
+      "start": 5.616,
+      "end": 9.958,
+      "text": "It is in this box that my meal is waiting."
+    },
+    {
+      "start": 10.939,
+      "end": 14.58,
+      "text": "It is a, well, how do you Americans say it?"
+    },
+    {
+      "start": 15.1,
+      "end": 16.401,
+      "text": "A packaged dinner?"
+    },
+    {
+      "start": 17.822,
+      "end": 21.983,
+      "text": "Now, if you will forgive me, I will begin."
+    },
+    {
+      "start": 23.224,
+      "end": 23.984,
+      "text": "There we are."
+    },
+    {
+      "start": 26.025,
+      "end": 28.186,
+      "text": "But why do you gasp?"
+    },
+    {
+      "start": 28.406,
+      "end": 29.967,
+      "text": "It's just the head of a human."
+    }
+  ],
+  "language": "en"
+}

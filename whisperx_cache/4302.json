@@ -1,0 +1,21 @@
+{
+  "text": "All these streets are the same. All these streets are the same. All these streets are the same.",
+  "segments": [
+    {
+      "start": 2.055,
+      "end": 4.68,
+      "text": "All these streets are the same."
+    },
+    {
+      "start": 5.001,
+      "end": 7.486,
+      "text": "All these streets are the same."
+    },
+    {
+      "start": 7.506,
+      "end": 10.392,
+      "text": "All these streets are the same."
+    }
+  ],
+  "language": "en"
+}

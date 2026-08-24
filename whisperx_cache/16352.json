@@ -1,0 +1,36 @@
+{
+  "text": "just like a man. I've thrown away my nightie and I work pink with jams. Oh, oh, Mother, I'm wild. Percy fool went to see a musical show. He had a seat right in the very front row. Each girl began to give him me a cake.",
+  "segments": [
+    {
+      "start": 0.311,
+      "end": 1.272,
+      "text": "just like a man."
+    },
+    {
+      "start": 1.312,
+      "end": 5.274,
+      "text": "I've thrown away my nightie and I work pink with jams."
+    },
+    {
+      "start": 5.414,
+      "end": 8.936,
+      "text": "Oh, oh, Mother, I'm wild."
+    },
+    {
+      "start": 9.156,
+      "end": 12.878,
+      "text": "Percy fool went to see a musical show."
+    },
+    {
+      "start": 12.958,
+      "end": 16.78,
+      "text": "He had a seat right in the very front row."
+    },
+    {
+      "start": 16.88,
+      "end": 19.682,
+      "text": "Each girl began to give him me a cake."
+    }
+  ],
+  "language": "en"
+}

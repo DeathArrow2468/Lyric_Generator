@@ -1,0 +1,26 @@
+{
+  "text": "Which is a big black cat toy. All those things are spooky to this. They do not taste good. Of course Frankenstein.",
+  "segments": [
+    {
+      "start": 0.131,
+      "end": 4.055,
+      "text": "Which is a big black cat toy."
+    },
+    {
+      "start": 4.275,
+      "end": 8.359,
+      "text": "All those things are spooky to this."
+    },
+    {
+      "start": 8.439,
+      "end": 13.484,
+      "text": "They do not taste good."
+    },
+    {
+      "start": 13.805,
+      "end": 17.008,
+      "text": "Of course Frankenstein."
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,21 @@
+{
+  "text": "in a bamboo chair, for I've got my fare. From here to Shanghai, just picture me, sipping oolong tea, served by a China man who speaks a way up high. Ha-ka-my, ha-ka-my, I'll eat my shabu-wee with a pair of wooden sticks, and I'll have a hot",
+  "segments": [
+    {
+      "start": 2.53,
+      "end": 7.815,
+      "text": "in a bamboo chair, for I've got my fare."
+    },
+    {
+      "start": 8.096,
+      "end": 20.949,
+      "text": "From here to Shanghai, just picture me, sipping oolong tea, served by a China man who speaks a way up high."
+    },
+    {
+      "start": 21.009,
+      "end": 29.357,
+      "text": "Ha-ka-my, ha-ka-my, I'll eat my shabu-wee with a pair of wooden sticks, and I'll have a hot"
+    }
+  ],
+  "language": "en"
+}

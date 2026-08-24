@@ -1,0 +1,21 @@
+{
+  "text": "It's trying to be happy again like we were before. It's trying to be happy again like we were before. Trying to be happy again like we were",
+  "segments": [
+    {
+      "start": 6.308,
+      "end": 10.894,
+      "text": "It's trying to be happy again like we were before."
+    },
+    {
+      "start": 10.934,
+      "end": 14.198,
+      "text": "It's trying to be happy again like we were before."
+    },
+    {
+      "start": 14.258,
+      "end": 17.742,
+      "text": "Trying to be happy again like we were"
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,61 @@
+{
+  "text": "We fail. We fail. We fail. We fail. We fail. We fail. We fail. We fail. We fail. We fail. We fail.",
+  "segments": [
+    {
+      "start": 0.338,
+      "end": 1.3,
+      "text": "We fail."
+    },
+    {
+      "start": 1.48,
+      "end": 3.322,
+      "text": "We fail."
+    },
+    {
+      "start": 3.863,
+      "end": 5.806,
+      "text": "We fail."
+    },
+    {
+      "start": 5.866,
+      "end": 6.967,
+      "text": "We fail."
+    },
+    {
+      "start": 7.528,
+      "end": 8.569,
+      "text": "We fail."
+    },
+    {
+      "start": 8.79,
+      "end": 9.611,
+      "text": "We fail."
+    },
+    {
+      "start": 9.751,
+      "end": 10.212,
+      "text": "We fail."
+    },
+    {
+      "start": 10.352,
+      "end": 11.473,
+      "text": "We fail."
+    },
+    {
+      "start": 12.054,
+      "end": 13.236,
+      "text": "We fail."
+    },
+    {
+      "start": 13.356,
+      "end": 13.997,
+      "text": "We fail."
+    },
+    {
+      "start": 14.117,
+      "end": 14.918,
+      "text": "We fail."
+    }
+  ],
+  "language": "en"
+}

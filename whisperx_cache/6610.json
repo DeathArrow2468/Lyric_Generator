@@ -1,0 +1,26 @@
+{
+  "text": "Beams coming out of my eyes, height screams drumming up a surprise. When the clock struck 12, I was delving in that realm. When the clock struck 12, delving in that realm. You can swim in the woods, jog on a lake, bounce off a spike, or fly on a snake.",
+  "segments": [
+    {
+      "start": 0.111,
+      "end": 6.213,
+      "text": "Beams coming out of my eyes, height screams drumming up a surprise."
+    },
+    {
+      "start": 6.253,
+      "end": 13.795,
+      "text": "When the clock struck 12, I was delving in that realm."
+    },
+    {
+      "start": 13.855,
+      "end": 21.377,
+      "text": "When the clock struck 12, delving in that realm."
+    },
+    {
+      "start": 21.458,
+      "end": 29.06,
+      "text": "You can swim in the woods, jog on a lake, bounce off a spike, or fly on a snake."
+    }
+  ],
+  "language": "en"
+}

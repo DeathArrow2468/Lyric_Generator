@@ -1,0 +1,26 @@
+{
+  "text": "Well, I've got love, well, I've got troubles. Whoa, I just want to talk about walking my mind. Whoa, well, I've got troubles. Oh, troubles, troubles, troubles, troubles, troubles, troubles, troubles, troubles, troubles, troubles, troubles, troubles.",
+  "segments": [
+    {
+      "start": 0.171,
+      "end": 3.473,
+      "text": "Well, I've got love, well, I've got troubles."
+    },
+    {
+      "start": 3.513,
+      "end": 12.238,
+      "text": "Whoa, I just want to talk about walking my mind."
+    },
+    {
+      "start": 12.298,
+      "end": 15.399,
+      "text": "Whoa, well, I've got troubles."
+    },
+    {
+      "start": 15.459,
+      "end": 29.927,
+      "text": "Oh, troubles, troubles, troubles, troubles, troubles, troubles, troubles, troubles, troubles, troubles, troubles, troubles."
+    }
+  ],
+  "language": "en"
+}

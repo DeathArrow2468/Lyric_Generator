@@ -1,0 +1,16 @@
+{
+  "text": "I've got to go. I've got to go.",
+  "segments": [
+    {
+      "start": 18.421,
+      "end": 21.042,
+      "text": "I've got to go."
+    },
+    {
+      "start": 21.062,
+      "end": 22.023,
+      "text": "I've got to go."
+    }
+  ],
+  "language": "nn"
+}

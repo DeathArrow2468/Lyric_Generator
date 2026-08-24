@@ -1,0 +1,16 @@
+{
+  "text": "There are hands that will welcome me. There are hands I am burning to kill.",
+  "segments": [
+    {
+      "start": 1.713,
+      "end": 16.386,
+      "text": "There are hands that will welcome me."
+    },
+    {
+      "start": 16.446,
+      "end": 23.712,
+      "text": "There are hands I am burning to kill."
+    }
+  ],
+  "language": "en"
+}

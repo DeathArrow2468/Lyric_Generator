@@ -1,0 +1,51 @@
+{
+  "text": "You came out of the woodwork, a changed man who's come to it. Ooh. Oh, beautiful rattle. You came out of the woodwork. What can you do? Just push a little more. You can do it. You will. Beautiful rattle.",
+  "segments": [
+    {
+      "start": 0.051,
+      "end": 3.613,
+      "text": "You came out of the woodwork, a changed man who's come to it."
+    },
+    {
+      "start": 6.374,
+      "end": 6.534,
+      "text": "Ooh."
+    },
+    {
+      "start": 6.655,
+      "end": 14.079,
+      "text": "Oh, beautiful rattle."
+    },
+    {
+      "start": 14.159,
+      "end": 18.481,
+      "text": "You came out of the woodwork."
+    },
+    {
+      "start": 20.022,
+      "end": 22.303,
+      "text": "What can you do?"
+    },
+    {
+      "start": 22.843,
+      "end": 24.164,
+      "text": "Just push a little more."
+    },
+    {
+      "start": 24.184,
+      "end": 24.924,
+      "text": "You can do it."
+    },
+    {
+      "start": 25.004,
+      "end": 25.865,
+      "text": "You will."
+    },
+    {
+      "start": 29.087,
+      "end": 29.927,
+      "text": "Beautiful rattle."
+    }
+  ],
+  "language": "en"
+}

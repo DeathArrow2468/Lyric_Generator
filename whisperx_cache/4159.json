@@ -1,0 +1,41 @@
+{
+  "text": "Just an image caught in time. We're alive. You and I, we're a world to that right. Ain't no sign of the morning coming. Ain't no sign of the dawn. You've been left on your own. Like a rainbow in the dark.",
+  "segments": [
+    {
+      "start": 0.071,
+      "end": 4.614,
+      "text": "Just an image caught in time."
+    },
+    {
+      "start": 7.435,
+      "end": 8.476,
+      "text": "We're alive."
+    },
+    {
+      "start": 9.577,
+      "end": 13.439,
+      "text": "You and I, we're a world to that right."
+    },
+    {
+      "start": 15.58,
+      "end": 19.483,
+      "text": "Ain't no sign of the morning coming."
+    },
+    {
+      "start": 19.963,
+      "end": 21.524,
+      "text": "Ain't no sign of the dawn."
+    },
+    {
+      "start": 21.544,
+      "end": 25.727,
+      "text": "You've been left on your own."
+    },
+    {
+      "start": 25.747,
+      "end": 27.908,
+      "text": "Like a rainbow in the dark."
+    }
+  ],
+  "language": "en"
+}

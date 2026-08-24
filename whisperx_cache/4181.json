@@ -1,0 +1,21 @@
+{
+  "text": "Back to the marina Tell me, have you seen her? Have you seen her? Rampin' up the poolside Pop a bitch and no comply I go to Valley High Wish that stupid jock would die Got a bag of Mexicali Yeah, I live in the valley Deep behind the strip mall",
+  "segments": [
+    {
+      "start": 0.031,
+      "end": 2.793,
+      "text": "Back to the marina Tell me, have you seen her?"
+    },
+    {
+      "start": 2.814,
+      "end": 4.615,
+      "text": "Have you seen her?"
+    },
+    {
+      "start": 8.038,
+      "end": 27.936,
+      "text": "Rampin' up the poolside Pop a bitch and no comply I go to Valley High Wish that stupid jock would die Got a bag of Mexicali Yeah, I live in the valley Deep behind the strip mall"
+    }
+  ],
+  "language": "en"
+}

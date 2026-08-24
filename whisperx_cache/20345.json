@@ -1,0 +1,26 @@
+{
+  "text": "I'm feeling nothing inside to me. Crunches in my brain. Bounce through my chair. I'm in the new business of the wild.",
+  "segments": [
+    {
+      "start": 22.481,
+      "end": 25.007,
+      "text": "I'm feeling nothing inside to me."
+    },
+    {
+      "start": 25.087,
+      "end": 26.33,
+      "text": "Crunches in my brain."
+    },
+    {
+      "start": 26.37,
+      "end": 27.654,
+      "text": "Bounce through my chair."
+    },
+    {
+      "start": 27.734,
+      "end": 29.318,
+      "text": "I'm in the new business of the wild."
+    }
+  ],
+  "language": "en"
+}

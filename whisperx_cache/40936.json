@@ -1,0 +1,101 @@
+{
+  "text": "What other fun fact? I really like the lunch meat here today. Good. And Dave? My name is Dave Lawson. I'm playing the bass and singing some backup vocals today. I enjoyed multiple cups of coffee this morning. Yes. And Gordon? My name is Gordon. I played the keyboards and the guitar on a few songs. Come on. Come on, Skip. Say hi to everybody. My name is Skippy. And you can call me Skippington or whatever, a different variation of Skippy you'd like. But I play the drums. And I also love the deli meat here. All right.",
+  "segments": [
+    {
+      "start": 0.311,
+      "end": 1.272,
+      "text": "What other fun fact?"
+    },
+    {
+      "start": 1.352,
+      "end": 3.093,
+      "text": "I really like the lunch meat here today."
+    },
+    {
+      "start": 3.393,
+      "end": 3.553,
+      "text": "Good."
+    },
+    {
+      "start": 3.633,
+      "end": 4.313,
+      "text": "And Dave?"
+    },
+    {
+      "start": 5.414,
+      "end": 6.234,
+      "text": "My name is Dave Lawson."
+    },
+    {
+      "start": 6.254,
+      "end": 8.976,
+      "text": "I'm playing the bass and singing some backup vocals today."
+    },
+    {
+      "start": 8.996,
+      "end": 11.617,
+      "text": "I enjoyed multiple cups of coffee this morning."
+    },
+    {
+      "start": 11.637,
+      "end": 11.897,
+      "text": "Yes."
+    },
+    {
+      "start": 12.017,
+      "end": 12.498,
+      "text": "And Gordon?"
+    },
+    {
+      "start": 12.698,
+      "end": 13.578,
+      "text": "My name is Gordon."
+    },
+    {
+      "start": 14.079,
+      "end": 16.92,
+      "text": "I played the keyboards and the guitar on a few songs."
+    },
+    {
+      "start": 17.28,
+      "end": 17.68,
+      "text": "Come on."
+    },
+    {
+      "start": 17.941,
+      "end": 18.541,
+      "text": "Come on, Skip."
+    },
+    {
+      "start": 18.561,
+      "end": 19.321,
+      "text": "Say hi to everybody."
+    },
+    {
+      "start": 19.341,
+      "end": 20.202,
+      "text": "My name is Skippy."
+    },
+    {
+      "start": 20.722,
+      "end": 25.385,
+      "text": "And you can call me Skippington or whatever, a different variation of Skippy you'd like."
+    },
+    {
+      "start": 25.425,
+      "end": 26.325,
+      "text": "But I play the drums."
+    },
+    {
+      "start": 26.525,
+      "end": 28.206,
+      "text": "And I also love the deli meat here."
+    },
+    {
+      "start": 28.926,
+      "end": 29.207,
+      "text": "All right."
+    }
+  ],
+  "language": "en"
+}

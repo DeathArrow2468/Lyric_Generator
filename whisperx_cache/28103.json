@@ -1,0 +1,16 @@
+{
+  "text": "This is the end of the video. Thank you for watching.",
+  "segments": [
+    {
+      "start": 10.22,
+      "end": 19.003,
+      "text": "This is the end of the video."
+    },
+    {
+      "start": 19.883,
+      "end": 26.406,
+      "text": "Thank you for watching."
+    }
+  ],
+  "language": "nn"
+}

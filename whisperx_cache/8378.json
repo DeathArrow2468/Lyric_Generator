@@ -1,0 +1,51 @@
+{
+  "text": "Ready? Yes, yes, that's everything. Okay. Here we go. No! Hurry. Over here. This way. That's it.",
+  "segments": [
+    {
+      "start": 0.091,
+      "end": 0.711,
+      "text": "Ready?"
+    },
+    {
+      "start": 0.731,
+      "end": 3.293,
+      "text": "Yes, yes, that's everything."
+    },
+    {
+      "start": 3.373,
+      "end": 5.974,
+      "text": "Okay."
+    },
+    {
+      "start": 6.094,
+      "end": 7.855,
+      "text": "Here we go."
+    },
+    {
+      "start": 8.035,
+      "end": 8.536,
+      "text": "No!"
+    },
+    {
+      "start": 8.636,
+      "end": 20.502,
+      "text": "Hurry."
+    },
+    {
+      "start": 23.323,
+      "end": 23.904,
+      "text": "Over here."
+    },
+    {
+      "start": 25.845,
+      "end": 26.505,
+      "text": "This way."
+    },
+    {
+      "start": 28.486,
+      "end": 29.267,
+      "text": "That's it."
+    }
+  ],
+  "language": "en"
+}

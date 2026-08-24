@@ -1,0 +1,41 @@
+{
+  "text": "Back again. Lookin' good in my designer jeans. Sexy time is every time. You look fine in designer jeans. Here we go. Sexy, sexy, sexy, sexy, sexy time. Sexy, sexy, sexy, sexy, sexy.",
+  "segments": [
+    {
+      "start": 4.557,
+      "end": 5.318,
+      "text": "Back again."
+    },
+    {
+      "start": 7.18,
+      "end": 12.566,
+      "text": "Lookin' good in my designer jeans."
+    },
+    {
+      "start": 12.606,
+      "end": 14.588,
+      "text": "Sexy time is every time."
+    },
+    {
+      "start": 14.928,
+      "end": 17.791,
+      "text": "You look fine in designer jeans."
+    },
+    {
+      "start": 21.395,
+      "end": 22.156,
+      "text": "Here we go."
+    },
+    {
+      "start": 22.176,
+      "end": 24.438,
+      "text": "Sexy, sexy, sexy, sexy, sexy time."
+    },
+    {
+      "start": 24.459,
+      "end": 26.761,
+      "text": "Sexy, sexy, sexy, sexy, sexy."
+    }
+  ],
+  "language": "en"
+}

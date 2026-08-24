@@ -1,0 +1,31 @@
+{
+  "text": "We love you. Now we're here living on our own. We call you up on the telephone now and again. I'll pick up a pen and write to you. La la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la",
+  "segments": [
+    {
+      "start": 0.571,
+      "end": 1.492,
+      "text": "We love you."
+    },
+    {
+      "start": 5.276,
+      "end": 8.659,
+      "text": "Now we're here living on our own."
+    },
+    {
+      "start": 9.059,
+      "end": 13.583,
+      "text": "We call you up on the telephone now and again."
+    },
+    {
+      "start": 13.603,
+      "end": 19.108,
+      "text": "I'll pick up a pen and write to you."
+    },
+    {
+      "start": 19.128,
+      "end": 30.018,
+      "text": "La la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la"
+    }
+  ],
+  "language": "en"
+}

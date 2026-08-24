@@ -1,0 +1,26 @@
+{
+  "text": "I just need a kitchen towel as far as I can go. Oh, not so many chairs alongside your keys. Kitchen towel, kitchen towel, one minute please. I would like to buy a wedding table piano.",
+  "segments": [
+    {
+      "start": 4.866,
+      "end": 11.332,
+      "text": "I just need a kitchen towel as far as I can go."
+    },
+    {
+      "start": 11.432,
+      "end": 16.796,
+      "text": "Oh, not so many chairs alongside your keys."
+    },
+    {
+      "start": 16.937,
+      "end": 23.462,
+      "text": "Kitchen towel, kitchen towel, one minute please."
+    },
+    {
+      "start": 23.522,
+      "end": 26.045,
+      "text": "I would like to buy a wedding table piano."
+    }
+  ],
+  "language": "en"
+}

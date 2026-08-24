@@ -1,0 +1,66 @@
+{
+  "text": "Come on! Talk to me! Alright, I'm finished! You can't be through! We must hear more! Hey! Lay it on me real thick now! I can't find the toilet paper! Scream for help! Help! Whoa! Wail it, Bill!",
+  "segments": [
+    {
+      "start": 0.588,
+      "end": 1.088,
+      "text": "Come on!"
+    },
+    {
+      "start": 2.049,
+      "end": 2.71,
+      "text": "Talk to me!"
+    },
+    {
+      "start": 3.49,
+      "end": 5.111,
+      "text": "Alright, I'm finished!"
+    },
+    {
+      "start": 5.351,
+      "end": 6.512,
+      "text": "You can't be through!"
+    },
+    {
+      "start": 7.953,
+      "end": 8.934,
+      "text": "We must hear more!"
+    },
+    {
+      "start": 8.954,
+      "end": 12.216,
+      "text": "Hey!"
+    },
+    {
+      "start": 12.416,
+      "end": 13.958,
+      "text": "Lay it on me real thick now!"
+    },
+    {
+      "start": 14.498,
+      "end": 17.64,
+      "text": "I can't find the toilet paper!"
+    },
+    {
+      "start": 17.66,
+      "end": 18.521,
+      "text": "Scream for help!"
+    },
+    {
+      "start": 19.882,
+      "end": 20.262,
+      "text": "Help!"
+    },
+    {
+      "start": 25.406,
+      "end": 26.166,
+      "text": "Whoa!"
+    },
+    {
+      "start": 27.687,
+      "end": 28.588,
+      "text": "Wail it, Bill!"
+    }
+  ],
+  "language": "en"
+}

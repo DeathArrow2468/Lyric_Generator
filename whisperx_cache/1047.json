@@ -1,0 +1,16 @@
+{
+  "text": "Help! Help!",
+  "segments": [
+    {
+      "start": 11.623,
+      "end": 12.05,
+      "text": "Help!"
+    },
+    {
+      "start": 12.091,
+      "end": 12.396,
+      "text": "Help!"
+    }
+  ],
+  "language": "en"
+}

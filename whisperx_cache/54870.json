@@ -1,0 +1,36 @@
+{
+  "text": "Hey, baby, I hear the blues are callin' Toss Salads and Scramble Bags. I see. Hey, baby, I seem a bit confused. Yeah, maybe, but I got you great. But I don't know what to do with those Toss Salads and Scramble Bags. They're callin' again.",
+  "segments": [
+    {
+      "start": 3.617,
+      "end": 7.981,
+      "text": "Hey, baby, I hear the blues are callin' Toss Salads and Scramble Bags."
+    },
+    {
+      "start": 8.001,
+      "end": 8.342,
+      "text": "I see."
+    },
+    {
+      "start": 10.323,
+      "end": 12.445,
+      "text": "Hey, baby, I seem a bit confused."
+    },
+    {
+      "start": 12.665,
+      "end": 17.75,
+      "text": "Yeah, maybe, but I got you great."
+    },
+    {
+      "start": 17.77,
+      "end": 23.795,
+      "text": "But I don't know what to do with those Toss Salads and Scramble Bags."
+    },
+    {
+      "start": 23.835,
+      "end": 24.696,
+      "text": "They're callin' again."
+    }
+  ],
+  "language": "en"
+}

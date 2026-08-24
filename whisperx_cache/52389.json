@@ -1,0 +1,31 @@
+{
+  "text": "You cease the nightmare. Totally alive and well. I'll make it over to the night. That's right. That's right.",
+  "segments": [
+    {
+      "start": 2.96,
+      "end": 4.321,
+      "text": "You cease the nightmare."
+    },
+    {
+      "start": 6.402,
+      "end": 8.643,
+      "text": "Totally alive and well."
+    },
+    {
+      "start": 11.664,
+      "end": 13.325,
+      "text": "I'll make it over to the night."
+    },
+    {
+      "start": 14.926,
+      "end": 15.666,
+      "text": "That's right."
+    },
+    {
+      "start": 16.127,
+      "end": 16.847,
+      "text": "That's right."
+    }
+  ],
+  "language": "en"
+}

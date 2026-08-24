@@ -1,0 +1,41 @@
+{
+  "text": "Hello world, Washington. Overlap is sin. Babylon pulsating, Magus will win. I'm using training, I'm melting your brains. Yeah, I feel the pain cause I'm melting your brains. I'm using training, I'm melting your brains. Yeah, I feel the pain cause I'm melting your brains.",
+  "segments": [
+    {
+      "start": 2.673,
+      "end": 4.355,
+      "text": "Hello world, Washington."
+    },
+    {
+      "start": 4.755,
+      "end": 6.337,
+      "text": "Overlap is sin."
+    },
+    {
+      "start": 6.817,
+      "end": 10.52,
+      "text": "Babylon pulsating, Magus will win."
+    },
+    {
+      "start": 11.081,
+      "end": 14.944,
+      "text": "I'm using training, I'm melting your brains."
+    },
+    {
+      "start": 15.025,
+      "end": 19.088,
+      "text": "Yeah, I feel the pain cause I'm melting your brains."
+    },
+    {
+      "start": 19.308,
+      "end": 22.731,
+      "text": "I'm using training, I'm melting your brains."
+    },
+    {
+      "start": 22.812,
+      "end": 27.876,
+      "text": "Yeah, I feel the pain cause I'm melting your brains."
+    }
+  ],
+  "language": "en"
+}

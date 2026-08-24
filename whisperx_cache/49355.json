@@ -1,0 +1,16 @@
+{
+  "text": "That ain't no super duper. That's the way to watch it.",
+  "segments": [
+    {
+      "start": 6.365,
+      "end": 8.85,
+      "text": "That ain't no super duper."
+    },
+    {
+      "start": 8.87,
+      "end": 10.032,
+      "text": "That's the way to watch it."
+    }
+  ],
+  "language": "en"
+}

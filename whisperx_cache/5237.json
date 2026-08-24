@@ -1,0 +1,21 @@
+{
+  "text": "Blast out to the cold, but I ain't too proud, I'm far too much Out, out, out, what I'm gonna do? Out, out, out, what I'm gonna do that? Get a right, do the things, act tight, think right",
+  "segments": [
+    {
+      "start": 0.679,
+      "end": 7.364,
+      "text": "Blast out to the cold, but I ain't too proud, I'm far too much Out, out, out, what I'm gonna do?"
+    },
+    {
+      "start": 7.644,
+      "end": 24.555,
+      "text": "Out, out, out, what I'm gonna do that?"
+    },
+    {
+      "start": 25.335,
+      "end": 29.438,
+      "text": "Get a right, do the things, act tight, think right"
+    }
+  ],
+  "language": "en"
+}

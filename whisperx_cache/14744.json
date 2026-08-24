@@ -1,0 +1,36 @@
+{
+  "text": "Oh, nobody feels me cold. Nobody lives my world. Nobody knows your hair. A ruby tail, a crown once left. I hide myself from her love. Nothing makes me old.",
+  "segments": [
+    {
+      "start": 0.291,
+      "end": 3.454,
+      "text": "Oh, nobody feels me cold."
+    },
+    {
+      "start": 3.774,
+      "end": 5.595,
+      "text": "Nobody lives my world."
+    },
+    {
+      "start": 5.835,
+      "end": 8.898,
+      "text": "Nobody knows your hair."
+    },
+    {
+      "start": 13.921,
+      "end": 18.244,
+      "text": "A ruby tail, a crown once left."
+    },
+    {
+      "start": 18.345,
+      "end": 22.488,
+      "text": "I hide myself from her love."
+    },
+    {
+      "start": 23.208,
+      "end": 24.429,
+      "text": "Nothing makes me old."
+    }
+  ],
+  "language": "en"
+}

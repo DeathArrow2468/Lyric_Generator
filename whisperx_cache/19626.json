@@ -1,0 +1,56 @@
+{
+  "text": "Was that the robin again? asked Billy. Oh no! asked Dr. Wigley. The robin was in another tree. I can hear him calling. Listen! What was that other sound? asked Billy. There it is again.",
+  "segments": [
+    {
+      "start": 2.112,
+      "end": 3.452,
+      "text": "Was that the robin again?"
+    },
+    {
+      "start": 3.632,
+      "end": 4.272,
+      "text": "asked Billy."
+    },
+    {
+      "start": 4.792,
+      "end": 5.372,
+      "text": "Oh no!"
+    },
+    {
+      "start": 5.392,
+      "end": 6.453,
+      "text": "asked Dr. Wigley."
+    },
+    {
+      "start": 6.673,
+      "end": 8.433,
+      "text": "The robin was in another tree."
+    },
+    {
+      "start": 8.913,
+      "end": 10.234,
+      "text": "I can hear him calling."
+    },
+    {
+      "start": 10.554,
+      "end": 10.994,
+      "text": "Listen!"
+    },
+    {
+      "start": 19.276,
+      "end": 20.956,
+      "text": "What was that other sound?"
+    },
+    {
+      "start": 21.096,
+      "end": 21.657,
+      "text": "asked Billy."
+    },
+    {
+      "start": 21.977,
+      "end": 22.997,
+      "text": "There it is again."
+    }
+  ],
+  "language": "en"
+}

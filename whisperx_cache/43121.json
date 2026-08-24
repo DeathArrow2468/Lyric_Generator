@@ -1,0 +1,21 @@
+{
+  "text": "I can't hear a thing. Hello? I can't hear a thing with all this racket.",
+  "segments": [
+    {
+      "start": 5.393,
+      "end": 6.994,
+      "text": "I can't hear a thing."
+    },
+    {
+      "start": 7.054,
+      "end": 7.615,
+      "text": "Hello?"
+    },
+    {
+      "start": 7.755,
+      "end": 11.017,
+      "text": "I can't hear a thing with all this racket."
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,21 @@
+{
+  "text": "Yiden besenden, tolegden besenden. Yiden besenden, tolegden besenden. Yiden bela, yiden bela.",
+  "segments": [
+    {
+      "start": 0.231,
+      "end": 12.374,
+      "text": "Yiden besenden, tolegden besenden."
+    },
+    {
+      "start": 13.514,
+      "end": 15.795,
+      "text": "Yiden besenden, tolegden besenden."
+    },
+    {
+      "start": 15.815,
+      "end": 17.495,
+      "text": "Yiden bela, yiden bela."
+    }
+  ],
+  "language": "en"
+}

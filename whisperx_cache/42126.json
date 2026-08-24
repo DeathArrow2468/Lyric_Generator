@@ -1,0 +1,41 @@
+{
+  "text": "Um, the church phone. Wait a minute, church phone. Just a minute, let me see if he's asleep, because I think he did want to talk to you. So just a minute. He's coming. Hello. Hey, this is Vince.",
+  "segments": [
+    {
+      "start": 0.231,
+      "end": 2.773,
+      "text": "Um, the church phone."
+    },
+    {
+      "start": 4.035,
+      "end": 5.376,
+      "text": "Wait a minute, church phone."
+    },
+    {
+      "start": 5.396,
+      "end": 9.339,
+      "text": "Just a minute, let me see if he's asleep, because I think he did want to talk to you."
+    },
+    {
+      "start": 9.84,
+      "end": 10.761,
+      "text": "So just a minute."
+    },
+    {
+      "start": 22.331,
+      "end": 22.952,
+      "text": "He's coming."
+    },
+    {
+      "start": 26.875,
+      "end": 27.195,
+      "text": "Hello."
+    },
+    {
+      "start": 28.016,
+      "end": 29.938,
+      "text": "Hey, this is Vince."
+    }
+  ],
+  "language": "en"
+}

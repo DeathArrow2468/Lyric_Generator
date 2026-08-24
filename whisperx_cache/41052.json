@@ -1,0 +1,31 @@
+{
+  "text": "Je ne pense pas que tu m'es oublié ! Je ne pense pas que tu m'es oublié ! Je ne veux plus te perdre, baby ! Ah non, on a même ça ! Toi !",
+  "segments": [
+    {
+      "start": 0.031,
+      "end": 5.696,
+      "text": "Je ne pense pas que tu m'es oublié !"
+    },
+    {
+      "start": 5.716,
+      "end": 10.48,
+      "text": "Je ne pense pas que tu m'es oublié !"
+    },
+    {
+      "start": 10.5,
+      "end": 13.283,
+      "text": "Je ne veux plus te perdre, baby !"
+    },
+    {
+      "start": 13.483,
+      "end": 14.724,
+      "text": "Ah non, on a même ça !"
+    },
+    {
+      "start": 14.744,
+      "end": 14.944,
+      "text": "Toi !"
+    }
+  ],
+  "language": "fr"
+}

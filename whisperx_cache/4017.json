@@ -1,0 +1,21 @@
+{
+  "text": "The woods around be coming down. A ghost, a heart I see. The woods return down.",
+  "segments": [
+    {
+      "start": 0.691,
+      "end": 12.235,
+      "text": "The woods around be coming down."
+    },
+    {
+      "start": 12.795,
+      "end": 21.238,
+      "text": "A ghost, a heart I see."
+    },
+    {
+      "start": 21.278,
+      "end": 27.9,
+      "text": "The woods return down."
+    }
+  ],
+  "language": "en"
+}

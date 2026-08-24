@@ -1,0 +1,16 @@
+{
+  "text": "You don't much time left! You don't much time left!",
+  "segments": [
+    {
+      "start": 13.625,
+      "end": 15.071,
+      "text": "You don't much time left!"
+    },
+    {
+      "start": 15.091,
+      "end": 16.517,
+      "text": "You don't much time left!"
+    }
+  ],
+  "language": "en"
+}

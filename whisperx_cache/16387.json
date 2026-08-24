@@ -1,0 +1,16 @@
+{
+  "text": "The. The the the the the the the the the the the the the the the the the",
+  "segments": [
+    {
+      "start": 0.79,
+      "end": 1.01,
+      "text": "The."
+    },
+    {
+      "start": 1.05,
+      "end": 5.433,
+      "text": "The the the the the the the the the the the the the the the the the"
+    }
+  ],
+  "language": "en"
+}

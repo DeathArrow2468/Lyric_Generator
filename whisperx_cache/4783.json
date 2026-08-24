@@ -1,0 +1,16 @@
+{
+  "text": "Just tell me I'll change it. Yeah.",
+  "segments": [
+    {
+      "start": 3.058,
+      "end": 4.522,
+      "text": "Just tell me I'll change it."
+    },
+    {
+      "start": 5.604,
+      "end": 6.045,
+      "text": "Yeah."
+    }
+  ],
+  "language": "en"
+}

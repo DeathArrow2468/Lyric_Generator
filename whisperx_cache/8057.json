@@ -1,0 +1,16 @@
+{
+  "text": "I'll face another day. I'll face another day.",
+  "segments": [
+    {
+      "start": 0.211,
+      "end": 4.614,
+      "text": "I'll face another day."
+    },
+    {
+      "start": 4.954,
+      "end": 7.216,
+      "text": "I'll face another day."
+    }
+  ],
+  "language": "en"
+}

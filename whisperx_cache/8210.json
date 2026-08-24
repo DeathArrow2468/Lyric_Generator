@@ -1,0 +1,51 @@
+{
+  "text": "Let me get out of you. Ha ha ha ha! Mommy! Psycho Papa! I'm here. Mommy. Mommy. Mommy, mommy, mommy. Go to Deadline.",
+  "segments": [
+    {
+      "start": 0.731,
+      "end": 3.272,
+      "text": "Let me get out of you."
+    },
+    {
+      "start": 3.352,
+      "end": 4.272,
+      "text": "Ha ha ha ha!"
+    },
+    {
+      "start": 4.312,
+      "end": 4.492,
+      "text": "Mommy!"
+    },
+    {
+      "start": 4.512,
+      "end": 5.272,
+      "text": "Psycho Papa!"
+    },
+    {
+      "start": 5.352,
+      "end": 5.852,
+      "text": "I'm here."
+    },
+    {
+      "start": 5.912,
+      "end": 11.013,
+      "text": "Mommy."
+    },
+    {
+      "start": 11.073,
+      "end": 11.833,
+      "text": "Mommy."
+    },
+    {
+      "start": 11.873,
+      "end": 16.394,
+      "text": "Mommy, mommy, mommy."
+    },
+    {
+      "start": 16.554,
+      "end": 20.055,
+      "text": "Go to Deadline."
+    }
+  ],
+  "language": "en"
+}

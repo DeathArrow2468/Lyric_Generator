@@ -1,0 +1,56 @@
+{
+  "text": "Good morning, good night, all we do is screw and fuck. You'll see me, I'll smack you. This is ridiculous. Look what it means to another victim of another love song that's bothering your shit. Well, what's the matter? Why are you so angry? Was it something I said? Good morning, good night, all we do is screw and fuck. You kick me, so I kick you. Thank you, doctor.",
+  "segments": [
+    {
+      "start": 0.131,
+      "end": 4.233,
+      "text": "Good morning, good night, all we do is screw and fuck."
+    },
+    {
+      "start": 4.293,
+      "end": 5.734,
+      "text": "You'll see me, I'll smack you."
+    },
+    {
+      "start": 5.774,
+      "end": 7.515,
+      "text": "This is ridiculous."
+    },
+    {
+      "start": 7.595,
+      "end": 14.939,
+      "text": "Look what it means to another victim of another love song that's bothering your shit."
+    },
+    {
+      "start": 15.099,
+      "end": 16.04,
+      "text": "Well, what's the matter?"
+    },
+    {
+      "start": 16.1,
+      "end": 17.58,
+      "text": "Why are you so angry?"
+    },
+    {
+      "start": 17.7,
+      "end": 19.682,
+      "text": "Was it something I said?"
+    },
+    {
+      "start": 19.702,
+      "end": 25.625,
+      "text": "Good morning, good night, all we do is screw and fuck."
+    },
+    {
+      "start": 25.665,
+      "end": 28.206,
+      "text": "You kick me, so I kick you."
+    },
+    {
+      "start": 28.266,
+      "end": 29.547,
+      "text": "Thank you, doctor."
+    }
+  ],
+  "language": "en"
+}

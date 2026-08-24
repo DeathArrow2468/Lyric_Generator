@@ -1,0 +1,46 @@
+{
+  "text": "Call 1-800-577-8038. That's 1-800-577-8038. When time off, not available in stores, and is made in Britain, beware of imitators. May call heart attacks, stroke, and death. Use with caution. Call 1-800-577-8038. That's 1-800-577-8038. Call 1-800-577-8038.",
+  "segments": [
+    {
+      "start": 12.121,
+      "end": 13.363,
+      "text": "Call 1-800-577-8038."
+    },
+    {
+      "start": 13.403,
+      "end": 14.646,
+      "text": "That's 1-800-577-8038."
+    },
+    {
+      "start": 14.967,
+      "end": 20.919,
+      "text": "When time off, not available in stores, and is made in Britain, beware of imitators."
+    },
+    {
+      "start": 20.939,
+      "end": 22.402,
+      "text": "May call heart attacks, stroke, and death."
+    },
+    {
+      "start": 22.482,
+      "end": 23.124,
+      "text": "Use with caution."
+    },
+    {
+      "start": 23.144,
+      "end": 23.885,
+      "text": "Call 1-800-577-8038."
+    },
+    {
+      "start": 23.905,
+      "end": 24.647,
+      "text": "That's 1-800-577-8038."
+    },
+    {
+      "start": 24.687,
+      "end": 25.228,
+      "text": "Call 1-800-577-8038."
+    }
+  ],
+  "language": "en"
+}

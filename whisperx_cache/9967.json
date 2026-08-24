@@ -1,0 +1,41 @@
+{
+  "text": "Connect! Web Attack! Web Attack! Yahoo! Yahoo! Sign the criminals from outer space! Sign the criminals from outer space!",
+  "segments": [
+    {
+      "start": 0.111,
+      "end": 1.192,
+      "text": "Connect!"
+    },
+    {
+      "start": 1.252,
+      "end": 2.072,
+      "text": "Web Attack!"
+    },
+    {
+      "start": 2.292,
+      "end": 3.113,
+      "text": "Web Attack!"
+    },
+    {
+      "start": 3.333,
+      "end": 3.773,
+      "text": "Yahoo!"
+    },
+    {
+      "start": 3.833,
+      "end": 4.273,
+      "text": "Yahoo!"
+    },
+    {
+      "start": 5.254,
+      "end": 12.157,
+      "text": "Sign the criminals from outer space!"
+    },
+    {
+      "start": 12.257,
+      "end": 17.42,
+      "text": "Sign the criminals from outer space!"
+    }
+  ],
+  "language": "en"
+}

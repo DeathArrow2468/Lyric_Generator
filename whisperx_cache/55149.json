@@ -1,0 +1,26 @@
+{
+  "text": "Your guide shall be drawn to me. I am your worst nightmare. Nightmare. I am fear.",
+  "segments": [
+    {
+      "start": 4.21,
+      "end": 14.377,
+      "text": "Your guide shall be drawn to me."
+    },
+    {
+      "start": 14.457,
+      "end": 27.325,
+      "text": "I am your worst nightmare."
+    },
+    {
+      "start": 27.385,
+      "end": 28.986,
+      "text": "Nightmare."
+    },
+    {
+      "start": 29.086,
+      "end": 29.507,
+      "text": "I am fear."
+    }
+  ],
+  "language": "en"
+}

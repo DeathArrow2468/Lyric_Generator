@@ -1,0 +1,26 @@
+{
+  "text": "You do the work, you do the watching. Come on now, jump again. Good to be in the dance town, isn't it? There it is.",
+  "segments": [
+    {
+      "start": 0.091,
+      "end": 3.676,
+      "text": "You do the work, you do the watching."
+    },
+    {
+      "start": 3.696,
+      "end": 6.621,
+      "text": "Come on now, jump again."
+    },
+    {
+      "start": 6.641,
+      "end": 10.707,
+      "text": "Good to be in the dance town, isn't it?"
+    },
+    {
+      "start": 10.727,
+      "end": 12.97,
+      "text": "There it is."
+    }
+  ],
+  "language": "en"
+}

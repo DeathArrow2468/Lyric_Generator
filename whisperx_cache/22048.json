@@ -1,0 +1,41 @@
+{
+  "text": "Hey! Hey! Presently I do what's said. Sing on all the pastry. See if you can see me. How does you go away again? How does you go away again?",
+  "segments": [
+    {
+      "start": 3.853,
+      "end": 4.253,
+      "text": "Hey!"
+    },
+    {
+      "start": 6.915,
+      "end": 7.295,
+      "text": "Hey!"
+    },
+    {
+      "start": 7.635,
+      "end": 9.536,
+      "text": "Presently I do what's said."
+    },
+    {
+      "start": 11.357,
+      "end": 12.538,
+      "text": "Sing on all the pastry."
+    },
+    {
+      "start": 12.778,
+      "end": 19.401,
+      "text": "See if you can see me."
+    },
+    {
+      "start": 19.802,
+      "end": 27.206,
+      "text": "How does you go away again?"
+    },
+    {
+      "start": 27.866,
+      "end": 29.967,
+      "text": "How does you go away again?"
+    }
+  ],
+  "language": "en"
+}

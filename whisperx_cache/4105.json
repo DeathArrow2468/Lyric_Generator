@@ -1,0 +1,31 @@
+{
+  "text": "It's a security. I don't wave if you're disgusted, hey. Feeling so happy and pretending that it's great. Fuck the advisors and all the things in sight. They will not root us through the things that we like.",
+  "segments": [
+    {
+      "start": 0.051,
+      "end": 1.151,
+      "text": "It's a security."
+    },
+    {
+      "start": 9.054,
+      "end": 11.174,
+      "text": "I don't wave if you're disgusted, hey."
+    },
+    {
+      "start": 11.674,
+      "end": 14.475,
+      "text": "Feeling so happy and pretending that it's great."
+    },
+    {
+      "start": 14.995,
+      "end": 18.176,
+      "text": "Fuck the advisors and all the things in sight."
+    },
+    {
+      "start": 18.216,
+      "end": 20.977,
+      "text": "They will not root us through the things that we like."
+    }
+  ],
+  "language": "en"
+}

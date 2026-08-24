@@ -1,0 +1,31 @@
+{
+  "text": "I don't like the look on your face. I don't like the cut of your chin. I don't like the things that you said or the things you did. I don't like the folks you pal around with or what you've done to the place. But most of all, I don't like the look on your face.",
+  "segments": [
+    {
+      "start": 0.682,
+      "end": 3.024,
+      "text": "I don't like the look on your face."
+    },
+    {
+      "start": 3.144,
+      "end": 4.885,
+      "text": "I don't like the cut of your chin."
+    },
+    {
+      "start": 5.686,
+      "end": 10.269,
+      "text": "I don't like the things that you said or the things you did."
+    },
+    {
+      "start": 10.649,
+      "end": 14.812,
+      "text": "I don't like the folks you pal around with or what you've done to the place."
+    },
+    {
+      "start": 14.932,
+      "end": 18.495,
+      "text": "But most of all, I don't like the look on your face."
+    }
+  ],
+  "language": "en"
+}

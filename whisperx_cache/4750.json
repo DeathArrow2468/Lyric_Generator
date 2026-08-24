@@ -1,0 +1,26 @@
+{
+  "text": "Well, he calls that religion. Well, he calls that religion. But I believe he's going. And when he dies, I'm going to go there.",
+  "segments": [
+    {
+      "start": 1.853,
+      "end": 4.016,
+      "text": "Well, he calls that religion."
+    },
+    {
+      "start": 5.398,
+      "end": 7.401,
+      "text": "Well, he calls that religion."
+    },
+    {
+      "start": 7.421,
+      "end": 8.863,
+      "text": "But I believe he's going."
+    },
+    {
+      "start": 8.883,
+      "end": 10.645,
+      "text": "And when he dies, I'm going to go there."
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,21 @@
+{
+  "text": "Tell me, what are you detecting? Finally, there's so much development of our technological capabilities. It comes a time when there's a Buddha, then a Christ, and I have to say, we have the capability now to get everybody in the next room.",
+  "segments": [
+    {
+      "start": 7.266,
+      "end": 8.367,
+      "text": "Tell me, what are you detecting?"
+    },
+    {
+      "start": 8.467,
+      "end": 12.75,
+      "text": "Finally, there's so much development of our technological capabilities."
+    },
+    {
+      "start": 12.81,
+      "end": 22.317,
+      "text": "It comes a time when there's a Buddha, then a Christ, and I have to say, we have the capability now to get everybody in the next room."
+    }
+  ],
+  "language": "en"
+}

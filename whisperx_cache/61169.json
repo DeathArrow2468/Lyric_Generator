@@ -1,0 +1,66 @@
+{
+  "text": "Ho! Puis moi j'sais pas, c'est qu'elle s'en va t'en! Ça, ça l'aime pas, j'ai déjà pris deux pieds! Moi j'ai deux frères qui sont ben fiers de moi! J'ai donné des cadeaux à mes deux soirs fanés! Bem barragués, à moire, à glace! Ils vendent pas de mouilles, ils vendent du goût qui est dans l'blanche puis qu'ils lavent ta crasse! Fait que t'es mieux de manger proprement! La terre est grande, ben non prof de ma patte! Qu'elle aille ce que tu cherches, ben la terre est normale! Dans nos gratis, bébé c'est pas mal! Maman payait pas,",
+  "segments": [
+    {
+      "start": 0.031,
+      "end": 0.391,
+      "text": "Ho!"
+    },
+    {
+      "start": 0.411,
+      "end": 3.493,
+      "text": "Puis moi j'sais pas, c'est qu'elle s'en va t'en!"
+    },
+    {
+      "start": 3.513,
+      "end": 6.074,
+      "text": "Ça, ça l'aime pas, j'ai déjà pris deux pieds!"
+    },
+    {
+      "start": 6.094,
+      "end": 8.516,
+      "text": "Moi j'ai deux frères qui sont ben fiers de moi!"
+    },
+    {
+      "start": 8.536,
+      "end": 10.277,
+      "text": "J'ai donné des cadeaux à mes deux soirs fanés!"
+    },
+    {
+      "start": 10.297,
+      "end": 11.518,
+      "text": "Bem barragués, à moire, à glace!"
+    },
+    {
+      "start": 11.578,
+      "end": 16.561,
+      "text": "Ils vendent pas de mouilles, ils vendent du goût qui est dans l'blanche puis qu'ils lavent ta crasse!"
+    },
+    {
+      "start": 16.581,
+      "end": 19.162,
+      "text": "Fait que t'es mieux de manger proprement!"
+    },
+    {
+      "start": 19.182,
+      "end": 21.083,
+      "text": "La terre est grande, ben non prof de ma patte!"
+    },
+    {
+      "start": 21.103,
+      "end": 24.385,
+      "text": "Qu'elle aille ce que tu cherches, ben la terre est normale!"
+    },
+    {
+      "start": 24.405,
+      "end": 27.027,
+      "text": "Dans nos gratis, bébé c'est pas mal!"
+    },
+    {
+      "start": 27.047,
+      "end": 27.647,
+      "text": "Maman payait pas,"
+    }
+  ],
+  "language": "fr"
+}

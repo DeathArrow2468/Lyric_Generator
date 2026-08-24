@@ -1,0 +1,26 @@
+{
+  "text": "Have you heard a ramming on your door? Oh, it's such a dreadful fright on Halloween night! Halloween night! Halloween night!",
+  "segments": [
+    {
+      "start": 7.297,
+      "end": 14.664,
+      "text": "Have you heard a ramming on your door?"
+    },
+    {
+      "start": 19.168,
+      "end": 24.993,
+      "text": "Oh, it's such a dreadful fright on Halloween night!"
+    },
+    {
+      "start": 25.794,
+      "end": 27.296,
+      "text": "Halloween night!"
+    },
+    {
+      "start": 28.076,
+      "end": 29.738,
+      "text": "Halloween night!"
+    }
+  ],
+  "language": "en"
+}

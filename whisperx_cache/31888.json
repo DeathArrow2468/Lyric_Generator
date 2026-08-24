@@ -1,0 +1,16 @@
+{
+  "text": "C'est pas vrai. C'est",
+  "segments": [
+    {
+      "start": 0.391,
+      "end": 3.854,
+      "text": "C'est pas vrai."
+    },
+    {
+      "start": 3.874,
+      "end": 3.995,
+      "text": "C'est"
+    }
+  ],
+  "language": "fr"
+}

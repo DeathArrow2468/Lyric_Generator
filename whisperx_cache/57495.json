@@ -1,0 +1,21 @@
+{
+  "text": "Sometimes I really wish you'd just disappear Would I say the same thing to your face if you're sitting here? Would it feel the same if I burned my head in shame? Na na na na na na na na no I won't Na na na na na na na na no I won't Na na na na na na na na no I won't wait",
+  "segments": [
+    {
+      "start": 5.215,
+      "end": 12.599,
+      "text": "Sometimes I really wish you'd just disappear Would I say the same thing to your face if you're sitting here?"
+    },
+    {
+      "start": 12.619,
+      "end": 16.901,
+      "text": "Would it feel the same if I burned my head in shame?"
+    },
+    {
+      "start": 17.081,
+      "end": 29.407,
+      "text": "Na na na na na na na na no I won't Na na na na na na na na no I won't Na na na na na na na na no I won't wait"
+    }
+  ],
+  "language": "en"
+}

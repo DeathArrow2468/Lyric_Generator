@@ -1,0 +1,16 @@
+{
+  "text": "I have a torch on in my fingers, don't you? No sickness is forever to return I'll never return I'll never return Let me scan your mind off to take a care of everything",
+  "segments": [
+    {
+      "start": 1.562,
+      "end": 8.246,
+      "text": "I have a torch on in my fingers, don't you?"
+    },
+    {
+      "start": 8.406,
+      "end": 25.856,
+      "text": "No sickness is forever to return I'll never return I'll never return Let me scan your mind off to take a care of everything"
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,26 @@
+{
+  "text": "Algún día voy a ser vieja y voy a tener pocos años pa' vivir. Mi piel tendrá más arrugas, mi cabello lleno de canas, pero podré decir que viví. Algún día voy a ser vieja y me faltarán pocos años pa' vivir. Mis hijos habrán crecido",
+  "segments": [
+    {
+      "start": 4.46,
+      "end": 10.862,
+      "text": "Algún día voy a ser vieja y voy a tener pocos años pa' vivir."
+    },
+    {
+      "start": 11.942,
+      "end": 20.885,
+      "text": "Mi piel tendrá más arrugas, mi cabello lleno de canas, pero podré decir que viví."
+    },
+    {
+      "start": 21.145,
+      "end": 27.526,
+      "text": "Algún día voy a ser vieja y me faltarán pocos años pa' vivir."
+    },
+    {
+      "start": 27.586,
+      "end": 29.067,
+      "text": "Mis hijos habrán crecido"
+    }
+  ],
+  "language": "es"
+}

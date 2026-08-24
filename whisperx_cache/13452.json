@@ -1,0 +1,16 @@
+{
+  "text": "It's just the summer wind, morning and evening. It's just the summer wind.",
+  "segments": [
+    {
+      "start": 19.048,
+      "end": 26.549,
+      "text": "It's just the summer wind, morning and evening."
+    },
+    {
+      "start": 26.849,
+      "end": 29.797,
+      "text": "It's just the summer wind."
+    }
+  ],
+  "language": "en"
+}

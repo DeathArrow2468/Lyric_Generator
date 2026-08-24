@@ -1,0 +1,31 @@
+{
+  "text": "Que aparezca pronto el quinto y el tres Oye José, ya veo que tú me tienes miedo Anda escóndete que así te cojo Tú vas a ver dónde tú estabas ¿Dónde? ¿Dónde estabas tú? ¿Dónde tú estabas José, por favor? Que te busqué y no te encontré ¿Dónde? ¿Dónde estabas tú?",
+  "segments": [
+    {
+      "start": 0.031,
+      "end": 18.001,
+      "text": "Que aparezca pronto el quinto y el tres Oye José, ya veo que tú me tienes miedo Anda escóndete que así te cojo Tú vas a ver dónde tú estabas ¿Dónde?"
+    },
+    {
+      "start": 18.021,
+      "end": 18.681,
+      "text": "¿Dónde estabas tú?"
+    },
+    {
+      "start": 18.701,
+      "end": 23.083,
+      "text": "¿Dónde tú estabas José, por favor?"
+    },
+    {
+      "start": 23.103,
+      "end": 26.745,
+      "text": "Que te busqué y no te encontré ¿Dónde?"
+    },
+    {
+      "start": 28.966,
+      "end": 29.707,
+      "text": "¿Dónde estabas tú?"
+    }
+  ],
+  "language": "es"
+}

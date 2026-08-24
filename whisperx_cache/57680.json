@@ -1,0 +1,16 @@
+{
+  "text": "I am a ninja slayer! I am a ninja slayer!",
+  "segments": [
+    {
+      "start": 6.626,
+      "end": 11.991,
+      "text": "I am a ninja slayer!"
+    },
+    {
+      "start": 12.211,
+      "end": 16.135,
+      "text": "I am a ninja slayer!"
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,21 @@
+{
+  "text": "Oh, there you are at the magic theater, black dress, hands up in the air. Oh, I've heard, yeah, I've heard about this. And time to time, I thought I'd seen it.",
+  "segments": [
+    {
+      "start": 15.162,
+      "end": 20.235,
+      "text": "Oh, there you are at the magic theater, black dress, hands up in the air."
+    },
+    {
+      "start": 20.255,
+      "end": 23.743,
+      "text": "Oh, I've heard, yeah, I've heard about this."
+    },
+    {
+      "start": 23.964,
+      "end": 29.978,
+      "text": "And time to time, I thought I'd seen it."
+    }
+  ],
+  "language": "en"
+}

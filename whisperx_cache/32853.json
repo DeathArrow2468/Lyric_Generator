@@ -1,0 +1,16 @@
+{
+  "text": "Make sure to drink evasion, fill it so I can't see my door! Nice and heavy, let's go!",
+  "segments": [
+    {
+      "start": 4.54,
+      "end": 8.147,
+      "text": "Make sure to drink evasion, fill it so I can't see my door!"
+    },
+    {
+      "start": 9.75,
+      "end": 12.315,
+      "text": "Nice and heavy, let's go!"
+    }
+  ],
+  "language": "en"
+}

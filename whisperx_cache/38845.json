@@ -1,0 +1,26 @@
+{
+  "text": "And I saw the shadows. That was you. The woman was sleeping. She was sleeping and you came.",
+  "segments": [
+    {
+      "start": 0.904,
+      "end": 1.926,
+      "text": "And I saw the shadows."
+    },
+    {
+      "start": 3.068,
+      "end": 3.929,
+      "text": "That was you."
+    },
+    {
+      "start": 6.894,
+      "end": 8.156,
+      "text": "The woman was sleeping."
+    },
+    {
+      "start": 8.176,
+      "end": 12.203,
+      "text": "She was sleeping and you came."
+    }
+  ],
+  "language": "en"
+}

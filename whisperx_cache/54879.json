@@ -1,0 +1,36 @@
+{
+  "text": "What's it say? What's it say? What's it say? What's it say? What's it say? What's it say?",
+  "segments": [
+    {
+      "start": 0.091,
+      "end": 0.911,
+      "text": "What's it say?"
+    },
+    {
+      "start": 0.931,
+      "end": 1.752,
+      "text": "What's it say?"
+    },
+    {
+      "start": 1.772,
+      "end": 2.752,
+      "text": "What's it say?"
+    },
+    {
+      "start": 2.772,
+      "end": 3.733,
+      "text": "What's it say?"
+    },
+    {
+      "start": 3.753,
+      "end": 4.734,
+      "text": "What's it say?"
+    },
+    {
+      "start": 4.754,
+      "end": 5.694,
+      "text": "What's it say?"
+    }
+  ],
+  "language": "en"
+}

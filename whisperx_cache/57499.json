@@ -1,0 +1,56 @@
+{
+  "text": "The way I should. The way I should. The way I should. Turn the city down. Set my heart into the ground. Knock me around. Treat me like a clown. Kick up some dust. Please don't settle down. You turn me upside down.",
+  "segments": [
+    {
+      "start": 0.191,
+      "end": 3.032,
+      "text": "The way I should."
+    },
+    {
+      "start": 3.072,
+      "end": 3.952,
+      "text": "The way I should."
+    },
+    {
+      "start": 5.552,
+      "end": 9.533,
+      "text": "The way I should."
+    },
+    {
+      "start": 9.733,
+      "end": 11.293,
+      "text": "Turn the city down."
+    },
+    {
+      "start": 11.573,
+      "end": 14.694,
+      "text": "Set my heart into the ground."
+    },
+    {
+      "start": 14.734,
+      "end": 15.554,
+      "text": "Knock me around."
+    },
+    {
+      "start": 15.594,
+      "end": 17.934,
+      "text": "Treat me like a clown."
+    },
+    {
+      "start": 17.974,
+      "end": 23.075,
+      "text": "Kick up some dust."
+    },
+    {
+      "start": 23.155,
+      "end": 26.156,
+      "text": "Please don't settle down."
+    },
+    {
+      "start": 26.176,
+      "end": 27.756,
+      "text": "You turn me upside down."
+    }
+  ],
+  "language": "en"
+}

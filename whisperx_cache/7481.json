@@ -1,0 +1,26 @@
+{
+  "text": "It's not real. Seeing things before they happen. Things are not always what they seem in this place. So you can't take anything for granted.",
+  "segments": [
+    {
+      "start": 4.692,
+      "end": 5.953,
+      "text": "It's not real."
+    },
+    {
+      "start": 6.633,
+      "end": 9.475,
+      "text": "Seeing things before they happen."
+    },
+    {
+      "start": 10.015,
+      "end": 12.737,
+      "text": "Things are not always what they seem in this place."
+    },
+    {
+      "start": 12.817,
+      "end": 14.818,
+      "text": "So you can't take anything for granted."
+    }
+  ],
+  "language": "en"
+}

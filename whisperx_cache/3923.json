@@ -1,0 +1,21 @@
+{
+  "text": "He looked a short distance away, and a young boy was with him. I looked at him, young boy, the other day. One young boy was working.",
+  "segments": [
+    {
+      "start": 9.02,
+      "end": 12.521,
+      "text": "He looked a short distance away, and a young boy was with him."
+    },
+    {
+      "start": 14.102,
+      "end": 18.923,
+      "text": "I looked at him, young boy, the other day."
+    },
+    {
+      "start": 19.003,
+      "end": 19.824,
+      "text": "One young boy was working."
+    }
+  ],
+  "language": "en"
+}

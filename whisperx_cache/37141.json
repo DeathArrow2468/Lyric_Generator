@@ -1,0 +1,21 @@
+{
+  "text": "It's getting in my eyes. It's dark down here. I miss my wife.",
+  "segments": [
+    {
+      "start": 0.051,
+      "end": 3.732,
+      "text": "It's getting in my eyes."
+    },
+    {
+      "start": 4.092,
+      "end": 7.053,
+      "text": "It's dark down here."
+    },
+    {
+      "start": 7.294,
+      "end": 8.894,
+      "text": "I miss my wife."
+    }
+  ],
+  "language": "en"
+}

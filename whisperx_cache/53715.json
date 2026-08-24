@@ -1,0 +1,66 @@
+{
+  "text": "Bouge, bebe, bebe, bouge, bebe, bebe. Bouge, bebe, bebe, bouge, bebe, bebe. Bouge, bebe, bouge, bebe, réveille ta boue. Bouge, bebe, bouge, bebe, bebe. Bouge, bebe, bebe, bouge, bebe, bebe. Bouge, bebe, bouge, bebe, bebe, bebe. Bouge, bebe, bouge, bebe, réveille ta boue. Ah ! Mais où on va ? Chez toi. Oh là là ! Chez toi.",
+  "segments": [
+    {
+      "start": 0.031,
+      "end": 5.952,
+      "text": "Bouge, bebe, bebe, bouge, bebe, bebe."
+    },
+    {
+      "start": 5.972,
+      "end": 10.013,
+      "text": "Bouge, bebe, bebe, bouge, bebe, bebe."
+    },
+    {
+      "start": 10.033,
+      "end": 12.233,
+      "text": "Bouge, bebe, bouge, bebe, réveille ta boue."
+    },
+    {
+      "start": 12.253,
+      "end": 13.713,
+      "text": "Bouge, bebe, bouge, bebe, bebe."
+    },
+    {
+      "start": 13.754,
+      "end": 15.874,
+      "text": "Bouge, bebe, bebe, bouge, bebe, bebe."
+    },
+    {
+      "start": 15.894,
+      "end": 17.734,
+      "text": "Bouge, bebe, bouge, bebe, bebe, bebe."
+    },
+    {
+      "start": 17.754,
+      "end": 21.915,
+      "text": "Bouge, bebe, bouge, bebe, réveille ta boue."
+    },
+    {
+      "start": 21.975,
+      "end": 22.455,
+      "text": "Ah !"
+    },
+    {
+      "start": 22.495,
+      "end": 23.455,
+      "text": "Mais où on va ?"
+    },
+    {
+      "start": 23.495,
+      "end": 24.275,
+      "text": "Chez toi."
+    },
+    {
+      "start": 24.695,
+      "end": 26.236,
+      "text": "Oh là là !"
+    },
+    {
+      "start": 26.396,
+      "end": 26.936,
+      "text": "Chez toi."
+    }
+  ],
+  "language": "fr"
+}

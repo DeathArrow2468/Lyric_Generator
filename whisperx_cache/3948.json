@@ -1,0 +1,21 @@
+{
+  "text": "What is it bad now? What is it bad now? Get up now It's time for the magic Get up now",
+  "segments": [
+    {
+      "start": 11.849,
+      "end": 13.47,
+      "text": "What is it bad now?"
+    },
+    {
+      "start": 13.53,
+      "end": 15.652,
+      "text": "What is it bad now?"
+    },
+    {
+      "start": 15.732,
+      "end": 22.358,
+      "text": "Get up now It's time for the magic Get up now"
+    }
+  ],
+  "language": "en"
+}

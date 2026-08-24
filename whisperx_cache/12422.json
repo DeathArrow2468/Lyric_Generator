@@ -1,0 +1,21 @@
+{
+  "text": "You turned me, you turned me inside out. You turned me, you turned me, you turned me inside out. We walk together.",
+  "segments": [
+    {
+      "start": 0.171,
+      "end": 4.275,
+      "text": "You turned me, you turned me inside out."
+    },
+    {
+      "start": 4.315,
+      "end": 16.266,
+      "text": "You turned me, you turned me, you turned me inside out."
+    },
+    {
+      "start": 16.526,
+      "end": 22.611,
+      "text": "We walk together."
+    }
+  ],
+  "language": "en"
+}

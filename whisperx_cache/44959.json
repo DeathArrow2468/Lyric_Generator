@@ -1,0 +1,31 @@
+{
+  "text": "I'm right up for a move. Warmer number is right here, is right there. Please place here. We are watching you right now. You're on the move.",
+  "segments": [
+    {
+      "start": 9.045,
+      "end": 9.806,
+      "text": "I'm right up for a move."
+    },
+    {
+      "start": 9.826,
+      "end": 13.648,
+      "text": "Warmer number is right here, is right there."
+    },
+    {
+      "start": 13.769,
+      "end": 16.11,
+      "text": "Please place here."
+    },
+    {
+      "start": 16.13,
+      "end": 19.273,
+      "text": "We are watching you right now."
+    },
+    {
+      "start": 19.293,
+      "end": 19.673,
+      "text": "You're on the move."
+    }
+  ],
+  "language": "en"
+}

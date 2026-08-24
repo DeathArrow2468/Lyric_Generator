@@ -1,0 +1,36 @@
+{
+  "text": "You guys are beautiful, thanks! Fight! Fight! Fight! Fight! Fight!",
+  "segments": [
+    {
+      "start": 0.151,
+      "end": 2.873,
+      "text": "You guys are beautiful, thanks!"
+    },
+    {
+      "start": 2.893,
+      "end": 3.293,
+      "text": "Fight!"
+    },
+    {
+      "start": 3.313,
+      "end": 3.574,
+      "text": "Fight!"
+    },
+    {
+      "start": 3.614,
+      "end": 3.834,
+      "text": "Fight!"
+    },
+    {
+      "start": 3.854,
+      "end": 4.494,
+      "text": "Fight!"
+    },
+    {
+      "start": 10.458,
+      "end": 10.679,
+      "text": "Fight!"
+    }
+  ],
+  "language": "en"
+}

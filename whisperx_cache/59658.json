@@ -1,0 +1,16 @@
+{
+  "text": "I can't wait to see your white hair. Oh, don't get angry, don't get angry, there's no need to be angry, there's no need to be angry, there's no need to be angry.",
+  "segments": [
+    {
+      "start": 3.218,
+      "end": 6.542,
+      "text": "I can't wait to see your white hair."
+    },
+    {
+      "start": 6.823,
+      "end": 20.619,
+      "text": "Oh, don't get angry, don't get angry, there's no need to be angry, there's no need to be angry, there's no need to be angry."
+    }
+  ],
+  "language": "en"
+}

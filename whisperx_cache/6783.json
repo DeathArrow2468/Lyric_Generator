@@ -1,0 +1,21 @@
+{
+  "text": "So fast falls the snow and I must face into my thorn. My bad it is the bushes, my cover the green rushes. Cry the poor little fisherman's girl with her hands all dead and gone.",
+  "segments": [
+    {
+      "start": 0.851,
+      "end": 5.173,
+      "text": "So fast falls the snow and I must face into my thorn."
+    },
+    {
+      "start": 5.533,
+      "end": 10.095,
+      "text": "My bad it is the bushes, my cover the green rushes."
+    },
+    {
+      "start": 10.135,
+      "end": 14.377,
+      "text": "Cry the poor little fisherman's girl with her hands all dead and gone."
+    }
+  ],
+  "language": "en"
+}

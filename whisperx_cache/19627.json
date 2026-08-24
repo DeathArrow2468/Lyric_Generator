@@ -1,0 +1,36 @@
+{
+  "text": "and two, he heard the bird singing again. Certainly that was a happy song, said the bunny. Why are you so joyful, Mr. Tewing? Because I have a nest full of little birds and plenty to feed them, was the answer. Heart suddenly called the bunny. Here that other bird",
+  "segments": [
+    {
+      "start": 0.832,
+      "end": 3.114,
+      "text": "and two, he heard the bird singing again."
+    },
+    {
+      "start": 9.959,
+      "end": 12.422,
+      "text": "Certainly that was a happy song, said the bunny."
+    },
+    {
+      "start": 12.782,
+      "end": 14.884,
+      "text": "Why are you so joyful, Mr. Tewing?"
+    },
+    {
+      "start": 15.524,
+      "end": 20.188,
+      "text": "Because I have a nest full of little birds and plenty to feed them, was the answer."
+    },
+    {
+      "start": 20.969,
+      "end": 22.81,
+      "text": "Heart suddenly called the bunny."
+    },
+    {
+      "start": 23.231,
+      "end": 24.332,
+      "text": "Here that other bird"
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,31 @@
+{
+  "text": "Run with me! Run with me! Run with me! Let's run! Somehow laws live",
+  "segments": [
+    {
+      "start": 1.235,
+      "end": 2.536,
+      "text": "Run with me!"
+    },
+    {
+      "start": 2.576,
+      "end": 6.097,
+      "text": "Run with me!"
+    },
+    {
+      "start": 8.158,
+      "end": 9.578,
+      "text": "Run with me!"
+    },
+    {
+      "start": 11.199,
+      "end": 12.16,
+      "text": "Let's run!"
+    },
+    {
+      "start": 28.546,
+      "end": 29.887,
+      "text": "Somehow laws live"
+    }
+  ],
+  "language": "en"
+}

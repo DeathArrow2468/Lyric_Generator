@@ -1,0 +1,31 @@
+{
+  "text": "can't go far. Soon little kitten babies come and their father's forgotten cause he only served a short time. Oh he could have been a king with a mighty mighty castle but he's not even halfway. And the language he speaks doesn't soothe them all so the words start tasting sour. And I can tell in his eyes",
+  "segments": [
+    {
+      "start": 0.231,
+      "end": 1.412,
+      "text": "can't go far."
+    },
+    {
+      "start": 2.472,
+      "end": 8.494,
+      "text": "Soon little kitten babies come and their father's forgotten cause he only served a short time."
+    },
+    {
+      "start": 9.715,
+      "end": 15.837,
+      "text": "Oh he could have been a king with a mighty mighty castle but he's not even halfway."
+    },
+    {
+      "start": 17.498,
+      "end": 23.02,
+      "text": "And the language he speaks doesn't soothe them all so the words start tasting sour."
+    },
+    {
+      "start": 23.52,
+      "end": 28.202,
+      "text": "And I can tell in his eyes"
+    }
+  ],
+  "language": "en"
+}

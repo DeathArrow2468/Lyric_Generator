@@ -1,0 +1,31 @@
+{
+  "text": "If I could get him back, I'd be so good. To my daddy, treat him right just like a good gal should. Indeed, I would. Now my conscience within me, I'm downhearted as can be. I've learned no lesson.",
+  "segments": [
+    {
+      "start": 0.611,
+      "end": 7.535,
+      "text": "If I could get him back, I'd be so good."
+    },
+    {
+      "start": 7.815,
+      "end": 15.219,
+      "text": "To my daddy, treat him right just like a good gal should."
+    },
+    {
+      "start": 15.459,
+      "end": 18.321,
+      "text": "Indeed, I would."
+    },
+    {
+      "start": 18.421,
+      "end": 26.285,
+      "text": "Now my conscience within me, I'm downhearted as can be."
+    },
+    {
+      "start": 26.585,
+      "end": 28.566,
+      "text": "I've learned no lesson."
+    }
+  ],
+  "language": "en"
+}

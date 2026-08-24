@@ -1,0 +1,26 @@
+{
+  "text": "Many years ago today, wedding bells were ringing high. Seemed as if they sang a song of lullaby. After being out in town, all the folks were gathered round. Down the isle I flew alone.",
+  "segments": [
+    {
+      "start": 4.65,
+      "end": 12.595,
+      "text": "Many years ago today, wedding bells were ringing high."
+    },
+    {
+      "start": 12.635,
+      "end": 18.339,
+      "text": "Seemed as if they sang a song of lullaby."
+    },
+    {
+      "start": 18.499,
+      "end": 24.423,
+      "text": "After being out in town, all the folks were gathered round."
+    },
+    {
+      "start": 24.443,
+      "end": 27.085,
+      "text": "Down the isle I flew alone."
+    }
+  ],
+  "language": "en"
+}

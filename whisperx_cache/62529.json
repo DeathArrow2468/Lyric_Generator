@@ -1,0 +1,16 @@
+{
+  "text": "He is smart. He is smart.",
+  "segments": [
+    {
+      "start": 25.771,
+      "end": 28.206,
+      "text": "He is smart."
+    },
+    {
+      "start": 28.951,
+      "end": 29.877,
+      "text": "He is smart."
+    }
+  ],
+  "language": "en"
+}

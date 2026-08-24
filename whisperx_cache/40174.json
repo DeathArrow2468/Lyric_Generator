@@ -1,0 +1,36 @@
+{
+  "text": "That's what we're here to do. We're here to get you out of here. We're here to get you out of here. We're here to get you out of here. We're here to get you out of here. We're here to get you out of here.",
+  "segments": [
+    {
+      "start": 0.031,
+      "end": 0.612,
+      "text": "That's what we're here to do."
+    },
+    {
+      "start": 0.632,
+      "end": 1.312,
+      "text": "We're here to get you out of here."
+    },
+    {
+      "start": 1.332,
+      "end": 2.013,
+      "text": "We're here to get you out of here."
+    },
+    {
+      "start": 2.033,
+      "end": 2.753,
+      "text": "We're here to get you out of here."
+    },
+    {
+      "start": 2.773,
+      "end": 3.454,
+      "text": "We're here to get you out of here."
+    },
+    {
+      "start": 3.474,
+      "end": 4.155,
+      "text": "We're here to get you out of here."
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,16 @@
+{
+  "text": "Some dirty rice! Some canned beans!",
+  "segments": [
+    {
+      "start": 8.441,
+      "end": 9.542,
+      "text": "Some dirty rice!"
+    },
+    {
+      "start": 9.562,
+      "end": 10.603,
+      "text": "Some canned beans!"
+    }
+  ],
+  "language": "en"
+}

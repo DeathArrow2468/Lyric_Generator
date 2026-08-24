@@ -1,0 +1,16 @@
+{
+  "text": "So if you're out there, say a big hello, buy her a drink and spend some dough. Hey, have my suitcase, there is a special note, she's looking, she waits, I'll take you on.",
+  "segments": [
+    {
+      "start": 8.117,
+      "end": 14.18,
+      "text": "So if you're out there, say a big hello, buy her a drink and spend some dough."
+    },
+    {
+      "start": 14.44,
+      "end": 19.843,
+      "text": "Hey, have my suitcase, there is a special note, she's looking, she waits, I'll take you on."
+    }
+  ],
+  "language": "en"
+}

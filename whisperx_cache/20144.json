@@ -1,0 +1,21 @@
+{
+  "text": "But someday we'll be coming back again to my old house. We've our folks, but we don't have to mind them. Far away from New York, have to move.",
+  "segments": [
+    {
+      "start": 1.592,
+      "end": 16.5,
+      "text": "But someday we'll be coming back again to my old house."
+    },
+    {
+      "start": 20.762,
+      "end": 25.264,
+      "text": "We've our folks, but we don't have to mind them."
+    },
+    {
+      "start": 25.685,
+      "end": 29.827,
+      "text": "Far away from New York, have to move."
+    }
+  ],
+  "language": "en"
+}

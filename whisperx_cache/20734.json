@@ -1,0 +1,51 @@
+{
+  "text": "When that old conductor yells... The minute that I reach that place... I'll get you over and beat your face. Gee, I haven't had a good meal since that day. You went away? Uh-huh. I'm gonna kiss my papa and my mama. A dozen times for every song. And I'm over and over again.",
+  "segments": [
+    {
+      "start": 0.091,
+      "end": 4.293,
+      "text": "When that old conductor yells..."
+    },
+    {
+      "start": 4.373,
+      "end": 15.239,
+      "text": "The minute that I reach that place..."
+    },
+    {
+      "start": 15.859,
+      "end": 18.121,
+      "text": "I'll get you over and beat your face."
+    },
+    {
+      "start": 18.221,
+      "end": 21.603,
+      "text": "Gee, I haven't had a good meal since that day."
+    },
+    {
+      "start": 22.143,
+      "end": 22.823,
+      "text": "You went away?"
+    },
+    {
+      "start": 22.843,
+      "end": 23.103,
+      "text": "Uh-huh."
+    },
+    {
+      "start": 23.223,
+      "end": 25.565,
+      "text": "I'm gonna kiss my papa and my mama."
+    },
+    {
+      "start": 25.865,
+      "end": 28.146,
+      "text": "A dozen times for every song."
+    },
+    {
+      "start": 28.246,
+      "end": 29.767,
+      "text": "And I'm over and over again."
+    }
+  ],
+  "language": "en"
+}

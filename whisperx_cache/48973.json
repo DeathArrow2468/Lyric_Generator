@@ -1,0 +1,41 @@
+{
+  "text": "Als de paas knijt op zijn spoel, is dat voor het goede doel. Alkohol, alkohol. Na het eten nog een kick, steek een combi in de fik. Alkohol, alkohol. Voor een fris en droog gevoel slaat de weerman op zijn spoel. Alkohol, alkohol. Met een schop tegen de schenen, breekt m'n volt en flikt zijn benen.",
+  "segments": [
+    {
+      "start": 2.798,
+      "end": 6.379,
+      "text": "Als de paas knijt op zijn spoel, is dat voor het goede doel."
+    },
+    {
+      "start": 6.459,
+      "end": 9.72,
+      "text": "Alkohol, alkohol."
+    },
+    {
+      "start": 9.9,
+      "end": 14.022,
+      "text": "Na het eten nog een kick, steek een combi in de fik."
+    },
+    {
+      "start": 14.102,
+      "end": 17.823,
+      "text": "Alkohol, alkohol."
+    },
+    {
+      "start": 17.863,
+      "end": 21.604,
+      "text": "Voor een fris en droog gevoel slaat de weerman op zijn spoel."
+    },
+    {
+      "start": 21.704,
+      "end": 24.965,
+      "text": "Alkohol, alkohol."
+    },
+    {
+      "start": 25.165,
+      "end": 29.087,
+      "text": "Met een schop tegen de schenen, breekt m'n volt en flikt zijn benen."
+    }
+  ],
+  "language": "nl"
+}

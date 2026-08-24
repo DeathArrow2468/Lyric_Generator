@@ -1,0 +1,26 @@
+{
+  "text": "All right, we're gonna whip out of here tonight! Crank it up, motherfuckers! Let's do it! Get it on!",
+  "segments": [
+    {
+      "start": 17.974,
+      "end": 20.062,
+      "text": "All right, we're gonna whip out of here tonight!"
+    },
+    {
+      "start": 21.166,
+      "end": 22.511,
+      "text": "Crank it up, motherfuckers!"
+    },
+    {
+      "start": 22.711,
+      "end": 23.474,
+      "text": "Let's do it!"
+    },
+    {
+      "start": 23.775,
+      "end": 24.417,
+      "text": "Get it on!"
+    }
+  ],
+  "language": "en"
+}

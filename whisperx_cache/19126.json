@@ -1,0 +1,56 @@
+{
+  "text": "You don't know, daughter. You don't know my mind. Yeah, see me laughing. Yeah, I'm laughing just to keep from crying. Well, now, you don't know, daughter. You don't know, daughter. Don't know my wretched mind, baby. You don't know, daughter. You don't know my mind. Yeah, see me laughing.",
+  "segments": [
+    {
+      "start": 0.071,
+      "end": 1.292,
+      "text": "You don't know, daughter."
+    },
+    {
+      "start": 1.752,
+      "end": 3.313,
+      "text": "You don't know my mind."
+    },
+    {
+      "start": 3.853,
+      "end": 7.196,
+      "text": "Yeah, see me laughing."
+    },
+    {
+      "start": 7.236,
+      "end": 11.999,
+      "text": "Yeah, I'm laughing just to keep from crying."
+    },
+    {
+      "start": 13.12,
+      "end": 15.461,
+      "text": "Well, now, you don't know, daughter."
+    },
+    {
+      "start": 15.661,
+      "end": 17.322,
+      "text": "You don't know, daughter."
+    },
+    {
+      "start": 17.582,
+      "end": 20.664,
+      "text": "Don't know my wretched mind, baby."
+    },
+    {
+      "start": 20.685,
+      "end": 22.406,
+      "text": "You don't know, daughter."
+    },
+    {
+      "start": 22.846,
+      "end": 24.387,
+      "text": "You don't know my mind."
+    },
+    {
+      "start": 24.947,
+      "end": 29.09,
+      "text": "Yeah, see me laughing."
+    }
+  ],
+  "language": "en"
+}

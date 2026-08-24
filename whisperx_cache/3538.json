@@ -1,0 +1,26 @@
+{
+  "text": "Say you will. You will. Don't be shy. Look to the sky.",
+  "segments": [
+    {
+      "start": 6.478,
+      "end": 10.539,
+      "text": "Say you will."
+    },
+    {
+      "start": 11.24,
+      "end": 12.56,
+      "text": "You will."
+    },
+    {
+      "start": 14.761,
+      "end": 16.241,
+      "text": "Don't be shy."
+    },
+    {
+      "start": 16.281,
+      "end": 17.522,
+      "text": "Look to the sky."
+    }
+  ],
+  "language": "en"
+}

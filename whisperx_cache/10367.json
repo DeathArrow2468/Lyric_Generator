@@ -1,0 +1,26 @@
+{
+  "text": "I love the cows and chickens, but this is a life, this is a life. I love to raise a dick in for a cabaret when the band is playing. I love the homemade cider, but I'd rather have wine. No more picking berries, me for cocktail cherry.",
+  "segments": [
+    {
+      "start": 0.171,
+      "end": 7.097,
+      "text": "I love the cows and chickens, but this is a life, this is a life."
+    },
+    {
+      "start": 7.858,
+      "end": 15.385,
+      "text": "I love to raise a dick in for a cabaret when the band is playing."
+    },
+    {
+      "start": 15.745,
+      "end": 23.492,
+      "text": "I love the homemade cider, but I'd rather have wine."
+    },
+    {
+      "start": 23.752,
+      "end": 30.018,
+      "text": "No more picking berries, me for cocktail cherry."
+    }
+  ],
+  "language": "en"
+}

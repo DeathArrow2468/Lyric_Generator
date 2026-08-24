@@ -1,0 +1,26 @@
+{
+  "text": "In the morning, I woke up in the middle of the night. In the morning, I woke up in the middle of the night. In the morning, I woke up in the middle of the night. In the morning, I woke up in the middle of the night.",
+  "segments": [
+    {
+      "start": 0.757,
+      "end": 4.7,
+      "text": "In the morning, I woke up in the middle of the night."
+    },
+    {
+      "start": 4.76,
+      "end": 8.282,
+      "text": "In the morning, I woke up in the middle of the night."
+    },
+    {
+      "start": 8.362,
+      "end": 12.686,
+      "text": "In the morning, I woke up in the middle of the night."
+    },
+    {
+      "start": 12.786,
+      "end": 30.018,
+      "text": "In the morning, I woke up in the middle of the night."
+    }
+  ],
+  "language": "nn"
+}

@@ -1,0 +1,16 @@
+{
+  "text": "You. You.",
+  "segments": [
+    {
+      "start": 0.671,
+      "end": 1.612,
+      "text": "You."
+    },
+    {
+      "start": 1.732,
+      "end": 2.012,
+      "text": "You."
+    }
+  ],
+  "language": "en"
+}

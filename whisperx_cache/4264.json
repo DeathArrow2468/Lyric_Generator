@@ -1,0 +1,21 @@
+{
+  "text": "No patience. No drugs, no drinks, no legal power. He says he's got nothing but actions.",
+  "segments": [
+    {
+      "start": 4.452,
+      "end": 5.313,
+      "text": "No patience."
+    },
+    {
+      "start": 5.794,
+      "end": 9.839,
+      "text": "No drugs, no drinks, no legal power."
+    },
+    {
+      "start": 9.879,
+      "end": 15.186,
+      "text": "He says he's got nothing but actions."
+    }
+  ],
+  "language": "en"
+}

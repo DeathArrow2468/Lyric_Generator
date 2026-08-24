@@ -1,0 +1,21 @@
+{
+  "text": "I like how this feels. I like, I like how it feels. I like how this feels.",
+  "segments": [
+    {
+      "start": 12.086,
+      "end": 14.729,
+      "text": "I like how this feels."
+    },
+    {
+      "start": 14.869,
+      "end": 21.777,
+      "text": "I like, I like how it feels."
+    },
+    {
+      "start": 21.898,
+      "end": 22.999,
+      "text": "I like how this feels."
+    }
+  ],
+  "language": "en"
+}

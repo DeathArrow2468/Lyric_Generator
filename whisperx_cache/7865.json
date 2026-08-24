@@ -1,0 +1,16 @@
+{
+  "text": "I can't stand it. I can't stand it.",
+  "segments": [
+    {
+      "start": 0.191,
+      "end": 6.797,
+      "text": "I can't stand it."
+    },
+    {
+      "start": 9.68,
+      "end": 11.221,
+      "text": "I can't stand it."
+    }
+  ],
+  "language": "en"
+}

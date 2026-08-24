@@ -1,0 +1,31 @@
+{
+  "text": "I feel backstabbed. I feel backstabbed. I feel backstabbed. Figure I'll be all right. Home is where the heart is.",
+  "segments": [
+    {
+      "start": 10.803,
+      "end": 11.204,
+      "text": "I feel backstabbed."
+    },
+    {
+      "start": 11.224,
+      "end": 11.604,
+      "text": "I feel backstabbed."
+    },
+    {
+      "start": 11.624,
+      "end": 12.065,
+      "text": "I feel backstabbed."
+    },
+    {
+      "start": 12.085,
+      "end": 12.605,
+      "text": "Figure I'll be all right."
+    },
+    {
+      "start": 12.625,
+      "end": 13.166,
+      "text": "Home is where the heart is."
+    }
+  ],
+  "language": "en"
+}

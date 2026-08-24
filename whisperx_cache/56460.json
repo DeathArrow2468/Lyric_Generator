@@ -1,0 +1,21 @@
+{
+  "text": "Hey, I found the courage that I saved. Hey, I found the courage that I saved. Hey, I found the courage that",
+  "segments": [
+    {
+      "start": 0.111,
+      "end": 10.956,
+      "text": "Hey, I found the courage that I saved."
+    },
+    {
+      "start": 11.396,
+      "end": 20.08,
+      "text": "Hey, I found the courage that I saved."
+    },
+    {
+      "start": 20.18,
+      "end": 23.422,
+      "text": "Hey, I found the courage that"
+    }
+  ],
+  "language": "en"
+}

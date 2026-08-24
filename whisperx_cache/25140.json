@@ -1,0 +1,56 @@
+{
+  "text": "Are you coming with me? Please, why don't I get in? Are you not calling me? Are you not near my home? My home, my home, my home. Don't you come no more. Don't you come no more. Don't you come no more. Don't you come no more. Don't you come no more.",
+  "segments": [
+    {
+      "start": 0.091,
+      "end": 3.414,
+      "text": "Are you coming with me?"
+    },
+    {
+      "start": 3.614,
+      "end": 5.015,
+      "text": "Please, why don't I get in?"
+    },
+    {
+      "start": 5.516,
+      "end": 7.338,
+      "text": "Are you not calling me?"
+    },
+    {
+      "start": 7.718,
+      "end": 10.26,
+      "text": "Are you not near my home?"
+    },
+    {
+      "start": 10.48,
+      "end": 12.823,
+      "text": "My home, my home, my home."
+    },
+    {
+      "start": 12.983,
+      "end": 15.725,
+      "text": "Don't you come no more."
+    },
+    {
+      "start": 15.785,
+      "end": 17.567,
+      "text": "Don't you come no more."
+    },
+    {
+      "start": 17.627,
+      "end": 20.489,
+      "text": "Don't you come no more."
+    },
+    {
+      "start": 20.83,
+      "end": 23.832,
+      "text": "Don't you come no more."
+    },
+    {
+      "start": 23.892,
+      "end": 26.195,
+      "text": "Don't you come no more."
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,26 @@
+{
+  "text": "Happy Mother's Day, Happy Mother's Day, Happy Mother's Day to you. Mom, you birthed me. I came out of your vagina. And then there was these like decades where you were raising me.",
+  "segments": [
+    {
+      "start": 0.812,
+      "end": 8.38,
+      "text": "Happy Mother's Day, Happy Mother's Day, Happy Mother's Day to you."
+    },
+    {
+      "start": 8.46,
+      "end": 10.202,
+      "text": "Mom, you birthed me."
+    },
+    {
+      "start": 10.362,
+      "end": 12.865,
+      "text": "I came out of your vagina."
+    },
+    {
+      "start": 13.045,
+      "end": 17.53,
+      "text": "And then there was these like decades where you were raising me."
+    }
+  ],
+  "language": "en"
+}

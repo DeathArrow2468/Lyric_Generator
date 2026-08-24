@@ -1,0 +1,31 @@
+{
+  "text": "She liked it down fast. Steady sipping on the wine glass. She said I'm like a ball player while I drive. Hello. Jazz playing in the whip cause my car mellow.",
+  "segments": [
+    {
+      "start": 15.929,
+      "end": 23.118,
+      "text": "She liked it down fast."
+    },
+    {
+      "start": 23.138,
+      "end": 24.74,
+      "text": "Steady sipping on the wine glass."
+    },
+    {
+      "start": 24.78,
+      "end": 27.123,
+      "text": "She said I'm like a ball player while I drive."
+    },
+    {
+      "start": 27.143,
+      "end": 27.484,
+      "text": "Hello."
+    },
+    {
+      "start": 27.844,
+      "end": 29.927,
+      "text": "Jazz playing in the whip cause my car mellow."
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,46 @@
+{
+  "text": "After it's all said and done, we're not the only ones who want to change this world. This world between men, simple and difficult to find. Like today, they divide us. Can we deal with this on a later date? Let's focus on our future. After all that is said, where's the action? Back to work. Let's focus.",
+  "segments": [
+    {
+      "start": 6.041,
+      "end": 11.142,
+      "text": "After it's all said and done, we're not the only ones who want to change this world."
+    },
+    {
+      "start": 11.762,
+      "end": 16.524,
+      "text": "This world between men, simple and difficult to find."
+    },
+    {
+      "start": 16.544,
+      "end": 18.924,
+      "text": "Like today, they divide us."
+    },
+    {
+      "start": 19.084,
+      "end": 22.705,
+      "text": "Can we deal with this on a later date?"
+    },
+    {
+      "start": 22.945,
+      "end": 24.306,
+      "text": "Let's focus on our future."
+    },
+    {
+      "start": 24.346,
+      "end": 27.906,
+      "text": "After all that is said, where's the action?"
+    },
+    {
+      "start": 27.987,
+      "end": 29.127,
+      "text": "Back to work."
+    },
+    {
+      "start": 29.427,
+      "end": 29.847,
+      "text": "Let's focus."
+    }
+  ],
+  "language": "en"
+}

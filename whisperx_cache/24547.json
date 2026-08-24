@@ -1,0 +1,26 @@
+{
+  "text": "I've had a headache, two days, two. Nothing compares with an underside kill. I got the plan to see the doctor, man, about the mosquito bite. This fool went to the sea door to improve his health, but he had to get a job because he had no wealth.",
+  "segments": [
+    {
+      "start": 0.151,
+      "end": 4.115,
+      "text": "I've had a headache, two days, two."
+    },
+    {
+      "start": 4.235,
+      "end": 7.458,
+      "text": "Nothing compares with an underside kill."
+    },
+    {
+      "start": 7.618,
+      "end": 22.211,
+      "text": "I got the plan to see the doctor, man, about the mosquito bite."
+    },
+    {
+      "start": 22.271,
+      "end": 29.678,
+      "text": "This fool went to the sea door to improve his health, but he had to get a job because he had no wealth."
+    }
+  ],
+  "language": "en"
+}

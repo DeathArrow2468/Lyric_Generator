@@ -1,0 +1,51 @@
+{
+  "text": "Borrowed from everybody on the staff. I'm gonna eat and drink and drive and laugh. Doctor says, my days are done. So if I'm going to die, I'm gonna have some fun. He jumped right out of bed and did just what he said. Says, Doctor, you're scared. For his daddy made a grab. He ran outdoors and he called a cab. He drove right down the line.",
+  "segments": [
+    {
+      "start": 0.251,
+      "end": 4.794,
+      "text": "Borrowed from everybody on the staff."
+    },
+    {
+      "start": 4.834,
+      "end": 7.275,
+      "text": "I'm gonna eat and drink and drive and laugh."
+    },
+    {
+      "start": 7.355,
+      "end": 9.476,
+      "text": "Doctor says, my days are done."
+    },
+    {
+      "start": 9.516,
+      "end": 18.261,
+      "text": "So if I'm going to die, I'm gonna have some fun."
+    },
+    {
+      "start": 19.722,
+      "end": 23.824,
+      "text": "He jumped right out of bed and did just what he said."
+    },
+    {
+      "start": 24.184,
+      "end": 25.264,
+      "text": "Says, Doctor, you're scared."
+    },
+    {
+      "start": 25.305,
+      "end": 26.365,
+      "text": "For his daddy made a grab."
+    },
+    {
+      "start": 26.445,
+      "end": 28.566,
+      "text": "He ran outdoors and he called a cab."
+    },
+    {
+      "start": 28.606,
+      "end": 29.967,
+      "text": "He drove right down the line."
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,16 @@
+{
+  "text": "You're saying physically? No, I'm just saying.",
+  "segments": [
+    {
+      "start": 9.265,
+      "end": 11.046,
+      "text": "You're saying physically?"
+    },
+    {
+      "start": 11.146,
+      "end": 12.647,
+      "text": "No, I'm just saying."
+    }
+  ],
+  "language": "en"
+}

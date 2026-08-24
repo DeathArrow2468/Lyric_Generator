@@ -1,0 +1,21 @@
+{
+  "text": "What kind of love is this? No mention of rejection. No mention of inspection.",
+  "segments": [
+    {
+      "start": 0.52,
+      "end": 2.943,
+      "text": "What kind of love is this?"
+    },
+    {
+      "start": 3.083,
+      "end": 4.865,
+      "text": "No mention of rejection."
+    },
+    {
+      "start": 4.946,
+      "end": 7.589,
+      "text": "No mention of inspection."
+    }
+  ],
+  "language": "en"
+}

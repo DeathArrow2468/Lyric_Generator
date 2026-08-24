@@ -1,0 +1,21 @@
+{
+  "text": "Where's my aspirin? Where's my aspirin? Just a minute ladies and gentlemen, I think something is happening.",
+  "segments": [
+    {
+      "start": 0.271,
+      "end": 1.351,
+      "text": "Where's my aspirin?"
+    },
+    {
+      "start": 1.391,
+      "end": 1.912,
+      "text": "Where's my aspirin?"
+    },
+    {
+      "start": 1.972,
+      "end": 5.273,
+      "text": "Just a minute ladies and gentlemen, I think something is happening."
+    }
+  ],
+  "language": "en"
+}

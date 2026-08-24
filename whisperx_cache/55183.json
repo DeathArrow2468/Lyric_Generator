@@ -1,0 +1,61 @@
+{
+  "text": "Now sit quietly, very quietly. The room very quiet. Now whatever I say, don't turn around. Remember that. Don't turn around. Do you hear that? Now don't turn around. Something's coming up behind you now. Don't turn around. It's coming closer and closer and closer. It's something.",
+  "segments": [
+    {
+      "start": 1.37,
+      "end": 3.171,
+      "text": "Now sit quietly, very quietly."
+    },
+    {
+      "start": 4.212,
+      "end": 5.292,
+      "text": "The room very quiet."
+    },
+    {
+      "start": 6.333,
+      "end": 8.534,
+      "text": "Now whatever I say, don't turn around."
+    },
+    {
+      "start": 8.574,
+      "end": 8.914,
+      "text": "Remember that."
+    },
+    {
+      "start": 9.634,
+      "end": 10.995,
+      "text": "Don't turn around."
+    },
+    {
+      "start": 11.015,
+      "end": 15.277,
+      "text": "Do you hear that?"
+    },
+    {
+      "start": 15.578,
+      "end": 16.538,
+      "text": "Now don't turn around."
+    },
+    {
+      "start": 17.939,
+      "end": 19.86,
+      "text": "Something's coming up behind you now."
+    },
+    {
+      "start": 19.9,
+      "end": 21.161,
+      "text": "Don't turn around."
+    },
+    {
+      "start": 23.442,
+      "end": 27.464,
+      "text": "It's coming closer and closer and closer."
+    },
+    {
+      "start": 27.624,
+      "end": 29.305,
+      "text": "It's something."
+    }
+  ],
+  "language": "en"
+}

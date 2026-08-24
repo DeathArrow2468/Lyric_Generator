@@ -1,0 +1,16 @@
+{
+  "text": "This is the first time I've ever seen such a beautiful place in my life. This is the first time I've ever seen such a beautiful place in my life.",
+  "segments": [
+    {
+      "start": 6.217,
+      "end": 9.139,
+      "text": "This is the first time I've ever seen such a beautiful place in my life."
+    },
+    {
+      "start": 9.159,
+      "end": 11.742,
+      "text": "This is the first time I've ever seen such a beautiful place in my life."
+    }
+  ],
+  "language": "nn"
+}

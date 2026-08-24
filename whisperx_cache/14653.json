@@ -1,0 +1,21 @@
+{
+  "text": "Just to prove it wasn't true love If I'm too late, will you come and hurry me? Like a kid among the dying leaves If my heart breaks, will you drug and carry me? When we can talk about our chemistry All my time has turned to death",
+  "segments": [
+    {
+      "start": 0.191,
+      "end": 6.456,
+      "text": "Just to prove it wasn't true love If I'm too late, will you come and hurry me?"
+    },
+    {
+      "start": 6.857,
+      "end": 16.905,
+      "text": "Like a kid among the dying leaves If my heart breaks, will you drug and carry me?"
+    },
+    {
+      "start": 16.945,
+      "end": 24.031,
+      "text": "When we can talk about our chemistry All my time has turned to death"
+    }
+  ],
+  "language": "en"
+}

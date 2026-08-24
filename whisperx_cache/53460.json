@@ -1,0 +1,21 @@
+{
+  "text": "You know you're my favorite white boy, right? What? Hey, fuck you, alright?",
+  "segments": [
+    {
+      "start": 12.754,
+      "end": 15.478,
+      "text": "You know you're my favorite white boy, right?"
+    },
+    {
+      "start": 15.498,
+      "end": 15.598,
+      "text": "What?"
+    },
+    {
+      "start": 15.618,
+      "end": 16.74,
+      "text": "Hey, fuck you, alright?"
+    }
+  ],
+  "language": "en"
+}

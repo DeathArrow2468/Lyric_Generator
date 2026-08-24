@@ -1,0 +1,51 @@
+{
+  "text": "Why silence? Why silence? Why silence? A piece of gold? Why silence? Why silence? You! You said listen you! And your nation!",
+  "segments": [
+    {
+      "start": 0.031,
+      "end": 0.771,
+      "text": "Why silence?"
+    },
+    {
+      "start": 1.312,
+      "end": 15.399,
+      "text": "Why silence?"
+    },
+    {
+      "start": 16.2,
+      "end": 16.82,
+      "text": "Why silence?"
+    },
+    {
+      "start": 17.74,
+      "end": 21.823,
+      "text": "A piece of gold?"
+    },
+    {
+      "start": 22.063,
+      "end": 24.144,
+      "text": "Why silence?"
+    },
+    {
+      "start": 24.184,
+      "end": 25.725,
+      "text": "Why silence?"
+    },
+    {
+      "start": 25.905,
+      "end": 26.085,
+      "text": "You!"
+    },
+    {
+      "start": 26.125,
+      "end": 28.986,
+      "text": "You said listen you!"
+    },
+    {
+      "start": 29.026,
+      "end": 29.847,
+      "text": "And your nation!"
+    }
+  ],
+  "language": "en"
+}

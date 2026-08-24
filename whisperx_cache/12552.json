@@ -1,0 +1,31 @@
+{
+  "text": "Weird creatures emerged from a hovering egg-shaped spacecraft. The creatures were five feet high, had pointed ends, two eyes, and a hole below the eyes. One of them made a buzzing sound. The spaceship was oblong, our egg-shaped, with a pulsating blue light. Three creatures emerged from an opening in the front of the ship.",
+  "segments": [
+    {
+      "start": 1.172,
+      "end": 5.674,
+      "text": "Weird creatures emerged from a hovering egg-shaped spacecraft."
+    },
+    {
+      "start": 7.055,
+      "end": 13.658,
+      "text": "The creatures were five feet high, had pointed ends, two eyes, and a hole below the eyes."
+    },
+    {
+      "start": 13.778,
+      "end": 16.82,
+      "text": "One of them made a buzzing sound."
+    },
+    {
+      "start": 16.9,
+      "end": 24.264,
+      "text": "The spaceship was oblong, our egg-shaped, with a pulsating blue light."
+    },
+    {
+      "start": 25.925,
+      "end": 29.927,
+      "text": "Three creatures emerged from an opening in the front of the ship."
+    }
+  ],
+  "language": "en"
+}

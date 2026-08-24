@@ -1,0 +1,31 @@
+{
+  "text": "¿Dónde está? ¿Dónde está? ¿Dónde está? ¿Dónde está? ¿Dónde está?",
+  "segments": [
+    {
+      "start": 1.951,
+      "end": 2.391,
+      "text": "¿Dónde está?"
+    },
+    {
+      "start": 2.411,
+      "end": 2.972,
+      "text": "¿Dónde está?"
+    },
+    {
+      "start": 3.032,
+      "end": 3.593,
+      "text": "¿Dónde está?"
+    },
+    {
+      "start": 3.613,
+      "end": 4.174,
+      "text": "¿Dónde está?"
+    },
+    {
+      "start": 4.234,
+      "end": 4.754,
+      "text": "¿Dónde está?"
+    }
+  ],
+  "language": "es"
+}

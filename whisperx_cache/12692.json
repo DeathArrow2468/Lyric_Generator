@@ -1,0 +1,16 @@
+{
+  "text": "Hey! Hey!",
+  "segments": [
+    {
+      "start": 2.159,
+      "end": 2.499,
+      "text": "Hey!"
+    },
+    {
+      "start": 2.539,
+      "end": 2.699,
+      "text": "Hey!"
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,41 @@
+{
+  "text": "Very well. You're just not a joke. Waking your mind up. Say goodbye to magic. Swagging to say goodbyes to all your friends and family. Why do you stay awake? Waking up the day again.",
+  "segments": [
+    {
+      "start": 0.431,
+      "end": 2.012,
+      "text": "Very well."
+    },
+    {
+      "start": 2.072,
+      "end": 3.713,
+      "text": "You're just not a joke."
+    },
+    {
+      "start": 3.753,
+      "end": 6.314,
+      "text": "Waking your mind up."
+    },
+    {
+      "start": 6.334,
+      "end": 8.696,
+      "text": "Say goodbye to magic."
+    },
+    {
+      "start": 8.716,
+      "end": 13.978,
+      "text": "Swagging to say goodbyes to all your friends and family."
+    },
+    {
+      "start": 14.038,
+      "end": 16.9,
+      "text": "Why do you stay awake?"
+    },
+    {
+      "start": 16.94,
+      "end": 18.741,
+      "text": "Waking up the day again."
+    }
+  ],
+  "language": "en"
+}

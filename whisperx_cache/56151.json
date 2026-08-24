@@ -1,0 +1,16 @@
+{
+  "text": "That's a stupid question Just like you asked me When am I coming home back? When you ask me if I'll be true When you ask me if I'll be you That's a stupid question That's a stupid question Don't ask me anymore, I ask you",
+  "segments": [
+    {
+      "start": 0.677,
+      "end": 8.04,
+      "text": "That's a stupid question Just like you asked me When am I coming home back?"
+    },
+    {
+      "start": 8.1,
+      "end": 25.627,
+      "text": "When you ask me if I'll be true When you ask me if I'll be you That's a stupid question That's a stupid question Don't ask me anymore, I ask you"
+    }
+  ],
+  "language": "en"
+}

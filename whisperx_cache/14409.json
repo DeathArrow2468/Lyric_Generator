@@ -1,0 +1,16 @@
+{
+  "text": "Sister, please, I need a place to sleep tonight Didn't you say you're ready to run or fight? Wouldn't you say?",
+  "segments": [
+    {
+      "start": 0.831,
+      "end": 17.378,
+      "text": "Sister, please, I need a place to sleep tonight Didn't you say you're ready to run or fight?"
+    },
+    {
+      "start": 18.039,
+      "end": 20.039,
+      "text": "Wouldn't you say?"
+    }
+  ],
+  "language": "en"
+}

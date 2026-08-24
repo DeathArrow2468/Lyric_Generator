@@ -1,0 +1,26 @@
+{
+  "text": "I think it's got a pain in its ragtime violin. Oh my friend, oh my friend, with our picker by the sea. Once on the beach I took a little stroll. There in a tent I spied a little hole.",
+  "segments": [
+    {
+      "start": 1.192,
+      "end": 12.642,
+      "text": "I think it's got a pain in its ragtime violin."
+    },
+    {
+      "start": 14.404,
+      "end": 22.351,
+      "text": "Oh my friend, oh my friend, with our picker by the sea."
+    },
+    {
+      "start": 22.731,
+      "end": 26.094,
+      "text": "Once on the beach I took a little stroll."
+    },
+    {
+      "start": 26.455,
+      "end": 29.678,
+      "text": "There in a tent I spied a little hole."
+    }
+  ],
+  "language": "en"
+}

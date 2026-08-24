@@ -1,0 +1,21 @@
+{
+  "text": "Whoa, whoa. My, my, big boy. Flicking yours.",
+  "segments": [
+    {
+      "start": 17.75,
+      "end": 23.583,
+      "text": "Whoa, whoa."
+    },
+    {
+      "start": 23.623,
+      "end": 28.735,
+      "text": "My, my, big boy."
+    },
+    {
+      "start": 28.835,
+      "end": 30.018,
+      "text": "Flicking yours."
+    }
+  ],
+  "language": "en"
+}

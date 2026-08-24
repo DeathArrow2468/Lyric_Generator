@@ -1,0 +1,16 @@
+{
+  "text": "I'm gonna smack em, yak em. Come on, Dr. B. Yo, shit.",
+  "segments": [
+    {
+      "start": 0.031,
+      "end": 1.412,
+      "text": "I'm gonna smack em, yak em."
+    },
+    {
+      "start": 1.732,
+      "end": 4.133,
+      "text": "Come on, Dr. B. Yo, shit."
+    }
+  ],
+  "language": "en"
+}

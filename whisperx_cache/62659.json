@@ -1,0 +1,16 @@
+{
+  "text": "I've had enough! I've had enough.",
+  "segments": [
+    {
+      "start": 0.231,
+      "end": 2.192,
+      "text": "I've had enough!"
+    },
+    {
+      "start": 2.292,
+      "end": 4.152,
+      "text": "I've had enough."
+    }
+  ],
+  "language": "en"
+}

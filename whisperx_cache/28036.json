@@ -1,0 +1,16 @@
+{
+  "text": "Where do you come from? Based on true police miles",
+  "segments": [
+    {
+      "start": 0.491,
+      "end": 4.575,
+      "text": "Where do you come from?"
+    },
+    {
+      "start": 4.655,
+      "end": 6.597,
+      "text": "Based on true police miles"
+    }
+  ],
+  "language": "en"
+}

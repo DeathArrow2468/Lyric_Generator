@@ -1,0 +1,31 @@
+{
+  "text": "I aquí també està la casa. Escolta, del carrer Açara. Ai, va! Ai, l'Açara! Caramonica, capxapos de Barcelona.",
+  "segments": [
+    {
+      "start": 0.031,
+      "end": 0.611,
+      "text": "I aquí també està la casa."
+    },
+    {
+      "start": 0.631,
+      "end": 4.974,
+      "text": "Escolta, del carrer Açara."
+    },
+    {
+      "start": 5.014,
+      "end": 5.575,
+      "text": "Ai, va!"
+    },
+    {
+      "start": 5.615,
+      "end": 16.803,
+      "text": "Ai, l'Açara!"
+    },
+    {
+      "start": 17.483,
+      "end": 24.668,
+      "text": "Caramonica, capxapos de Barcelona."
+    }
+  ],
+  "language": "ca"
+}

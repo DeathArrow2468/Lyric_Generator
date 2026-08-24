@@ -1,0 +1,21 @@
+{
+  "text": "Bill Brown just been married. One night he was carried up home at the hour of one. His wife who'd retired died.",
+  "segments": [
+    {
+      "start": 0.251,
+      "end": 4.073,
+      "text": "Bill Brown just been married."
+    },
+    {
+      "start": 4.393,
+      "end": 8.255,
+      "text": "One night he was carried up home at the hour of one."
+    },
+    {
+      "start": 8.295,
+      "end": 10.296,
+      "text": "His wife who'd retired died."
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,16 @@
+{
+  "text": "Pas le main, oui, so Ça fait quatre ans, t'vois pas autre chose Qu'est-ce que c'est ? Maintenant que t'as 20 ans, tu manges plus de pain blanc T'es comme un instant, c'est rien quand Saint-Jacques revient chez Panzer Bien tranché, tant je rime, ne viens danser quand je rime Simplement pas danger, c'est le prétent qui t'en bénime Lemonade à Saint-Séne, hostin de prix maternel Psychopathe à Saint-Etienne, qui poste un gâteau à la guermesse",
+  "segments": [
+    {
+      "start": 0.031,
+      "end": 14.038,
+      "text": "Pas le main, oui, so Ça fait quatre ans, t'vois pas autre chose Qu'est-ce que c'est ?"
+    },
+    {
+      "start": 14.058,
+      "end": 29.807,
+      "text": "Maintenant que t'as 20 ans, tu manges plus de pain blanc T'es comme un instant, c'est rien quand Saint-Jacques revient chez Panzer Bien tranché, tant je rime, ne viens danser quand je rime Simplement pas danger, c'est le prétent qui t'en bénime Lemonade à Saint-Séne, hostin de prix maternel Psychopathe à Saint-Etienne, qui poste un gâteau à la guermesse"
+    }
+  ],
+  "language": "fr"
+}

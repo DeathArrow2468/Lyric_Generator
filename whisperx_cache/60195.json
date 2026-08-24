@@ -1,0 +1,41 @@
+{
+  "text": "My gift that kills. But you break your arm every day. One from another to another must make a mass to work. Not a point. Not a line. Nada. Zero is a dimension.",
+  "segments": [
+    {
+      "start": 0.031,
+      "end": 2.913,
+      "text": "My gift that kills."
+    },
+    {
+      "start": 4.253,
+      "end": 6.034,
+      "text": "But you break your arm every day."
+    },
+    {
+      "start": 12.177,
+      "end": 18.141,
+      "text": "One from another to another must make a mass to work."
+    },
+    {
+      "start": 19.902,
+      "end": 20.802,
+      "text": "Not a point."
+    },
+    {
+      "start": 21.743,
+      "end": 22.683,
+      "text": "Not a line."
+    },
+    {
+      "start": 22.703,
+      "end": 24.564,
+      "text": "Nada."
+    },
+    {
+      "start": 26.665,
+      "end": 28.166,
+      "text": "Zero is a dimension."
+    }
+  ],
+  "language": "en"
+}

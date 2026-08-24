@@ -1,0 +1,46 @@
+{
+  "text": "What's that? What's that? What's that? What's that? What's that? What's that? What's that? What's that?",
+  "segments": [
+    {
+      "start": 0.511,
+      "end": 1.652,
+      "text": "What's that?"
+    },
+    {
+      "start": 1.692,
+      "end": 2.472,
+      "text": "What's that?"
+    },
+    {
+      "start": 2.492,
+      "end": 3.213,
+      "text": "What's that?"
+    },
+    {
+      "start": 3.253,
+      "end": 3.933,
+      "text": "What's that?"
+    },
+    {
+      "start": 4.233,
+      "end": 6.054,
+      "text": "What's that?"
+    },
+    {
+      "start": 6.755,
+      "end": 7.295,
+      "text": "What's that?"
+    },
+    {
+      "start": 7.315,
+      "end": 8.656,
+      "text": "What's that?"
+    },
+    {
+      "start": 9.256,
+      "end": 9.996,
+      "text": "What's that?"
+    }
+  ],
+  "language": "en"
+}

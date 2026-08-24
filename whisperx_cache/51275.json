@@ -1,0 +1,16 @@
+{
+  "text": "Yesterday's for all tomorrows. Parents look at children.",
+  "segments": [
+    {
+      "start": 4.287,
+      "end": 6.257,
+      "text": "Yesterday's for all tomorrows."
+    },
+    {
+      "start": 6.297,
+      "end": 7.463,
+      "text": "Parents look at children."
+    }
+  ],
+  "language": "en"
+}

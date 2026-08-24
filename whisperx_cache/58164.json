@@ -1,0 +1,21 @@
+{
+  "text": "I'm so glad that you're here. I'm so glad that you're here. I'm so glad that you're here.",
+  "segments": [
+    {
+      "start": 0.597,
+      "end": 4.078,
+      "text": "I'm so glad that you're here."
+    },
+    {
+      "start": 4.858,
+      "end": 9.46,
+      "text": "I'm so glad that you're here."
+    },
+    {
+      "start": 9.7,
+      "end": 12.161,
+      "text": "I'm so glad that you're here."
+    }
+  ],
+  "language": "en"
+}

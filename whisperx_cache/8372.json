@@ -1,0 +1,36 @@
+{
+  "text": "I'm just a dirty white boy. Dirty white boy, dirty white boy, dirty white boy, dirty white boy, dirty white boy. I've been in trouble since I don't know when. I'm in trouble now and I know somehow I'll find trouble again. I'm a loner but I'm never alone. Every night I get one step closer to the danger zone.",
+  "segments": [
+    {
+      "start": 1.263,
+      "end": 3.406,
+      "text": "I'm just a dirty white boy."
+    },
+    {
+      "start": 3.446,
+      "end": 11.015,
+      "text": "Dirty white boy, dirty white boy, dirty white boy, dirty white boy, dirty white boy."
+    },
+    {
+      "start": 13.077,
+      "end": 16.081,
+      "text": "I've been in trouble since I don't know when."
+    },
+    {
+      "start": 16.702,
+      "end": 20.526,
+      "text": "I'm in trouble now and I know somehow I'll find trouble again."
+    },
+    {
+      "start": 21.668,
+      "end": 23.21,
+      "text": "I'm a loner but I'm never alone."
+    },
+    {
+      "start": 24.091,
+      "end": 28.176,
+      "text": "Every night I get one step closer to the danger zone."
+    }
+  ],
+  "language": "en"
+}

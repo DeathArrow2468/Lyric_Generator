@@ -1,0 +1,51 @@
+{
+  "text": "Six times six is 42. Gee, I wish that I could add. I like to be as smart as my dad. There's not a figure he don't know. He keeps books for Broadway, though. I had a little rabbit once, and he was an awful dance. But that thing could multiply. And if rabbits can, why can't I? Six times six is 42.",
+  "segments": [
+    {
+      "start": 0.471,
+      "end": 2.712,
+      "text": "Six times six is 42."
+    },
+    {
+      "start": 2.772,
+      "end": 5.974,
+      "text": "Gee, I wish that I could add."
+    },
+    {
+      "start": 7.035,
+      "end": 8.896,
+      "text": "I like to be as smart as my dad."
+    },
+    {
+      "start": 9.016,
+      "end": 11.657,
+      "text": "There's not a figure he don't know."
+    },
+    {
+      "start": 12.258,
+      "end": 15.039,
+      "text": "He keeps books for Broadway, though."
+    },
+    {
+      "start": 15.219,
+      "end": 20.722,
+      "text": "I had a little rabbit once, and he was an awful dance."
+    },
+    {
+      "start": 21.442,
+      "end": 23.564,
+      "text": "But that thing could multiply."
+    },
+    {
+      "start": 24.104,
+      "end": 25.625,
+      "text": "And if rabbits can, why can't I?"
+    },
+    {
+      "start": 25.785,
+      "end": 27.346,
+      "text": "Six times six is 42."
+    }
+  ],
+  "language": "en"
+}

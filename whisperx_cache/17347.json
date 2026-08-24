@@ -1,0 +1,41 @@
+{
+  "text": "It's a snow day. Hallelujah, it's a snow day. You don't have to go. I got tricks up in my sleeve. Tomato, soup, and cheese. Thank goodness, please, I'm staying home. Wood slays in the air.",
+  "segments": [
+    {
+      "start": 0.912,
+      "end": 2.854,
+      "text": "It's a snow day."
+    },
+    {
+      "start": 3.014,
+      "end": 7.658,
+      "text": "Hallelujah, it's a snow day."
+    },
+    {
+      "start": 8.979,
+      "end": 12.482,
+      "text": "You don't have to go."
+    },
+    {
+      "start": 16.806,
+      "end": 19.068,
+      "text": "I got tricks up in my sleeve."
+    },
+    {
+      "start": 20.269,
+      "end": 22.111,
+      "text": "Tomato, soup, and cheese."
+    },
+    {
+      "start": 23.052,
+      "end": 28.296,
+      "text": "Thank goodness, please, I'm staying home."
+    },
+    {
+      "start": 28.357,
+      "end": 29.618,
+      "text": "Wood slays in the air."
+    }
+  ],
+  "language": "en"
+}

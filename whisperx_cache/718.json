@@ -1,0 +1,31 @@
+{
+  "text": "One by one, my leaves must fall. One by one, my leaves must fall. Soon, they will take their eyes. Soon, the fairies will watch the dawn. But before the dawn, there are no trends to play.",
+  "segments": [
+    {
+      "start": 0.051,
+      "end": 3.514,
+      "text": "One by one, my leaves must fall."
+    },
+    {
+      "start": 3.694,
+      "end": 8.839,
+      "text": "One by one, my leaves must fall."
+    },
+    {
+      "start": 8.859,
+      "end": 14.824,
+      "text": "Soon, they will take their eyes."
+    },
+    {
+      "start": 15.485,
+      "end": 23.092,
+      "text": "Soon, the fairies will watch the dawn."
+    },
+    {
+      "start": 23.652,
+      "end": 29.958,
+      "text": "But before the dawn, there are no trends to play."
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,16 @@
+{
+  "text": "It's a part of the history of the world. It's important.",
+  "segments": [
+    {
+      "start": 9.489,
+      "end": 21.299,
+      "text": "It's a part of the history of the world."
+    },
+    {
+      "start": 21.94,
+      "end": 24.662,
+      "text": "It's important."
+    }
+  ],
+  "language": "nn"
+}

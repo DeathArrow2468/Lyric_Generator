@@ -1,0 +1,36 @@
+{
+  "text": "Wouldn't you like to meet me in the starlight? Wouldn't you like to have my sympathy? Wouldn't you like the conversation? Wouldn't you like the consolation of a little girl like me? I don't care if he's tender, splendor, or if he's short or stout. Any handsome fellow, be his hair jet, black or yellow, I will suit him.",
+  "segments": [
+    {
+      "start": 2.393,
+      "end": 5.276,
+      "text": "Wouldn't you like to meet me in the starlight?"
+    },
+    {
+      "start": 5.756,
+      "end": 8.579,
+      "text": "Wouldn't you like to have my sympathy?"
+    },
+    {
+      "start": 9.079,
+      "end": 10.841,
+      "text": "Wouldn't you like the conversation?"
+    },
+    {
+      "start": 10.861,
+      "end": 18.047,
+      "text": "Wouldn't you like the consolation of a little girl like me?"
+    },
+    {
+      "start": 19.529,
+      "end": 25.054,
+      "text": "I don't care if he's tender, splendor, or if he's short or stout."
+    },
+    {
+      "start": 26.395,
+      "end": 29.978,
+      "text": "Any handsome fellow, be his hair jet, black or yellow, I will suit him."
+    }
+  ],
+  "language": "en"
+}

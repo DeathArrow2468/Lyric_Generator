@@ -1,0 +1,21 @@
+{
+  "text": "If you got mixed up brains, you're in good company. You're in good with me without even knowing me, boy, without even knowing me. If you got hard luck with lucky you, I got hard luck with you.",
+  "segments": [
+    {
+      "start": 8.787,
+      "end": 14.075,
+      "text": "If you got mixed up brains, you're in good company."
+    },
+    {
+      "start": 14.155,
+      "end": 23.669,
+      "text": "You're in good with me without even knowing me, boy, without even knowing me."
+    },
+    {
+      "start": 23.929,
+      "end": 29.437,
+      "text": "If you got hard luck with lucky you, I got hard luck with you."
+    }
+  ],
+  "language": "en"
+}

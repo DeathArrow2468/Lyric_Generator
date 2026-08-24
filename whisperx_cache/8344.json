@@ -1,0 +1,111 @@
+{
+  "text": "I have nothing against Alice. She is a very, very sweet person. She is a good neighbor. It is nothing in the world. I don't believe it. Well, we'll be over about 738. As soon as it gets dark. Well, I bet you you won't come in my house. Well, you don't like Alice, or what is it? I love Alice. You don't trust us? I don't trust her spirit. Are you afraid? I am. You're not afraid? I am afraid. No, no, you aren't. Yes, I am. You don't tell me where I am. I'm not. Do you love Jesus?",
+  "segments": [
+    {
+      "start": 1.131,
+      "end": 2.652,
+      "text": "I have nothing against Alice."
+    },
+    {
+      "start": 2.672,
+      "end": 4.813,
+      "text": "She is a very, very sweet person."
+    },
+    {
+      "start": 4.833,
+      "end": 5.873,
+      "text": "She is a good neighbor."
+    },
+    {
+      "start": 6.293,
+      "end": 7.654,
+      "text": "It is nothing in the world."
+    },
+    {
+      "start": 8.074,
+      "end": 8.734,
+      "text": "I don't believe it."
+    },
+    {
+      "start": 8.774,
+      "end": 10.595,
+      "text": "Well, we'll be over about 738."
+    },
+    {
+      "start": 10.775,
+      "end": 11.895,
+      "text": "As soon as it gets dark."
+    },
+    {
+      "start": 12.495,
+      "end": 14.216,
+      "text": "Well, I bet you you won't come in my house."
+    },
+    {
+      "start": 14.376,
+      "end": 15.956,
+      "text": "Well, you don't like Alice, or what is it?"
+    },
+    {
+      "start": 16.096,
+      "end": 16.717,
+      "text": "I love Alice."
+    },
+    {
+      "start": 16.917,
+      "end": 17.737,
+      "text": "You don't trust us?"
+    },
+    {
+      "start": 18.257,
+      "end": 19.377,
+      "text": "I don't trust her spirit."
+    },
+    {
+      "start": 20.958,
+      "end": 21.538,
+      "text": "Are you afraid?"
+    },
+    {
+      "start": 21.558,
+      "end": 22.258,
+      "text": "I am."
+    },
+    {
+      "start": 22.418,
+      "end": 23.099,
+      "text": "You're not afraid?"
+    },
+    {
+      "start": 23.339,
+      "end": 23.839,
+      "text": "I am afraid."
+    },
+    {
+      "start": 23.859,
+      "end": 24.299,
+      "text": "No, no, you aren't."
+    },
+    {
+      "start": 24.879,
+      "end": 25.439,
+      "text": "Yes, I am."
+    },
+    {
+      "start": 25.459,
+      "end": 26.54,
+      "text": "You don't tell me where I am."
+    },
+    {
+      "start": 26.78,
+      "end": 27.18,
+      "text": "I'm not."
+    },
+    {
+      "start": 28.28,
+      "end": 29.121,
+      "text": "Do you love Jesus?"
+    }
+  ],
+  "language": "en"
+}

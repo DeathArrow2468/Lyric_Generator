@@ -1,0 +1,26 @@
+{
+  "text": "What else can you do? What else can you do? What else can you do? What else can you do?",
+  "segments": [
+    {
+      "start": 0.071,
+      "end": 4.135,
+      "text": "What else can you do?"
+    },
+    {
+      "start": 4.215,
+      "end": 14.284,
+      "text": "What else can you do?"
+    },
+    {
+      "start": 15.285,
+      "end": 19.929,
+      "text": "What else can you do?"
+    },
+    {
+      "start": 19.989,
+      "end": 24.573,
+      "text": "What else can you do?"
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,21 @@
+{
+  "text": "Hello everybody in the place to be. My name's Trekkie to the birthday. I wanna see, I wanna see you shake it.",
+  "segments": [
+    {
+      "start": 23.71,
+      "end": 25.595,
+      "text": "Hello everybody in the place to be."
+    },
+    {
+      "start": 25.976,
+      "end": 27.881,
+      "text": "My name's Trekkie to the birthday."
+    },
+    {
+      "start": 27.901,
+      "end": 29.907,
+      "text": "I wanna see, I wanna see you shake it."
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,21 @@
+{
+  "text": "Addiction to me, I can't see all that I try. Think that I should bring my change in. Sympathize with me.",
+  "segments": [
+    {
+      "start": 0.051,
+      "end": 6.437,
+      "text": "Addiction to me, I can't see all that I try."
+    },
+    {
+      "start": 7.177,
+      "end": 15.945,
+      "text": "Think that I should bring my change in."
+    },
+    {
+      "start": 16.085,
+      "end": 18.007,
+      "text": "Sympathize with me."
+    }
+  ],
+  "language": "en"
+}

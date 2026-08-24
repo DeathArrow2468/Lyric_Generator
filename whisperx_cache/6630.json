@@ -1,0 +1,31 @@
+{
+  "text": "Anywhere, any time, any place. God can change the world. God can change the world. God can change the world. God can change the world.",
+  "segments": [
+    {
+      "start": 5.393,
+      "end": 8.677,
+      "text": "Anywhere, any time, any place."
+    },
+    {
+      "start": 8.817,
+      "end": 10.279,
+      "text": "God can change the world."
+    },
+    {
+      "start": 11.841,
+      "end": 13.963,
+      "text": "God can change the world."
+    },
+    {
+      "start": 14.284,
+      "end": 17.928,
+      "text": "God can change the world."
+    },
+    {
+      "start": 18.629,
+      "end": 23.435,
+      "text": "God can change the world."
+    }
+  ],
+  "language": "en"
+}

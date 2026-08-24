@@ -1,0 +1,21 @@
+{
+  "text": "I might be left out in the cold But I ain't too bad, I don't mind too much Out, out, out, what I'm gonna be? Out, out, out, what I'm gonna do that? Get a ride, do the things as time stands",
+  "segments": [
+    {
+      "start": 0.431,
+      "end": 8.195,
+      "text": "I might be left out in the cold But I ain't too bad, I don't mind too much Out, out, out, what I'm gonna be?"
+    },
+    {
+      "start": 8.415,
+      "end": 26.145,
+      "text": "Out, out, out, what I'm gonna do that?"
+    },
+    {
+      "start": 26.165,
+      "end": 29.707,
+      "text": "Get a ride, do the things as time stands"
+    }
+  ],
+  "language": "en"
+}

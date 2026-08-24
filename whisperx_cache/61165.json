@@ -1,0 +1,31 @@
+{
+  "text": "Mon gars assis que j'barre, mi-barre, mi-barre Suis vraiment toi le rouet, viens on règle ça de voir Le beat pop, il rend du bain trop tard pour Ponce Pilate Qui a fait un p'tit graphe devant les pop pis dag Y'a ta p*** qui s'dane, du gros gars ça j'ai encore un ping, p*** est-ce que t'es down ? Soit le beat drop est-ce que t'es down ? Soit tu l'fais pas, veux-tu bien m'dire ? Qu'est-ce que tu prétends ? L'arrête c'est drôle Y'a Jeezy Ness, moi j'fais ça, moi j'arrête l'apprentissage T'as dit Québec, baby bad Grosse baguette, passe-moi ça",
+  "segments": [
+    {
+      "start": 0.852,
+      "end": 17.847,
+      "text": "Mon gars assis que j'barre, mi-barre, mi-barre Suis vraiment toi le rouet, viens on règle ça de voir Le beat pop, il rend du bain trop tard pour Ponce Pilate Qui a fait un p'tit graphe devant les pop pis dag Y'a ta p*** qui s'dane, du gros gars ça j'ai encore un ping, p*** est-ce que t'es down ?"
+    },
+    {
+      "start": 17.867,
+      "end": 19.549,
+      "text": "Soit le beat drop est-ce que t'es down ?"
+    },
+    {
+      "start": 19.569,
+      "end": 21.15,
+      "text": "Soit tu l'fais pas, veux-tu bien m'dire ?"
+    },
+    {
+      "start": 21.17,
+      "end": 22.131,
+      "text": "Qu'est-ce que tu prétends ?"
+    },
+    {
+      "start": 22.151,
+      "end": 28.937,
+      "text": "L'arrête c'est drôle Y'a Jeezy Ness, moi j'fais ça, moi j'arrête l'apprentissage T'as dit Québec, baby bad Grosse baguette, passe-moi ça"
+    }
+  ],
+  "language": "fr"
+}

@@ -1,0 +1,21 @@
+{
+  "text": "The blue-eyed baby cries in a cradle. Mama said to Papa, Look at them eyes. Over the ocean, in a great ship, The captain said to the cabin boy, Look at that water.",
+  "segments": [
+    {
+      "start": 1.047,
+      "end": 4.99,
+      "text": "The blue-eyed baby cries in a cradle."
+    },
+    {
+      "start": 5.81,
+      "end": 13.996,
+      "text": "Mama said to Papa, Look at them eyes."
+    },
+    {
+      "start": 15.417,
+      "end": 26.264,
+      "text": "Over the ocean, in a great ship, The captain said to the cabin boy, Look at that water."
+    }
+  ],
+  "language": "en"
+}

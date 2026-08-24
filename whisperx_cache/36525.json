@@ -1,0 +1,26 @@
+{
+  "text": "Take me with you when you hide tonight. Take me with you when you hide tonight. We're alone together. It's like you're watching now.",
+  "segments": [
+    {
+      "start": 0.593,
+      "end": 6.176,
+      "text": "Take me with you when you hide tonight."
+    },
+    {
+      "start": 7.336,
+      "end": 13.419,
+      "text": "Take me with you when you hide tonight."
+    },
+    {
+      "start": 13.58,
+      "end": 19.422,
+      "text": "We're alone together."
+    },
+    {
+      "start": 19.562,
+      "end": 26.566,
+      "text": "It's like you're watching now."
+    }
+  ],
+  "language": "en"
+}

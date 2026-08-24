@@ -1,0 +1,36 @@
+{
+  "text": "Throw it out, love you, die your heart out. Call me home, oh, you die your heart out. Why are you dead outside by me? Why are you dead outside by me? Why are you dead outside by me? Yo, Lucille.",
+  "segments": [
+    {
+      "start": 3.115,
+      "end": 7.819,
+      "text": "Throw it out, love you, die your heart out."
+    },
+    {
+      "start": 7.859,
+      "end": 12.223,
+      "text": "Call me home, oh, you die your heart out."
+    },
+    {
+      "start": 12.263,
+      "end": 16.326,
+      "text": "Why are you dead outside by me?"
+    },
+    {
+      "start": 16.406,
+      "end": 19.389,
+      "text": "Why are you dead outside by me?"
+    },
+    {
+      "start": 19.509,
+      "end": 28.677,
+      "text": "Why are you dead outside by me?"
+    },
+    {
+      "start": 28.737,
+      "end": 29.458,
+      "text": "Yo, Lucille."
+    }
+  ],
+  "language": "en"
+}

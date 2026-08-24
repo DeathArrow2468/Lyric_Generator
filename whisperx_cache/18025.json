@@ -1,0 +1,56 @@
+{
+  "text": "A lot of words would puzzle me. Bananas was no sin. That's Cinderella. That was hard, but I could spell it in a pinch. But words like this are matter. Psychological and such. Gee, when it came to spelling those, I surely was in Dutch. I can't spell Cinderella and sausages better than cups. But I can spell Mississippi. And believe me, that's enough.",
+  "segments": [
+    {
+      "start": 0.531,
+      "end": 3.394,
+      "text": "A lot of words would puzzle me."
+    },
+    {
+      "start": 4.075,
+      "end": 5.956,
+      "text": "Bananas was no sin."
+    },
+    {
+      "start": 6.437,
+      "end": 7.338,
+      "text": "That's Cinderella."
+    },
+    {
+      "start": 7.538,
+      "end": 10.02,
+      "text": "That was hard, but I could spell it in a pinch."
+    },
+    {
+      "start": 10.681,
+      "end": 12.602,
+      "text": "But words like this are matter."
+    },
+    {
+      "start": 12.642,
+      "end": 14.564,
+      "text": "Psychological and such."
+    },
+    {
+      "start": 15.445,
+      "end": 19.489,
+      "text": "Gee, when it came to spelling those, I surely was in Dutch."
+    },
+    {
+      "start": 19.789,
+      "end": 24.233,
+      "text": "I can't spell Cinderella and sausages better than cups."
+    },
+    {
+      "start": 24.633,
+      "end": 26.355,
+      "text": "But I can spell Mississippi."
+    },
+    {
+      "start": 27.215,
+      "end": 29.377,
+      "text": "And believe me, that's enough."
+    }
+  ],
+  "language": "en"
+}

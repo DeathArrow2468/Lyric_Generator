@@ -1,0 +1,36 @@
+{
+  "text": "and a sudden day in the death region. The faith defies the night, the faith is fine. The faith defies the truth, and it feels good still. The faith defies the night, the faith is fine. It feels good still. Faith is fine.",
+  "segments": [
+    {
+      "start": 0.111,
+      "end": 3.293,
+      "text": "and a sudden day in the death region."
+    },
+    {
+      "start": 3.853,
+      "end": 7.735,
+      "text": "The faith defies the night, the faith is fine."
+    },
+    {
+      "start": 8.476,
+      "end": 12.918,
+      "text": "The faith defies the truth, and it feels good still."
+    },
+    {
+      "start": 13.298,
+      "end": 17.6,
+      "text": "The faith defies the night, the faith is fine."
+    },
+    {
+      "start": 18.161,
+      "end": 28.546,
+      "text": "It feels good still."
+    },
+    {
+      "start": 28.606,
+      "end": 29.547,
+      "text": "Faith is fine."
+    }
+  ],
+  "language": "en"
+}

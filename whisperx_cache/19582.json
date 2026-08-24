@@ -1,0 +1,26 @@
+{
+  "text": "And when I sleep, I always dream of you. It seems that how he's man I meet makes eyes at me. But he only makes me blue. And though he's say a lot of handsome things,",
+  "segments": [
+    {
+      "start": 0.792,
+      "end": 13.299,
+      "text": "And when I sleep, I always dream of you."
+    },
+    {
+      "start": 14.279,
+      "end": 22.583,
+      "text": "It seems that how he's man I meet makes eyes at me."
+    },
+    {
+      "start": 23.464,
+      "end": 26.645,
+      "text": "But he only makes me blue."
+    },
+    {
+      "start": 27.366,
+      "end": 29.847,
+      "text": "And though he's say a lot of handsome things,"
+    }
+  ],
+  "language": "en"
+}

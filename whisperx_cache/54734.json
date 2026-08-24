@@ -1,0 +1,31 @@
+{
+  "text": "Oh, you're such a bum, oh, you make me sick. Yeah, I'll be. I love to kick. I'm falling in love with you ahead of me, man. What a child I want to be.",
+  "segments": [
+    {
+      "start": 15.826,
+      "end": 19.112,
+      "text": "Oh, you're such a bum, oh, you make me sick."
+    },
+    {
+      "start": 19.132,
+      "end": 20.014,
+      "text": "Yeah, I'll be."
+    },
+    {
+      "start": 20.655,
+      "end": 21.617,
+      "text": "I love to kick."
+    },
+    {
+      "start": 21.918,
+      "end": 24.823,
+      "text": "I'm falling in love with you ahead of me, man."
+    },
+    {
+      "start": 24.843,
+      "end": 26.587,
+      "text": "What a child I want to be."
+    }
+  ],
+  "language": "en"
+}

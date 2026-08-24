@@ -1,0 +1,31 @@
+{
+  "text": "Records are here, nothing there to erase. Records make a man into a world celebrity. Records are good, records are right for me. Records are so much fun, records are second to none. Records are so much fun, records are second to none.",
+  "segments": [
+    {
+      "start": 1.633,
+      "end": 4.576,
+      "text": "Records are here, nothing there to erase."
+    },
+    {
+      "start": 4.676,
+      "end": 7.578,
+      "text": "Records make a man into a world celebrity."
+    },
+    {
+      "start": 7.638,
+      "end": 9.86,
+      "text": "Records are good, records are right for me."
+    },
+    {
+      "start": 9.96,
+      "end": 12.623,
+      "text": "Records are so much fun, records are second to none."
+    },
+    {
+      "start": 12.723,
+      "end": 15.425,
+      "text": "Records are so much fun, records are second to none."
+    }
+  ],
+  "language": "en"
+}

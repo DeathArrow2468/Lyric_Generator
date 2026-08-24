@@ -1,0 +1,31 @@
+{
+  "text": "There's no love down below. I'm not one of them. I stand for yet those prayers you used to say. They seem to me to be nights and days. Memories of you.",
+  "segments": [
+    {
+      "start": 0.031,
+      "end": 5.833,
+      "text": "There's no love down below."
+    },
+    {
+      "start": 6.093,
+      "end": 8.954,
+      "text": "I'm not one of them."
+    },
+    {
+      "start": 9.174,
+      "end": 16.697,
+      "text": "I stand for yet those prayers you used to say."
+    },
+    {
+      "start": 16.737,
+      "end": 22.819,
+      "text": "They seem to me to be nights and days."
+    },
+    {
+      "start": 22.899,
+      "end": 25.78,
+      "text": "Memories of you."
+    }
+  ],
+  "language": "en"
+}

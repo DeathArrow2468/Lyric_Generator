@@ -1,0 +1,16 @@
+{
+  "text": "ja se ilkee. Elisin paroja lastatuun uorsan enää yksin.",
+  "segments": [
+    {
+      "start": 0.992,
+      "end": 1.512,
+      "text": "ja se ilkee."
+    },
+    {
+      "start": 1.613,
+      "end": 7.418,
+      "text": "Elisin paroja lastatuun uorsan enää yksin."
+    }
+  ],
+  "language": "fi"
+}

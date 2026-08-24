@@ -1,0 +1,16 @@
+{
+  "text": "It's time to go home. It's time to go home.",
+  "segments": [
+    {
+      "start": 1.38,
+      "end": 12.483,
+      "text": "It's time to go home."
+    },
+    {
+      "start": 15.123,
+      "end": 22.205,
+      "text": "It's time to go home."
+    }
+  ],
+  "language": "nn"
+}

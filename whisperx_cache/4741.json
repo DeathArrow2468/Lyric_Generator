@@ -1,0 +1,21 @@
+{
+  "text": "Get long old Cindy, Cindy, get long old my say. Get long old Cindy, Cindy, gonna marry you one day. Cindy got religion, she hollered and she squealed.",
+  "segments": [
+    {
+      "start": 0.191,
+      "end": 3.854,
+      "text": "Get long old Cindy, Cindy, get long old my say."
+    },
+    {
+      "start": 4.055,
+      "end": 7.978,
+      "text": "Get long old Cindy, Cindy, gonna marry you one day."
+    },
+    {
+      "start": 8.338,
+      "end": 18.548,
+      "text": "Cindy got religion, she hollered and she squealed."
+    }
+  ],
+  "language": "en"
+}

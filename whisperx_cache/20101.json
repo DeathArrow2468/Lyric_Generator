@@ -1,0 +1,31 @@
+{
+  "text": "You take the steamboat, I take the train. I get a telegram from Mariuch last Sunday. She asked me to meet her by the steamboat Monday. Well, on the next day, I went right away to hear what she has to say. Oh, she makes me cry.",
+  "segments": [
+    {
+      "start": 0.891,
+      "end": 6.214,
+      "text": "You take the steamboat, I take the train."
+    },
+    {
+      "start": 12.278,
+      "end": 16.14,
+      "text": "I get a telegram from Mariuch last Sunday."
+    },
+    {
+      "start": 16.16,
+      "end": 21.743,
+      "text": "She asked me to meet her by the steamboat Monday."
+    },
+    {
+      "start": 23.103,
+      "end": 27.946,
+      "text": "Well, on the next day, I went right away to hear what she has to say."
+    },
+    {
+      "start": 28.506,
+      "end": 29.967,
+      "text": "Oh, she makes me cry."
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,21 @@
+{
+  "text": "I'm going to go to the bathroom. I'm going to the bathroom. I'm going to the bathroom.",
+  "segments": [
+    {
+      "start": 0.531,
+      "end": 4.373,
+      "text": "I'm going to go to the bathroom."
+    },
+    {
+      "start": 4.433,
+      "end": 6.374,
+      "text": "I'm going to the bathroom."
+    },
+    {
+      "start": 6.434,
+      "end": 8.516,
+      "text": "I'm going to the bathroom."
+    }
+  ],
+  "language": "en"
+}

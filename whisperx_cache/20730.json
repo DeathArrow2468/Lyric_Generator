@@ -1,0 +1,41 @@
+{
+  "text": "playing overture upon your violin. Hurry up, hurry up with your violin. Make it sooner, don't you stop the tuner. Hit, hit, hit, hit to the middle of your ragtime violin. Mr. Brown, Mr. Brown at the fancy ball. Stand around, stand around, stand around the hall. Wouldn't take a chance to",
+  "segments": [
+    {
+      "start": 0.131,
+      "end": 3.153,
+      "text": "playing overture upon your violin."
+    },
+    {
+      "start": 3.273,
+      "end": 6.254,
+      "text": "Hurry up, hurry up with your violin."
+    },
+    {
+      "start": 6.334,
+      "end": 11.457,
+      "text": "Make it sooner, don't you stop the tuner."
+    },
+    {
+      "start": 11.537,
+      "end": 20.942,
+      "text": "Hit, hit, hit, hit to the middle of your ragtime violin."
+    },
+    {
+      "start": 21.062,
+      "end": 24.484,
+      "text": "Mr. Brown, Mr. Brown at the fancy ball."
+    },
+    {
+      "start": 24.504,
+      "end": 27.806,
+      "text": "Stand around, stand around, stand around the hall."
+    },
+    {
+      "start": 28.366,
+      "end": 29.747,
+      "text": "Wouldn't take a chance to"
+    }
+  ],
+  "language": "en"
+}

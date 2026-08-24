@@ -1,0 +1,26 @@
+{
+  "text": "Back home in old Dublin he did very well, but he's now working for the army. He once served at the pub, but he's now serving grub, and it's flavoured with powder and lid. He took the king's shilling to go do his killing, but he's cooking for soldiers instead. Are you the O'Reilly that keeps it cold",
+  "segments": [
+    {
+      "start": 0.251,
+      "end": 7.758,
+      "text": "Back home in old Dublin he did very well, but he's now working for the army."
+    },
+    {
+      "start": 8.399,
+      "end": 15.865,
+      "text": "He once served at the pub, but he's now serving grub, and it's flavoured with powder and lid."
+    },
+    {
+      "start": 17.206,
+      "end": 24.333,
+      "text": "He took the king's shilling to go do his killing, but he's cooking for soldiers instead."
+    },
+    {
+      "start": 26.215,
+      "end": 30.018,
+      "text": "Are you the O'Reilly that keeps it cold"
+    }
+  ],
+  "language": "en"
+}

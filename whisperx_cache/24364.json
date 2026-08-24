@@ -1,0 +1,16 @@
+{
+  "text": "Afternoon, candelabra, fancy shoes. Karachi afternoon, I find myself still dreaming you.",
+  "segments": [
+    {
+      "start": 0.352,
+      "end": 3.278,
+      "text": "Afternoon, candelabra, fancy shoes."
+    },
+    {
+      "start": 3.358,
+      "end": 8.248,
+      "text": "Karachi afternoon, I find myself still dreaming you."
+    }
+  ],
+  "language": "en"
+}

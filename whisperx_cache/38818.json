@@ -1,0 +1,26 @@
+{
+  "text": "On and on and on we go, off on Marie's wedding. Cheeks as bright as rowan's are, bright and far like any star. There's nothing on my bar, it's my darling Marie. Step the galley up,",
+  "segments": [
+    {
+      "start": 0.111,
+      "end": 3.992,
+      "text": "On and on and on we go, off on Marie's wedding."
+    },
+    {
+      "start": 4.072,
+      "end": 7.993,
+      "text": "Cheeks as bright as rowan's are, bright and far like any star."
+    },
+    {
+      "start": 8.113,
+      "end": 11.594,
+      "text": "There's nothing on my bar, it's my darling Marie."
+    },
+    {
+      "start": 11.614,
+      "end": 12.594,
+      "text": "Step the galley up,"
+    }
+  ],
+  "language": "en"
+}

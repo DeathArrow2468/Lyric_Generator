@@ -1,0 +1,26 @@
+{
+  "text": "I love every inch of our prairie land, each stone on our mountainside. I love every drop of the water here that flows in a river wide. I love every tree, every blade of grass within Columbia's gate. The queen of the earth is alive.",
+  "segments": [
+    {
+      "start": 0.251,
+      "end": 8.375,
+      "text": "I love every inch of our prairie land, each stone on our mountainside."
+    },
+    {
+      "start": 9.216,
+      "end": 18.581,
+      "text": "I love every drop of the water here that flows in a river wide."
+    },
+    {
+      "start": 18.601,
+      "end": 26.405,
+      "text": "I love every tree, every blade of grass within Columbia's gate."
+    },
+    {
+      "start": 26.825,
+      "end": 29.767,
+      "text": "The queen of the earth is alive."
+    }
+  ],
+  "language": "en"
+}

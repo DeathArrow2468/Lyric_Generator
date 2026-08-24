@@ -1,0 +1,41 @@
+{
+  "text": "If I've got to go, I want some sugar in my coffin. Well, I want sugar in my coffin. I want to cut the bitter taste. But the president's a liar. The country's falling in disgrace. I've been living with it just about as long as I can face. So if I've got to go, I want some sugar in my coffin.",
+  "segments": [
+    {
+      "start": 0.051,
+      "end": 4.674,
+      "text": "If I've got to go, I want some sugar in my coffin."
+    },
+    {
+      "start": 7.196,
+      "end": 9.658,
+      "text": "Well, I want sugar in my coffin."
+    },
+    {
+      "start": 9.758,
+      "end": 11.239,
+      "text": "I want to cut the bitter taste."
+    },
+    {
+      "start": 11.66,
+      "end": 13.461,
+      "text": "But the president's a liar."
+    },
+    {
+      "start": 13.481,
+      "end": 15.362,
+      "text": "The country's falling in disgrace."
+    },
+    {
+      "start": 15.743,
+      "end": 19.386,
+      "text": "I've been living with it just about as long as I can face."
+    },
+    {
+      "start": 19.986,
+      "end": 28.672,
+      "text": "So if I've got to go, I want some sugar in my coffin."
+    }
+  ],
+  "language": "en"
+}

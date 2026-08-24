@@ -1,0 +1,31 @@
+{
+  "text": "I threw my last coin in the lishing well. I told Lady Love she could go to hell. I told her to head down and leave me alone. I don't mind when my sisters call. I don't need nothing.",
+  "segments": [
+    {
+      "start": 13.233,
+      "end": 16.298,
+      "text": "I threw my last coin in the lishing well."
+    },
+    {
+      "start": 16.478,
+      "end": 19.322,
+      "text": "I told Lady Love she could go to hell."
+    },
+    {
+      "start": 19.382,
+      "end": 25.351,
+      "text": "I told her to head down and leave me alone."
+    },
+    {
+      "start": 25.531,
+      "end": 28.255,
+      "text": "I don't mind when my sisters call."
+    },
+    {
+      "start": 28.576,
+      "end": 29.798,
+      "text": "I don't need nothing."
+    }
+  ],
+  "language": "en"
+}

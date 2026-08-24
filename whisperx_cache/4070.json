@@ -1,0 +1,21 @@
+{
+  "text": "Estoy viviendo el mundo con nuevos ojos, el mundo con nuevos ojos y no lo quiero cambiar. Estoy viviendo el mundo con nuevos ojos, el mundo con nuevos ojos y no lo puedo negar. Ayer serán uno de los que estaba y que decidió",
+  "segments": [
+    {
+      "start": 5.893,
+      "end": 14.518,
+      "text": "Estoy viviendo el mundo con nuevos ojos, el mundo con nuevos ojos y no lo quiero cambiar."
+    },
+    {
+      "start": 14.658,
+      "end": 21.182,
+      "text": "Estoy viviendo el mundo con nuevos ojos, el mundo con nuevos ojos y no lo puedo negar."
+    },
+    {
+      "start": 21.222,
+      "end": 25.124,
+      "text": "Ayer serán uno de los que estaba y que decidió"
+    }
+  ],
+  "language": "es"
+}

@@ -1,0 +1,31 @@
+{
+  "text": "Get it! Get it! Get it! Get it! Get it!",
+  "segments": [
+    {
+      "start": 5.907,
+      "end": 6.148,
+      "text": "Get it!"
+    },
+    {
+      "start": 6.168,
+      "end": 7.13,
+      "text": "Get it!"
+    },
+    {
+      "start": 7.17,
+      "end": 7.892,
+      "text": "Get it!"
+    },
+    {
+      "start": 7.912,
+      "end": 8.273,
+      "text": "Get it!"
+    },
+    {
+      "start": 8.374,
+      "end": 8.875,
+      "text": "Get it!"
+    }
+  ],
+  "language": "en"
+}

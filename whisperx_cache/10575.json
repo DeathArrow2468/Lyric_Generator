@@ -1,0 +1,36 @@
+{
+  "text": "I will win it. Yeah, yeah, yeah, yeah, yeah, yeah. There's a song in my heart so true to hear. It's only you I find each and every. It's upon your love which I do end. In my every last breath, the rest I will do end.",
+  "segments": [
+    {
+      "start": 0.051,
+      "end": 1.212,
+      "text": "I will win it."
+    },
+    {
+      "start": 1.232,
+      "end": 5.696,
+      "text": "Yeah, yeah, yeah, yeah, yeah, yeah."
+    },
+    {
+      "start": 5.716,
+      "end": 8.138,
+      "text": "There's a song in my heart so true to hear."
+    },
+    {
+      "start": 8.158,
+      "end": 10.921,
+      "text": "It's only you I find each and every."
+    },
+    {
+      "start": 10.941,
+      "end": 13.343,
+      "text": "It's upon your love which I do end."
+    },
+    {
+      "start": 13.563,
+      "end": 16.466,
+      "text": "In my every last breath, the rest I will do end."
+    }
+  ],
+  "language": "en"
+}

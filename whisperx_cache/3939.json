@@ -1,0 +1,21 @@
+{
+  "text": "Arbitrary suits, I say. Power station in the sun. Searching among the eyes.",
+  "segments": [
+    {
+      "start": 4.172,
+      "end": 6.993,
+      "text": "Arbitrary suits, I say."
+    },
+    {
+      "start": 7.033,
+      "end": 11.996,
+      "text": "Power station in the sun."
+    },
+    {
+      "start": 12.096,
+      "end": 16.759,
+      "text": "Searching among the eyes."
+    }
+  ],
+  "language": "en"
+}

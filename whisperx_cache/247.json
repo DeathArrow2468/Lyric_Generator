@@ -1,0 +1,21 @@
+{
+  "text": "I'll never forget you. I'll never forget you. I'll never forget you.",
+  "segments": [
+    {
+      "start": 0.511,
+      "end": 3.113,
+      "text": "I'll never forget you."
+    },
+    {
+      "start": 3.213,
+      "end": 5.094,
+      "text": "I'll never forget you."
+    },
+    {
+      "start": 5.214,
+      "end": 6.374,
+      "text": "I'll never forget you."
+    }
+  ],
+  "language": "en"
+}

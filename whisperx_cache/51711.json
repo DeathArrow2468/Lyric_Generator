@@ -1,0 +1,26 @@
+{
+  "text": "Somebody else's body. Someone else's baby. Ooh, baby. You've always been my baby.",
+  "segments": [
+    {
+      "start": 13.018,
+      "end": 15.301,
+      "text": "Somebody else's body."
+    },
+    {
+      "start": 16.142,
+      "end": 20.827,
+      "text": "Someone else's baby."
+    },
+    {
+      "start": 21.148,
+      "end": 23.53,
+      "text": "Ooh, baby."
+    },
+    {
+      "start": 23.871,
+      "end": 29.938,
+      "text": "You've always been my baby."
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,31 @@
+{
+  "text": "Nakedly down the street. Are you saying something secretly to me? Like, let's fuck you and me right now, here on the street. Surely not. Good looking boys or women.",
+  "segments": [
+    {
+      "start": 0.071,
+      "end": 2.972,
+      "text": "Nakedly down the street."
+    },
+    {
+      "start": 4.053,
+      "end": 6.934,
+      "text": "Are you saying something secretly to me?"
+    },
+    {
+      "start": 7.415,
+      "end": 11.897,
+      "text": "Like, let's fuck you and me right now, here on the street."
+    },
+    {
+      "start": 12.557,
+      "end": 14.598,
+      "text": "Surely not."
+    },
+    {
+      "start": 15.238,
+      "end": 18.44,
+      "text": "Good looking boys or women."
+    }
+  ],
+  "language": "en"
+}

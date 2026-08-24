@@ -1,0 +1,21 @@
+{
+  "text": "Go! Go! Go!",
+  "segments": [
+    {
+      "start": 29.25,
+      "end": 29.573,
+      "text": "Go!"
+    },
+    {
+      "start": 29.614,
+      "end": 29.796,
+      "text": "Go!"
+    },
+    {
+      "start": 29.816,
+      "end": 29.917,
+      "text": "Go!"
+    }
+  ],
+  "language": "en"
+}

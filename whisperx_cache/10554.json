@@ -1,0 +1,31 @@
+{
+  "text": "Ah! Ah! Ah! Ah! Ah!",
+  "segments": [
+    {
+      "start": 2.411,
+      "end": 2.831,
+      "text": "Ah!"
+    },
+    {
+      "start": 3.111,
+      "end": 4.092,
+      "text": "Ah!"
+    },
+    {
+      "start": 4.212,
+      "end": 5.113,
+      "text": "Ah!"
+    },
+    {
+      "start": 5.734,
+      "end": 6.234,
+      "text": "Ah!"
+    },
+    {
+      "start": 6.555,
+      "end": 7.496,
+      "text": "Ah!"
+    }
+  ],
+  "language": "en"
+}

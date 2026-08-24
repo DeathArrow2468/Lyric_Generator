@@ -1,0 +1,21 @@
+{
+  "text": "And that's the reason that he won't stay obsolete. And that's why he's singing. How, how long, how long will this whole thing take?",
+  "segments": [
+    {
+      "start": 2.116,
+      "end": 6.118,
+      "text": "And that's the reason that he won't stay obsolete."
+    },
+    {
+      "start": 6.678,
+      "end": 8.859,
+      "text": "And that's why he's singing."
+    },
+    {
+      "start": 11.12,
+      "end": 29.927,
+      "text": "How, how long, how long will this whole thing take?"
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,21 @@
+{
+  "text": "Now will you please all raise your left hands and we will swear you in in both Spanish and English. First we'll do it in Spanish. Now we'll do it all together.",
+  "segments": [
+    {
+      "start": 0.391,
+      "end": 6.557,
+      "text": "Now will you please all raise your left hands and we will swear you in in both Spanish and English."
+    },
+    {
+      "start": 7.217,
+      "end": 9.259,
+      "text": "First we'll do it in Spanish."
+    },
+    {
+      "start": 9.279,
+      "end": 14.404,
+      "text": "Now we'll do it all together."
+    }
+  ],
+  "language": "en"
+}

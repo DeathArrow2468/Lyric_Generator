@@ -1,0 +1,16 @@
+{
+  "text": "I feel it. I feel it.",
+  "segments": [
+    {
+      "start": 1.529,
+      "end": 4.411,
+      "text": "I feel it."
+    },
+    {
+      "start": 4.471,
+      "end": 5.292,
+      "text": "I feel it."
+    }
+  ],
+  "language": "en"
+}

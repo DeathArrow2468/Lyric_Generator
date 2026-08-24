@@ -1,0 +1,16 @@
+{
+  "text": "Wait for it! Wow!",
+  "segments": [
+    {
+      "start": 2.333,
+      "end": 4.562,
+      "text": "Wait for it!"
+    },
+    {
+      "start": 4.823,
+      "end": 5.605,
+      "text": "Wow!"
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,16 @@
+{
+  "text": "Short, short, short, short, short, short, short, is it up? Well now, that's just remain calm won't we?",
+  "segments": [
+    {
+      "start": 0.091,
+      "end": 6.755,
+      "text": "Short, short, short, short, short, short, short, is it up?"
+    },
+    {
+      "start": 22.103,
+      "end": 26.886,
+      "text": "Well now, that's just remain calm won't we?"
+    }
+  ],
+  "language": "en"
+}

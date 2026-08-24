@@ -1,0 +1,26 @@
+{
+  "text": "Don't you want to try it? I know you want to try it. Choose your own desire. Set your world on fire, fire!",
+  "segments": [
+    {
+      "start": 7.499,
+      "end": 9.042,
+      "text": "Don't you want to try it?"
+    },
+    {
+      "start": 9.062,
+      "end": 11.626,
+      "text": "I know you want to try it."
+    },
+    {
+      "start": 11.666,
+      "end": 14.07,
+      "text": "Choose your own desire."
+    },
+    {
+      "start": 14.111,
+      "end": 15.413,
+      "text": "Set your world on fire, fire!"
+    }
+  ],
+  "language": "en"
+}

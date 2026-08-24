@@ -1,0 +1,21 @@
+{
+  "text": "Its front paws are so big that they're useless for walking. Instead, it tumbles along on its main legs, balancing its cross and its tail. Its front paws are so big that they're useless for walking.",
+  "segments": [
+    {
+      "start": 1.675,
+      "end": 10.482,
+      "text": "Its front paws are so big that they're useless for walking."
+    },
+    {
+      "start": 10.622,
+      "end": 17.208,
+      "text": "Instead, it tumbles along on its main legs, balancing its cross and its tail."
+    },
+    {
+      "start": 17.248,
+      "end": 27.116,
+      "text": "Its front paws are so big that they're useless for walking."
+    }
+  ],
+  "language": "en"
+}

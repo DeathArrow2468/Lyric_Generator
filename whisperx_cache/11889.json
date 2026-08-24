@@ -1,0 +1,111 @@
+{
+  "text": "Uh, yeah, that's how we do it now. Huh, that's how we do it now. I don't like the film. Nope, don't like it. I don't like the film. Nope. Play it all back. Play it all back. Play it all back. Play it all back. I don't like the scene. I don't like the scene. I don't like to set some. Don't like to set some. Put it all down. Put it all down. Put it all down. See, I put it all down. But I like the actors. I don't like the actors. I don't like the actors.",
+  "segments": [
+    {
+      "start": 0.151,
+      "end": 2.913,
+      "text": "Uh, yeah, that's how we do it now."
+    },
+    {
+      "start": 3.113,
+      "end": 4.974,
+      "text": "Huh, that's how we do it now."
+    },
+    {
+      "start": 4.994,
+      "end": 6.855,
+      "text": "I don't like the film."
+    },
+    {
+      "start": 6.915,
+      "end": 7.935,
+      "text": "Nope, don't like it."
+    },
+    {
+      "start": 8.275,
+      "end": 10.997,
+      "text": "I don't like the film."
+    },
+    {
+      "start": 11.017,
+      "end": 11.597,
+      "text": "Nope."
+    },
+    {
+      "start": 12.057,
+      "end": 12.998,
+      "text": "Play it all back."
+    },
+    {
+      "start": 13.018,
+      "end": 13.478,
+      "text": "Play it all back."
+    },
+    {
+      "start": 13.498,
+      "end": 14.479,
+      "text": "Play it all back."
+    },
+    {
+      "start": 14.519,
+      "end": 15.379,
+      "text": "Play it all back."
+    },
+    {
+      "start": 15.399,
+      "end": 16.84,
+      "text": "I don't like the scene."
+    },
+    {
+      "start": 16.92,
+      "end": 17.921,
+      "text": "I don't like the scene."
+    },
+    {
+      "start": 17.941,
+      "end": 19.341,
+      "text": "I don't like to set some."
+    },
+    {
+      "start": 19.381,
+      "end": 20.822,
+      "text": "Don't like to set some."
+    },
+    {
+      "start": 21.863,
+      "end": 22.843,
+      "text": "Put it all down."
+    },
+    {
+      "start": 23.223,
+      "end": 24.284,
+      "text": "Put it all down."
+    },
+    {
+      "start": 24.304,
+      "end": 25.244,
+      "text": "Put it all down."
+    },
+    {
+      "start": 25.264,
+      "end": 26.845,
+      "text": "See, I put it all down."
+    },
+    {
+      "start": 26.865,
+      "end": 27.586,
+      "text": "But I like the actors."
+    },
+    {
+      "start": 27.606,
+      "end": 29.347,
+      "text": "I don't like the actors."
+    },
+    {
+      "start": 29.367,
+      "end": 29.967,
+      "text": "I don't like the actors."
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,16 @@
+{
+  "text": "Carriage return. Carriage return.",
+  "segments": [
+    {
+      "start": 10.105,
+      "end": 10.966,
+      "text": "Carriage return."
+    },
+    {
+      "start": 11.046,
+      "end": 12.847,
+      "text": "Carriage return."
+    }
+  ],
+  "language": "en"
+}

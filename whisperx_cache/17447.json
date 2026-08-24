@@ -1,0 +1,51 @@
+{
+  "text": "as I wait. I have been known to say, what? There is no cereal today? When I tune my eyes and no cereal comes into focus, I become desperate. I look longingly through the back door. The boys have been found. I enjoy shredded bread with lots of brown sugar. I appreciate the entire Chex line. I must not stay crisp too long.",
+  "segments": [
+    {
+      "start": 0.632,
+      "end": 1.933,
+      "text": "as I wait."
+    },
+    {
+      "start": 3.074,
+      "end": 5.336,
+      "text": "I have been known to say, what?"
+    },
+    {
+      "start": 5.796,
+      "end": 7.458,
+      "text": "There is no cereal today?"
+    },
+    {
+      "start": 7.778,
+      "end": 13.203,
+      "text": "When I tune my eyes and no cereal comes into focus, I become desperate."
+    },
+    {
+      "start": 14.544,
+      "end": 16.626,
+      "text": "I look longingly through the back door."
+    },
+    {
+      "start": 16.746,
+      "end": 19.368,
+      "text": "The boys have been found."
+    },
+    {
+      "start": 20.189,
+      "end": 23.112,
+      "text": "I enjoy shredded bread with lots of brown sugar."
+    },
+    {
+      "start": 23.933,
+      "end": 25.854,
+      "text": "I appreciate the entire Chex line."
+    },
+    {
+      "start": 26.915,
+      "end": 29.558,
+      "text": "I must not stay crisp too long."
+    }
+  ],
+  "language": "en"
+}

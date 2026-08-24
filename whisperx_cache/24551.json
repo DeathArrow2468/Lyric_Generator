@@ -1,0 +1,31 @@
+{
+  "text": "Oh, you're terrible. I can hear you. And it seems my own that I hear you. You're as charming as a bee. You are never haunting me, even in my dreams.",
+  "segments": [
+    {
+      "start": 0.031,
+      "end": 1.672,
+      "text": "Oh, you're terrible."
+    },
+    {
+      "start": 1.793,
+      "end": 2.914,
+      "text": "I can hear you."
+    },
+    {
+      "start": 3.034,
+      "end": 5.296,
+      "text": "And it seems my own that I hear you."
+    },
+    {
+      "start": 5.416,
+      "end": 7.758,
+      "text": "You're as charming as a bee."
+    },
+    {
+      "start": 7.818,
+      "end": 11.782,
+      "text": "You are never haunting me, even in my dreams."
+    }
+  ],
+  "language": "en"
+}

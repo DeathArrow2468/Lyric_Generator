@@ -1,0 +1,21 @@
+{
+  "text": "We're like dinosaurs. It's like being a communist in 2006. Now let's get back to you.",
+  "segments": [
+    {
+      "start": 2.709,
+      "end": 5.27,
+      "text": "We're like dinosaurs."
+    },
+    {
+      "start": 6.691,
+      "end": 15.878,
+      "text": "It's like being a communist in 2006."
+    },
+    {
+      "start": 25.084,
+      "end": 27.906,
+      "text": "Now let's get back to you."
+    }
+  ],
+  "language": "en"
+}

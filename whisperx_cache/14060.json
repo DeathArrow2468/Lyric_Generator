@@ -1,0 +1,16 @@
+{
+  "text": "Tiedän julkaisuksi. Tietenkin... Tiedän julkaisuksi",
+  "segments": [
+    {
+      "start": 4.272,
+      "end": 12.874,
+      "text": "Tiedän julkaisuksi."
+    },
+    {
+      "start": 12.894,
+      "end": 29.559,
+      "text": "Tietenkin... Tiedän julkaisuksi"
+    }
+  ],
+  "language": "fi"
+}

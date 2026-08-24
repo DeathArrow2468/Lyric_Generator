@@ -1,0 +1,21 @@
+{
+  "text": "Lai! Lai! Atzten bai!",
+  "segments": [
+    {
+      "start": 10.599,
+      "end": 11.787,
+      "text": "Lai!"
+    },
+    {
+      "start": 11.807,
+      "end": 11.908,
+      "text": "Lai!"
+    },
+    {
+      "start": 11.928,
+      "end": 12.753,
+      "text": "Atzten bai!"
+    }
+  ],
+  "language": "eu"
+}

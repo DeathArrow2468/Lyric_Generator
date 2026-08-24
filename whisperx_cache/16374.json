@@ -1,0 +1,41 @@
+{
+  "text": "the frog. He set his mind a-working. My guilt is I am shirking. I'll show soon how froggies work. Sang the little Mr. Bullfrog. Sang the lady froggy too. Then they loudly sang together, and their eyes went goo-goo-goo.",
+  "segments": [
+    {
+      "start": 0.051,
+      "end": 0.851,
+      "text": "the frog."
+    },
+    {
+      "start": 1.252,
+      "end": 3.653,
+      "text": "He set his mind a-working."
+    },
+    {
+      "start": 3.873,
+      "end": 6.314,
+      "text": "My guilt is I am shirking."
+    },
+    {
+      "start": 6.895,
+      "end": 13.418,
+      "text": "I'll show soon how froggies work."
+    },
+    {
+      "start": 13.598,
+      "end": 18.181,
+      "text": "Sang the little Mr. Bullfrog."
+    },
+    {
+      "start": 18.301,
+      "end": 22.283,
+      "text": "Sang the lady froggy too."
+    },
+    {
+      "start": 22.343,
+      "end": 28.946,
+      "text": "Then they loudly sang together, and their eyes went goo-goo-goo."
+    }
+  ],
+  "language": "en"
+}

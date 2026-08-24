@@ -1,0 +1,26 @@
+{
+  "text": "Little tummy green, little tummy green. Who put her out? Who put her out? Who put her out?",
+  "segments": [
+    {
+      "start": 0.391,
+      "end": 4.795,
+      "text": "Little tummy green, little tummy green."
+    },
+    {
+      "start": 5.156,
+      "end": 7.938,
+      "text": "Who put her out?"
+    },
+    {
+      "start": 8.078,
+      "end": 11.021,
+      "text": "Who put her out?"
+    },
+    {
+      "start": 11.541,
+      "end": 14.024,
+      "text": "Who put her out?"
+    }
+  ],
+  "language": "en"
+}

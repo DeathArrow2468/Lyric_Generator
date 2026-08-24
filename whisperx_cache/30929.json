@@ -1,0 +1,46 @@
+{
+  "text": "Sometimes I don't feel so clever. Super glue. I wish we stuck together. Super glue. Line up. Line up. In order of size, this is now a bonding exercise. When I look at you, I",
+  "segments": [
+    {
+      "start": 6.963,
+      "end": 9.726,
+      "text": "Sometimes I don't feel so clever."
+    },
+    {
+      "start": 11.608,
+      "end": 12.469,
+      "text": "Super glue."
+    },
+    {
+      "start": 12.929,
+      "end": 16.353,
+      "text": "I wish we stuck together."
+    },
+    {
+      "start": 18.135,
+      "end": 18.936,
+      "text": "Super glue."
+    },
+    {
+      "start": 19.676,
+      "end": 20.097,
+      "text": "Line up."
+    },
+    {
+      "start": 20.337,
+      "end": 20.758,
+      "text": "Line up."
+    },
+    {
+      "start": 21.098,
+      "end": 27.044,
+      "text": "In order of size, this is now a bonding exercise."
+    },
+    {
+      "start": 27.124,
+      "end": 29.847,
+      "text": "When I look at you, I"
+    }
+  ],
+  "language": "en"
+}

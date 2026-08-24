@@ -1,0 +1,41 @@
+{
+  "text": "Burn it! Burn it! Burn it! Burn it! Burn it! Burn it! Burn it!",
+  "segments": [
+    {
+      "start": 0.051,
+      "end": 0.772,
+      "text": "Burn it!"
+    },
+    {
+      "start": 0.792,
+      "end": 1.372,
+      "text": "Burn it!"
+    },
+    {
+      "start": 1.392,
+      "end": 1.733,
+      "text": "Burn it!"
+    },
+    {
+      "start": 1.753,
+      "end": 2.773,
+      "text": "Burn it!"
+    },
+    {
+      "start": 2.814,
+      "end": 3.154,
+      "text": "Burn it!"
+    },
+    {
+      "start": 3.214,
+      "end": 3.614,
+      "text": "Burn it!"
+    },
+    {
+      "start": 3.694,
+      "end": 4.175,
+      "text": "Burn it!"
+    }
+  ],
+  "language": "en"
+}

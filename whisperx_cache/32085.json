@@ -1,0 +1,16 @@
+{
+  "text": "Let's take a kiss, girl. Is that what you do?",
+  "segments": [
+    {
+      "start": 0.312,
+      "end": 2.822,
+      "text": "Let's take a kiss, girl."
+    },
+    {
+      "start": 3.385,
+      "end": 4.389,
+      "text": "Is that what you do?"
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,41 @@
+{
+  "text": "Hey, Mike, this is Deegan. Uh, I hope your really crazy response has been possible. Um, I wanna know how much you would like to have a bet for a bet because there's one flying around my house. And my mom is freaking out. And I'll not catch that. So, I'll just call you back. Bye.",
+  "segments": [
+    {
+      "start": 1.811,
+      "end": 4.012,
+      "text": "Hey, Mike, this is Deegan."
+    },
+    {
+      "start": 4.252,
+      "end": 8.215,
+      "text": "Uh, I hope your really crazy response has been possible."
+    },
+    {
+      "start": 8.315,
+      "end": 14.778,
+      "text": "Um, I wanna know how much you would like to have a bet for a bet because there's one flying around my house."
+    },
+    {
+      "start": 15.459,
+      "end": 17.08,
+      "text": "And my mom is freaking out."
+    },
+    {
+      "start": 17.18,
+      "end": 19.081,
+      "text": "And I'll not catch that."
+    },
+    {
+      "start": 19.121,
+      "end": 21.402,
+      "text": "So, I'll just call you back."
+    },
+    {
+      "start": 21.442,
+      "end": 21.522,
+      "text": "Bye."
+    }
+  ],
+  "language": "en"
+}

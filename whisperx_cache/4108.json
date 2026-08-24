@@ -1,0 +1,16 @@
+{
+  "text": "They talk about flowers and berries and trees. They name Czech folk artists and sing with a sneeze.",
+  "segments": [
+    {
+      "start": 18.826,
+      "end": 26.28,
+      "text": "They talk about flowers and berries and trees."
+    },
+    {
+      "start": 26.521,
+      "end": 29.145,
+      "text": "They name Czech folk artists and sing with a sneeze."
+    }
+  ],
+  "language": "en"
+}

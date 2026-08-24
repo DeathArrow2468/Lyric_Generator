@@ -1,0 +1,26 @@
+{
+  "text": "One boy is feeling kind of worried. One boy whose brain is all off-lory. One boy can't sleep at night and has lost his appetite. One girl has got a fellow guessing",
+  "segments": [
+    {
+      "start": 10.939,
+      "end": 14.442,
+      "text": "One boy is feeling kind of worried."
+    },
+    {
+      "start": 14.943,
+      "end": 18.406,
+      "text": "One boy whose brain is all off-lory."
+    },
+    {
+      "start": 18.927,
+      "end": 25.754,
+      "text": "One boy can't sleep at night and has lost his appetite."
+    },
+    {
+      "start": 26.735,
+      "end": 29.898,
+      "text": "One girl has got a fellow guessing"
+    }
+  ],
+  "language": "en"
+}

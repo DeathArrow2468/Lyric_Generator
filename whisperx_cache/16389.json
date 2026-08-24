@@ -1,0 +1,66 @@
+{
+  "text": "Now then, can any little boy tell me who killed Mary, Queen of Scots? I know, sir. It was Freddy Freckles and Oliver Cromwell. I saw them push her off the end of the pier. Silence! Who is that laughing? Patsy Bolliver. Come out, Patsy Bolliver. Now then, Patsy Bolliver, what is the first letter in the alphabet? I don't know, sir. You don't know? Well, what did your mother feed her donkey with?",
+  "segments": [
+    {
+      "start": 1.33,
+      "end": 4.573,
+      "text": "Now then, can any little boy tell me who killed Mary, Queen of Scots?"
+    },
+    {
+      "start": 4.753,
+      "end": 5.514,
+      "text": "I know, sir."
+    },
+    {
+      "start": 5.654,
+      "end": 8.117,
+      "text": "It was Freddy Freckles and Oliver Cromwell."
+    },
+    {
+      "start": 8.217,
+      "end": 10.539,
+      "text": "I saw them push her off the end of the pier."
+    },
+    {
+      "start": 11.58,
+      "end": 12.681,
+      "text": "Silence!"
+    },
+    {
+      "start": 12.721,
+      "end": 13.642,
+      "text": "Who is that laughing?"
+    },
+    {
+      "start": 13.762,
+      "end": 14.983,
+      "text": "Patsy Bolliver."
+    },
+    {
+      "start": 15.023,
+      "end": 16.345,
+      "text": "Come out, Patsy Bolliver."
+    },
+    {
+      "start": 22.871,
+      "end": 25.734,
+      "text": "Now then, Patsy Bolliver, what is the first letter in the alphabet?"
+    },
+    {
+      "start": 25.894,
+      "end": 27.135,
+      "text": "I don't know, sir."
+    },
+    {
+      "start": 27.235,
+      "end": 27.996,
+      "text": "You don't know?"
+    },
+    {
+      "start": 28.036,
+      "end": 29.798,
+      "text": "Well, what did your mother feed her donkey with?"
+    }
+  ],
+  "language": "en"
+}

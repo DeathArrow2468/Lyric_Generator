@@ -1,0 +1,46 @@
+{
+  "text": "I'll be ready, I'll be ready. Yes, good Lord, I'll be ready when he's ready to come. I'll be ready, I'll be ready. Yes, good Lord, I'll be ready when he's ready to come. And the good book says that he can kill evil. Yes, good Lord. He knocked him in the head with the leg of a table. Yes, good Lord.",
+  "segments": [
+    {
+      "start": 0.611,
+      "end": 3.053,
+      "text": "I'll be ready, I'll be ready."
+    },
+    {
+      "start": 3.113,
+      "end": 6.574,
+      "text": "Yes, good Lord, I'll be ready when he's ready to come."
+    },
+    {
+      "start": 6.675,
+      "end": 10.557,
+      "text": "I'll be ready, I'll be ready."
+    },
+    {
+      "start": 10.617,
+      "end": 14.979,
+      "text": "Yes, good Lord, I'll be ready when he's ready to come."
+    },
+    {
+      "start": 15.479,
+      "end": 19.001,
+      "text": "And the good book says that he can kill evil."
+    },
+    {
+      "start": 19.021,
+      "end": 23.924,
+      "text": "Yes, good Lord."
+    },
+    {
+      "start": 24.184,
+      "end": 26.885,
+      "text": "He knocked him in the head with the leg of a table."
+    },
+    {
+      "start": 26.905,
+      "end": 29.627,
+      "text": "Yes, good Lord."
+    }
+  ],
+  "language": "en"
+}

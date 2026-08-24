@@ -1,0 +1,26 @@
+{
+  "text": "Well, if I don't eat soon, I'll follow John, if there's any room. But I looked again, and I was content, because nobody knows where John Brown went. Now, if I was anyway superstitious, that might make me nervous. My golly, what's that?",
+  "segments": [
+    {
+      "start": 0.031,
+      "end": 5.533,
+      "text": "Well, if I don't eat soon, I'll follow John, if there's any room."
+    },
+    {
+      "start": 6.034,
+      "end": 14.297,
+      "text": "But I looked again, and I was content, because nobody knows where John Brown went."
+    },
+    {
+      "start": 20.26,
+      "end": 26.062,
+      "text": "Now, if I was anyway superstitious, that might make me nervous."
+    },
+    {
+      "start": 26.643,
+      "end": 28.363,
+      "text": "My golly, what's that?"
+    }
+  ],
+  "language": "en"
+}

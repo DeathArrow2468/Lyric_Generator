@@ -1,0 +1,31 @@
+{
+  "text": "Well, run it, beckon me! I'm not a skunk. Run with silicone. I'm not a skunk. Holding a branch is good for your wrist.",
+  "segments": [
+    {
+      "start": 2.971,
+      "end": 7.013,
+      "text": "Well, run it, beckon me!"
+    },
+    {
+      "start": 7.833,
+      "end": 9.994,
+      "text": "I'm not a skunk."
+    },
+    {
+      "start": 10.014,
+      "end": 12.876,
+      "text": "Run with silicone."
+    },
+    {
+      "start": 12.936,
+      "end": 14.817,
+      "text": "I'm not a skunk."
+    },
+    {
+      "start": 14.957,
+      "end": 22.38,
+      "text": "Holding a branch is good for your wrist."
+    }
+  ],
+  "language": "en"
+}

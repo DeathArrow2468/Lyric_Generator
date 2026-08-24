@@ -1,0 +1,41 @@
+{
+  "text": "Everything I do, I do fast. You better do 60 days, see how fast you can do that. Love you more, Dan. Next case on the docket. Robert Ransford, James Monahan, and Michael Murphy. Bring out that delegation, Dan. You name Ransford?",
+  "segments": [
+    {
+      "start": 0.231,
+      "end": 2.073,
+      "text": "Everything I do, I do fast."
+    },
+    {
+      "start": 2.934,
+      "end": 5.556,
+      "text": "You better do 60 days, see how fast you can do that."
+    },
+    {
+      "start": 5.576,
+      "end": 6.857,
+      "text": "Love you more, Dan."
+    },
+    {
+      "start": 16.166,
+      "end": 17.987,
+      "text": "Next case on the docket."
+    },
+    {
+      "start": 21.01,
+      "end": 25.034,
+      "text": "Robert Ransford, James Monahan, and Michael Murphy."
+    },
+    {
+      "start": 25.394,
+      "end": 27.235,
+      "text": "Bring out that delegation, Dan."
+    },
+    {
+      "start": 28.577,
+      "end": 29.478,
+      "text": "You name Ransford?"
+    }
+  ],
+  "language": "en"
+}

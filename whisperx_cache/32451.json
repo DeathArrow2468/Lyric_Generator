@@ -1,0 +1,21 @@
+{
+  "text": "Do you want to get money? Hold it in your hand, honey Do you want to get money? We just never live for money",
+  "segments": [
+    {
+      "start": 7.83,
+      "end": 12.776,
+      "text": "Do you want to get money?"
+    },
+    {
+      "start": 13.998,
+      "end": 25.452,
+      "text": "Hold it in your hand, honey Do you want to get money?"
+    },
+    {
+      "start": 25.873,
+      "end": 29.477,
+      "text": "We just never live for money"
+    }
+  ],
+  "language": "en"
+}
