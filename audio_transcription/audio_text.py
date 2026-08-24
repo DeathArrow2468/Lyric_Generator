@@ -69,6 +69,7 @@ import json
 import logging
 import sys
 from pathlib import Path
+import torch
 
 logging.basicConfig(
     level=logging.INFO,
@@ -273,6 +274,20 @@ def main():
                 with open(cache_path, "w", encoding="utf-8") as f:
                     json.dump(result, f, ensure_ascii=False, indent=2)
                 n_done += 1
+            except RuntimeError as e:
+                if "out of memory" in str(e).lower():
+                    log.error(
+                        f"[{i}/{len(records)}] CUDA OOM on track_id={track_id}; "
+                        "clearing CUDA cache and skipping"
+                    )
+                    torch.cuda.empty_cache()
+                    n_failed += 1
+                    continue
+
+                log.error(f"[{i}/{len(records)}] Failed on track_id={track_id}: {e}")
+                n_failed += 1
+                continue
+
             except Exception as e:
                 log.error(f"[{i}/{len(records)}] Failed on track_id={track_id}: {e}")
                 n_failed += 1
