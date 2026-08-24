@@ -83,7 +83,16 @@ log = logging.getLogger("transcribe_lyrics")
 # --------------------------------------------------------------------------
 
 def load_metadata(path: Path) -> list[dict]:
-    if path.suffix.lower() == ".json":
+    suffix = path.suffix.lower()
+    if suffix == ".jsonl":
+        records = []
+        with open(path, "r", encoding="utf-8") as f:
+            for line in f:
+                line = line.strip()
+                if line:
+                    records.append(json.loads(line))
+        return records
+    elif suffix == ".json":
         with open(path, "r", encoding="utf-8") as f:
             data = json.load(f)
         if isinstance(data, dict):
@@ -95,7 +104,7 @@ def load_metadata(path: Path) -> list[dict]:
                 records.append(rec)
             return records
         return data
-    elif path.suffix.lower() == ".csv":
+    elif suffix == ".csv":
         with open(path, "r", encoding="utf-8", newline="") as f:
             return list(csv.DictReader(f))
     else:
@@ -103,10 +112,15 @@ def load_metadata(path: Path) -> list[dict]:
 
 
 def save_metadata(records: list[dict], path: Path) -> None:
-    if path.suffix.lower() == ".json":
+    suffix = path.suffix.lower()
+    if suffix == ".jsonl":
+        with open(path, "w", encoding="utf-8") as f:
+            for rec in records:
+                f.write(json.dumps(rec, ensure_ascii=False) + "\n")
+    elif suffix == ".json":
         with open(path, "w", encoding="utf-8") as f:
             json.dump(records, f, ensure_ascii=False, indent=2)
-    elif path.suffix.lower() == ".csv":
+    elif suffix == ".csv":
         # flatten segment lists to a JSON string so they survive CSV
         flat_records = []
         for rec in records:
@@ -126,8 +140,20 @@ def save_metadata(records: list[dict], path: Path) -> None:
 def resolve_audio_path(record: dict, audio_dir: Path, filename_col: str | None) -> Path | None:
     if filename_col and record.get(filename_col):
         p = audio_dir / record[filename_col]
-    else:
-        p = audio_dir / f"{record['track_id']}.mp3"
+        return p if p.exists() else None
+
+    track_id = record["track_id"]
+
+    # Plain flat layout: audio_dir/<track_id>.mp3
+    p = audio_dir / f"{track_id}.mp3"
+    if p.exists():
+        return p
+
+    # FMA-style nested layout: zero-pad the track_id to 6 digits, and file
+    # lives under a subfolder named after the first 3 digits, e.g. track_id
+    # 5241 -> "005241" -> data/fma_medium/005/005241.mp3
+    padded = str(track_id).zfill(6)
+    p = audio_dir / padded[:3] / f"{padded}.mp3"
     return p if p.exists() else None
 
 
