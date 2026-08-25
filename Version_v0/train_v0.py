@@ -24,7 +24,7 @@ OUTPUT_DIR = Path("models/v0_qwen3_4b")
 
 MAX_SEQ_LENGTH = 2048
 
-# Tiny first run.
+# First pipeline test
 NUM_EPOCHS = 1
 
 LEARNING_RATE = 2e-4
@@ -36,42 +36,69 @@ SEED = 42
 
 
 # ============================================================
+# Hardware check
+# ============================================================
+
+print("=" * 60)
+print("Hardware")
+print("=" * 60)
+
+print("CUDA available:", torch.cuda.is_available())
+
+if not torch.cuda.is_available():
+    raise RuntimeError("CUDA GPU is required for this training run.")
+
+print("GPU:", torch.cuda.get_device_name(0))
+
+gpu_memory = (
+    torch.cuda.get_device_properties(0).total_memory
+    / 1024**3
+)
+
+print(f"GPU memory: {gpu_memory:.2f} GB")
+
+
+# ============================================================
 # Load dataset
 # ============================================================
 
 dataset = load_dataset(
     "json",
     data_files={
-        "train": str(DATA_DIR / "train_output_transcription.jsonl"),
-        "validation": str(DATA_DIR / "val_output_transcription.jsonl"),
+        "train": str(
+            DATA_DIR / "train_output_transcription.jsonl"
+        ),
+        "validation": str(
+            DATA_DIR / "val_output_transcription.jsonl"
+        ),
     },
 )
 
+print("\nDataset:")
 print(dataset)
 
 
 # ============================================================
-# Convert our records into conversational examples
+# Format examples as conversations
 # ============================================================
 
 def format_example(example):
 
-    messages = [
-        {
-            "role": "user",
-            "content": (
-                "Write song lyrics based on the following request:\n\n"
-                + example["prompt"]
-            ),
-        },
-        {
-            "role": "assistant",
-            "content": example["lyrics"],
-        },
-    ]
-
     return {
-        "messages": messages
+        "messages": [
+            {
+                "role": "user",
+                "content": (
+                    "Write song lyrics based on the following "
+                    "request:\n\n"
+                    + example["prompt"]
+                ),
+            },
+            {
+                "role": "assistant",
+                "content": example["lyrics"],
+            },
+        ]
     }
 
 
@@ -80,6 +107,24 @@ dataset = dataset.map(
     remove_columns=dataset["train"].column_names,
 )
 
+# ============================================================
+# Tiny smoke test
+# ============================================================
+
+dataset["train"] = dataset["train"].select(
+    range(min(100, len(dataset["train"])))
+)
+
+dataset["validation"] = dataset["validation"].select(
+    range(min(20, len(dataset["validation"])))
+)
+
+print("\nSmoke-test dataset:")
+print(dataset)
+
+print("\nFormatted example:")
+print(dataset["train"][0])
+
 
 # ============================================================
 # Tokenizer
@@ -87,7 +132,6 @@ dataset = dataset.map(
 
 tokenizer = AutoTokenizer.from_pretrained(
     MODEL_NAME,
-    trust_remote_code=True,
 )
 
 if tokenizer.pad_token is None:
@@ -95,7 +139,7 @@ if tokenizer.pad_token is None:
 
 
 # ============================================================
-# Quantization
+# 4-bit QLoRA configuration
 # ============================================================
 
 bnb_config = BitsAndBytesConfig(
@@ -107,22 +151,23 @@ bnb_config = BitsAndBytesConfig(
 
 
 # ============================================================
-# Base model
+# Load base model
 # ============================================================
+
+print("\nLoading model...")
 
 model = AutoModelForCausalLM.from_pretrained(
     MODEL_NAME,
     quantization_config=bnb_config,
     device_map="auto",
     torch_dtype=torch.bfloat16,
-    trust_remote_code=True,
 )
 
 model.config.use_cache = False
 
 
 # ============================================================
-# LoRA
+# LoRA configuration
 # ============================================================
 
 peft_config = LoraConfig(
@@ -172,8 +217,6 @@ training_args = SFTConfig(
 
     bf16=True,
 
-    warmup_ratio=0.05,
-
     lr_scheduler_type="cosine",
 
     weight_decay=0.01,
@@ -212,7 +255,10 @@ trainer = SFTTrainer(
 # Train
 # ============================================================
 
-print("\nStarting V0 training...\n")
+print("\n")
+print("=" * 60)
+print("Starting V0 training")
+print("=" * 60)
 
 trainer.train()
 
@@ -224,8 +270,11 @@ trainer.train()
 print("\nSaving V0 adapter...")
 
 trainer.save_model(str(OUTPUT_DIR))
-
 tokenizer.save_pretrained(str(OUTPUT_DIR))
 
-print("\nTraining complete.")
-print(f"Model saved to: {OUTPUT_DIR}")
+print("\n")
+print("=" * 60)
+print("Training complete")
+print("=" * 60)
+
+print(f"Model adapter saved to: {OUTPUT_DIR}")
