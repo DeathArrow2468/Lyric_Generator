@@ -42,8 +42,8 @@ SEED = 42
 dataset = load_dataset(
     "json",
     data_files={
-        "train": str(DATA_DIR / "train.jsonl"),
-        "validation": str(DATA_DIR / "val.jsonl"),
+        "train": str(DATA_DIR / "train_output_transcription.jsonl"),
+        "validation": str(DATA_DIR / "val_output_transcription.jsonl"),
     },
 )
 
