@@ -1,0 +1,22 @@
+{
+  "split": "train_output_transcription",
+  "input_records": 8077,
+  "valid_records": 2456,
+  "rejected_records": 5621,
+  "rejection_reasons": {
+    "missing_lyrics": 3352,
+    "lyrics_too_short": 2269
+  },
+  "lyric_word_count": {
+    "min": 10,
+    "max": 224,
+    "mean": 40.59,
+    "median": 32.0
+  },
+  "prompt_word_count": {
+    "min": 27,
+    "max": 65,
+    "mean": 42.93,
+    "median": 43.0
+  }
+}

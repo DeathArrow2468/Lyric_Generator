@@ -1,0 +1,68 @@
+{
+  "val_output_transcription": {
+    "split": "val_output_transcription",
+    "input_records": 1009,
+    "valid_records": 241,
+    "rejected_records": 768,
+    "rejection_reasons": {
+      "missing_lyrics": 571,
+      "lyrics_too_short": 197
+    },
+    "lyric_word_count": {
+      "min": 10,
+      "max": 122,
+      "mean": 38.28,
+      "median": 30
+    },
+    "prompt_word_count": {
+      "min": 28,
+      "max": 59,
+      "mean": 42.17,
+      "median": 42
+    }
+  },
+  "train_output_transcription": {
+    "split": "train_output_transcription",
+    "input_records": 8077,
+    "valid_records": 2456,
+    "rejected_records": 5621,
+    "rejection_reasons": {
+      "missing_lyrics": 3352,
+      "lyrics_too_short": 2269
+    },
+    "lyric_word_count": {
+      "min": 10,
+      "max": 224,
+      "mean": 40.59,
+      "median": 32.0
+    },
+    "prompt_word_count": {
+      "min": 27,
+      "max": 65,
+      "mean": 42.93,
+      "median": 43.0
+    }
+  },
+  "test_output_transcription": {
+    "split": "test_output_transcription",
+    "input_records": 1011,
+    "valid_records": 107,
+    "rejected_records": 904,
+    "rejection_reasons": {
+      "lyrics_too_short": 134,
+      "missing_lyrics": 770
+    },
+    "lyric_word_count": {
+      "min": 10,
+      "max": 142,
+      "mean": 43,
+      "median": 32
+    },
+    "prompt_word_count": {
+      "min": 28,
+      "max": 63,
+      "mean": 43.43,
+      "median": 44
+    }
+  }
+}
