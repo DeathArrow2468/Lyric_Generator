@@ -7,7 +7,7 @@ from pathlib import Path
 # Annotation model
 # ============================================================
 
-ANNOTATION_MODEL = "qwen3:14b"
+ANNOTATION_MODEL = "qwen3:8b"
 
 
 # ============================================================
