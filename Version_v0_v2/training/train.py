@@ -12,7 +12,7 @@ from transformers import (
 from peft import LoraConfig
 from trl import SFTTrainer, SFTConfig
 
-from Version_v0_v2.config import (
+from config import (
     BASE_MODEL,
     V0_DATA_DIR,
     MODEL_OUTPUT_DIR,

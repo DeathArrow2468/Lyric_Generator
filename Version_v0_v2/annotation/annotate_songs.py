@@ -8,7 +8,7 @@ import time
 
 import ollama
 
-from Version_v0_v2.config import (
+from config import (
     ANNOTATION_MODEL,
     MASTER_CSV,
     ANNOTATED_JSONL,
