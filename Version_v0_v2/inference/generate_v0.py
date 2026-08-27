@@ -10,7 +10,7 @@ from transformers import (
 )
 from peft import PeftModel
 
-from config import (
+from Version_v0_v2.config import (
     BASE_MODEL,
     MODEL_OUTPUT_DIR,
     DEFAULT_MAX_NEW_TOKENS,
