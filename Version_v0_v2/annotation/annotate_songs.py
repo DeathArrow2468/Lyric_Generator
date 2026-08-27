@@ -139,7 +139,7 @@ Date: {row.get("Date", "")}
 
 Lyrics:
 
-{row.get("Lyrics", "")}
+{row.get("Lyric", "")}
 
 Create the structured JSON analysis described in the system
 instructions.
@@ -325,7 +325,7 @@ def main():
                 continue
 
             lyrics = (
-                row.get("Lyrics") or ""
+                row.get("Lyric") or ""
             ).strip()
 
             if not lyrics:
